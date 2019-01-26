@@ -120,74 +120,115 @@
     </string-array>
 
     <string-array name="names_of_Allah">
-        <item>1.Ar-Rahmaan ( الرَّحْمَنُ )
-            <sub>\n\nIf someone recites this name of Allah 1000 times daily, Allah will remove all doubts and uncertainties from your heart and impart determination and faith.</sub>
+        <item>1. Ar-Rahman ( الرَّحْمَنُ ) :  The Beneficent
+            <sub>\n\nExplanation : He who wills goodness and mercy for all His creatures.
+                \nBenefits : Who repeat this name 100 times after each fard (Obligatory) prayer will have a good memory, a keen awareness, and be free of a heavy heart.</sub>
         </item>
-        <item>2. Ar-Rahman:
-            <sub></sub>
+        <item>2. Ar-Raheem ( الرَّحِيمُ ) : The Merciful
+            <sub>\n\nExplanation : He who acts with extreme kindness.
+                \nBenefits : Who repeats this name 100 times after each Fajr prayer will find everyone to be friendly towards him and he will be safe from all worldly calamities.</sub>
         </item>
-        <item>3. Ar-Rahim</item>
-        <item>4. Al- Malik</item>
-        <item>5. Al-Quddus</item>
-        <item>6. As-Salam</item>
-        <item>7. Al- Mumin</item>
-        <item>8. Al- Muhaymin</item>
-        <item>9. Al- Aziz</item>
-        <item>10. Al- Jabbar</item>
-        <item>11. Al-Mutakabbir</item>
-        <item>12. Al-Khaliq</item>
-        <item>13. Al-Bari</item>
-        <item>14. Al-Musawwir</item>
-        <item>15. Al-Gaffar</item>
+        <item>3. Al-Malik ( الْمَلِكُ ) : The Eternal Lord
+            <sub>\n\nExplanation : The Sovereign Lord, The One with the complete Dominion, the One Whose Dominion is clear from imperfection.
+                \nBenefits : He who repeats this name many times every day after the Fajr prayer will become rich by the grace of Allah.</sub>
+        </item>
+        <item>4. Al-Quddus ( الْقُدُّوسُ ) : The Most Sacred
+            <sub>\n\nExplanation : The One who is pure from any imperfection and clear from children and adversaries.
+                \nBenefits : Agitation never comes close if someone recites it 100 times every day.</sub>
+        </item>
+        <item>5. As-Salam ( السَّلاَمُ ) : The Embodiment of Peace
+            <sub>\n\nExplanation : The One who is free from every imperfection.
+                \nBenefits : He, who repeats this name 160 times to a sick person, will help him to regain  He who repeats this name frequently will be safe from all calamities.</sub>
+        </item>
+        <item>6. Al-Mu`min ( الْمُؤْمِنُ ) : The Infuser of Faith
+            <sub>\n\nExplanation : The One who witnessed for Himself that no one is God but Him. And He witnessed for His believers that they are truthful in their belief that no one is God but Him.
+                \nBenefits : Who repeats this name 631 times will be safe from harm.</sub>
+        </item>
+        <item>7. Al-Muhaymin ( الْمُهَيْمِنُ ) : The Preserver of Safety
+            <sub>\n\nExplanation : The One who witnesses the saying and deeds of His creatures.
+                \nBenefits : He who takes bath and offers two rakats of prayer and repeats this Name 100 times with sincere concentration, Allah will purify his external as well as internal condition.</sub>
+        </item>
+        <item>8. Al-Aziz ( الْعَزِيزُ ) : The Mighty One
+            <sub>\n\nExplanation : The Strong, The Defeater who is not defeated.
+                \nBenefits : He who repeats this Name 41 times after each Fard prayer will be independent of need from others and gain honor after disgrace.</sub>
+        </item>
+        <item>9. Al-Jabbar ( الْجَبَّارُ ) : The Omnipotent One
+            <sub>\n\nExplanation : The One that nothing happens in His Dominion except that which He willed.
+                \nBenefits : He who repeats this Name will not be compelled to do anything against his wishes, and will not be exposed to violence, severity or hardness.</sub>
+        </item>
+        <item>10. Al-Mutakabbir ( الْمُتَكَبِّرُ ) : The Dominant One
+            <sub>\n\nExplanation : The One who is clear from the attributes of the creatures and from resembling them.
+                \nBenefits : He who repeats this Name frequently will be granted status and respect. If He repeats this Name frequently at the commencement of every act, He will achieve success by the grace of Allah.</sub>
+        </item>
+        <item>11. Al-Khaaliq ( الْخَالِقُ ) : The Creator
+            <sub>\n\nExplanation : The One who brings everything from non-existence to existence.
+                \\nBenefits : Allah will assign an angel to guide the person righteously if he recites this name 100 times continuously for a prescribed limit of 7 days.</sub>
+        </item>
+        <item>12. Al-Baari ( الْبَارِئُ ) : The Evolver
+            <sub>\n\nExplanation : The Maker, The Creator who has the Power to turn the entities.
+                \nBenefits : This name only signifies that Allah created all things in proportion.</sub>
+        </item>
+        <item>13. Al-Musawwir ( الْمُصَوِّرُ ) : The Flawless Shaper
+            <sub>\n\nExplanation : The One who forms His creatures in different pictures.
+                \nBenefits : Recite this name 21 times and do a Damm on water. Continue this for 7 consecutive days. Use the water for breaking the fast. Insha’Allah, the women will soon be blessed with a child.</sub>
+        </item>
+        <item>14. Al-Ghaffaar ( الْغَفَّارُ ) : The Great Forgiver
+            <sub>\n\nExplanation : The Forgiver, The One who forgives the sins of His slaves time and time again.
+                \nBenefits : He who repeats this Name will be forgiven his sins.</sub>
+        </item>
+        <item>15. Al-Qahhaar ( الْقَهَّارُ ) : The All-Prevailing One
+            <sub>\n\nExplanation : The Dominant, The One who has the perfect Power and is not unable over anything.
+                \nBenefits: The soul of him who repeats this Name will conquer the desires of the flesh, and his heart will be made free from the attractions of the world and gain inner peace. This Name also frees one from being wronged.</sub>
+        </item>
         <item>16. Al-Qahhar</item>
         <item>17. Al-Wahhab</item>
         <item>18. Ar-Razzaq</item>
         <item>19. Al-Fattah</item>
         <item>20. Al-Alim</item>
-        <item>8. Al-Qabid</item>
-        <item>8. Al-Basit</item>
-        <item>8. Al-Khafid</item>
-        <item>8. Ar-Rafi</item>
-        <item>8. Al-Muizz</item>
-        <item>8. Al-Mudhill</item>
-        <item>8. As-Sami</item>
-        <item>8. Al-Bashir</item>
-        <item>8. Al-Hakam</item>
-        <item>8. Al-Adl</item>
-        <item>8. Al-Khabir</item>
-        <item>8. Al-Halim</item>
-        <item>8. Al-Azim</item>
-        <item>8. Al-Ghafur</item>
-        <item>8. Ash-Shakur</item>
-        <item>8. Al-Ali</item>
-        <item>8. Al-Kabir</item>
-        <item>8. Al-Hafiz</item>
-        <item>8. Al-Muqit</item>
-        <item>8. Al-Hasib</item>
-        <item>8. Al-Jalil</item>
-        <item>8. Al-Karim</item>
-        <item>8. Al-Raqib</item>
-        <item>8. Al-Mujib</item>
-        <item>8. Al-Wasi</item>
-        <item>8. Al-Hakim</item>
-        <item>8. Al-Wadud</item>
-        <item>8. Al-Majid</item>
-        <item>8. Al-Baith</item>
-        <item>8. Ash-Shahid</item>
-        <item>8. Al-Haqq</item>
-        <item>8. Al-Wakil</item>
-        <item>8. Al-Qawi</item>
-        <item>8. Al-Matin</item>
-        <item>8. Al-Wali</item>
-        <item>8. Al-Hamid</item>
-        <item>8. Al-Muhsi</item>
-        <item>8. Al-Mubdi</item>
-        <item>8. Al-Muid</item>
-        <item>8. Al-Muhyi</item>
-        <item>8. Al-Mumit</item>
-        <item>8. Al-Hayy</item>
-        <item>8. Al-Qayyum</item>
-        <item>8. Al-Wajid</item>
-        <item>8. Al-Majid</item>
+        <item>21. Al-Qabid</item>
+        <item>22. Al-Basit</item>
+        <item>23. Al-Khafid</item>
+        <item>24. Ar-Rafi</item>
+        <item>25. Al-Muizz</item>
+        <item>26. Al-Mudhill</item>
+        <item>27. As-Sami</item>
+        <item>28. Al-Bashir</item>
+        <item>29. Al-Hakam</item>
+        <item>30. Al-Adl</item>
+        <item>31. Al-Khabir</item>
+        <item>32. Al-Halim</item>
+        <item>33. Al-Azim</item>
+        <item>34. Al-Ghafur</item>
+        <item>35. Ash-Shakur</item>
+        <item>36. Al-Ali</item>
+        <item>37. Al-Kabir</item>
+        <item>38. Al-Hafiz</item>
+        <item>39. Al-Muqit</item>
+        <item>40. Al-Hasib</item>
+        <item>41. Al-Jalil</item>
+        <item>42. Al-Karim</item>
+        <item>43. Al-Raqib</item>
+        <item>44. Al-Mujib</item>
+        <item>45. Al-Wasi</item>
+        <item>46. Al-Hakim</item>
+        <item>47. Al-Wadud</item>
+        <item>48. Al-Majid</item>
+        <item>49. Al-Baith</item>
+        <item>50. Ash-Shahid</item>
+        <item>51. Al-Haqq</item>
+        <item>52. Al-Wakil</item>
+        <item>53. Al-Qawi</item>
+        <item>54. Al-Matin</item>
+        <item>55. Al-Wali</item>
+        <item>56. Al-Hamid</item>
+        <item>57. Al-Muhsi</item>
+        <item>58. Al-Mubdi</item>
+        <item>59. Al-Muid</item>
+        <item>60. Al-Muhyi</item>
+        <item>61. Al-Mumit</item>
+        <item>62. Al-Hayy</item>
+        <item>63. Al-Qayyum</item>
+        <item>64. Al-Wajid</item>
+        <item>65. Al-Majid</item>
     </string-array>
 </resources>

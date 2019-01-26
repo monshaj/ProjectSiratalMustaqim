@@ -15,7 +15,7 @@
             android:textColor="#ffff"
             android:textStyle="bold"
             android:padding="7dp"
-            android:textSize="25dp"
+            android:textSize="20dp"
             android:text="Names"/>
 
     </ScrollView>
