@@ -118,4 +118,76 @@
         <item>114. An-Nas</item>
 
     </string-array>
+
+    <string-array name="names_of_Allah">
+        <item>1.Ar-Rahmaan ( الرَّحْمَنُ )
+            <sub>\n\nIf someone recites this name of Allah 1000 times daily, Allah will remove all doubts and uncertainties from your heart and impart determination and faith.</sub>
+        </item>
+        <item>2. Ar-Rahman:
+            <sub></sub>
+        </item>
+        <item>3. Ar-Rahim</item>
+        <item>4. Al- Malik</item>
+        <item>5. Al-Quddus</item>
+        <item>6. As-Salam</item>
+        <item>7. Al- Mumin</item>
+        <item>8. Al- Muhaymin</item>
+        <item>9. Al- Aziz</item>
+        <item>10. Al- Jabbar</item>
+        <item>11. Al-Mutakabbir</item>
+        <item>12. Al-Khaliq</item>
+        <item>13. Al-Bari</item>
+        <item>14. Al-Musawwir</item>
+        <item>15. Al-Gaffar</item>
+        <item>16. Al-Qahhar</item>
+        <item>17. Al-Wahhab</item>
+        <item>18. Ar-Razzaq</item>
+        <item>19. Al-Fattah</item>
+        <item>20. Al-Alim</item>
+        <item>8. Al-Qabid</item>
+        <item>8. Al-Basit</item>
+        <item>8. Al-Khafid</item>
+        <item>8. Ar-Rafi</item>
+        <item>8. Al-Muizz</item>
+        <item>8. Al-Mudhill</item>
+        <item>8. As-Sami</item>
+        <item>8. Al-Bashir</item>
+        <item>8. Al-Hakam</item>
+        <item>8. Al-Adl</item>
+        <item>8. Al-Khabir</item>
+        <item>8. Al-Halim</item>
+        <item>8. Al-Azim</item>
+        <item>8. Al-Ghafur</item>
+        <item>8. Ash-Shakur</item>
+        <item>8. Al-Ali</item>
+        <item>8. Al-Kabir</item>
+        <item>8. Al-Hafiz</item>
+        <item>8. Al-Muqit</item>
+        <item>8. Al-Hasib</item>
+        <item>8. Al-Jalil</item>
+        <item>8. Al-Karim</item>
+        <item>8. Al-Raqib</item>
+        <item>8. Al-Mujib</item>
+        <item>8. Al-Wasi</item>
+        <item>8. Al-Hakim</item>
+        <item>8. Al-Wadud</item>
+        <item>8. Al-Majid</item>
+        <item>8. Al-Baith</item>
+        <item>8. Ash-Shahid</item>
+        <item>8. Al-Haqq</item>
+        <item>8. Al-Wakil</item>
+        <item>8. Al-Qawi</item>
+        <item>8. Al-Matin</item>
+        <item>8. Al-Wali</item>
+        <item>8. Al-Hamid</item>
+        <item>8. Al-Muhsi</item>
+        <item>8. Al-Mubdi</item>
+        <item>8. Al-Muid</item>
+        <item>8. Al-Muhyi</item>
+        <item>8. Al-Mumit</item>
+        <item>8. Al-Hayy</item>
+        <item>8. Al-Qayyum</item>
+        <item>8. Al-Wajid</item>
+        <item>8. Al-Majid</item>
+    </string-array>
 </resources>

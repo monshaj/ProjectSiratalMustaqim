@@ -5,13 +5,22 @@ import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.MenuItem;
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
 
 public class Names_of_Allah extends AppCompatActivity {
+    ListView nameListView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_names_of__allah);
+
+        nameListView = findViewById(R.id.NameListViewId);
+        final String[] allahsNames = getResources().getStringArray(R.array.names_of_Allah);
+
+        ArrayAdapter<String> adapter= new ArrayAdapter<String>(this,R.layout.allahs_names_list,R.id.allahsNamesListId,allahsNames);
+        nameListView.setAdapter(adapter);
 
         // for inserting back arrow
         ActionBar actionBar = getSupportActionBar();
