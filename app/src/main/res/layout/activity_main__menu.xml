@@ -18,7 +18,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginStart="21dp"
         android:layout_marginTop="30dp"
-        android:text="99 Names of Allah"
+        android:text="Names of Allah"
         android:textStyle="bold"/>
 
     <Button

@@ -50,11 +50,6 @@ public class Main_Menu extends AppCompatActivity {
     //For coming back to Home
     @Override
     public void onBackPressed() {
-//        Intent intent = new Intent(Intent.ACTION_MAIN);
-//        intent.addCategory(Intent.CATEGORY_HOME);
-//        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-//        startActivity(intent);
-
         Intent intent= new Intent(Main_Menu.this,Home_Page.class);
         startActivity(intent);
     }

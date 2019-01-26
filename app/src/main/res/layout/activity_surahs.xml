@@ -9,6 +9,8 @@
 
     <ListView
         android:layout_width="match_parent"
+        android:dividerHeight="3dp"
+        android:divider="#FF30163D"
         android:layout_height="match_parent"
         android:id="@+id/SurahListViewId">
     </ListView>

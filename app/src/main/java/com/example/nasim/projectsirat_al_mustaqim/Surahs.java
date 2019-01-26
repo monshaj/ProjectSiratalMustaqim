@@ -69,11 +69,6 @@ public class Surahs extends AppCompatActivity {
     //For coming back to Main_Menu
     @Override
     public void onBackPressed() {
-//        Intent intent = new Intent(Intent.ACTION_MAIN);
-//        intent.addCategory(Intent.CATEGORY_HOME);
-//        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-//        startActivity(intent);
-
         Intent intent= new Intent(Surahs.this,Main_Menu.class);
         startActivity(intent);
     }
