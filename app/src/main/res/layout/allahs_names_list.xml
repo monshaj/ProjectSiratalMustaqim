@@ -16,7 +16,9 @@
             android:textStyle="bold"
             android:padding="7dp"
             android:textSize="20dp"
-            android:text="Names"/>
+            android:text="Names"
+            android:textIsSelectable="true"
+            android:gravity="center"/>
 
     </ScrollView>
 
