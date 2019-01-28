@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Zakat"
+    android:layout_margin="57dp">
+
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Gold"
+    android:id="@+id/gold"
+        android:textSize="20dp"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/goldInput"
+        android:hint="Amount in Bori"
+        android:layout_below="@id/gold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Money"
+        android:id="@+id/tk"
+        android:layout_below="@id/goldInput"
+        android:textSize="20dp"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tkInput"
+        android:hint="Amount in money"
+        android:layout_below="@id/tk"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Silver"
+        android:id="@+id/silver"
+        android:layout_below="@id/tkInput"
+        android:textSize="20dp"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/silverInput"
+        android:hint="Amount in Bori"
+        android:layout_below="@id/silver"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/silverInput"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:text="Submit"
+        android:layout_marginTop="9dp"
+        android:id="@+id/submit"/>
+
+</RelativeLayout>

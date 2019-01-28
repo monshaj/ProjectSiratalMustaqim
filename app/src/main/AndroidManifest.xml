@@ -19,13 +19,8 @@
         <activity android:name=".Main_Menu" />
         <activity android:name=".Surahs" />
         <activity android:name=".Names_of_Allah" />
-        <activity android:name=".Al_Fatiha" />
-        <activity android:name=".Al_Baqarah" />
-        <activity android:name=".Al_Imran" />
-        <activity android:name=".An_Nisa" />
-        <activity android:name=".Al_Maidah" />
-        <activity android:name=".Al_Anam" />
-        <activity android:name=".Ayat"></activity>
+        <activity android:name=".Ayat" />
+        <activity android:name=".Zakat"></activity>
     </application>
 
 </manifest>

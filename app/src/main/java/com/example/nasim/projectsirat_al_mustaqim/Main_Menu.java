@@ -14,7 +14,7 @@ public class Main_Menu extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main__menu);
+        setContentView(R.layout.activity_main_menue);
 
         btnnames = findViewById(R.id.btnnames);
         btnmosques = findViewById(R.id.btnmosques);
@@ -36,6 +36,13 @@ public class Main_Menu extends AppCompatActivity {
             public void onClick(View view) {
                 Intent intent = new Intent(Main_Menu.this,Surahs.class);
                 startActivity(intent);
+            }
+        });
+
+        btnzakat.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(Main_Menu.this,Zakat.class));
             }
         });
 
