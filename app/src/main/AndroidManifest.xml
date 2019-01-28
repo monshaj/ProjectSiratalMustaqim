@@ -24,7 +24,8 @@
         <activity android:name=".Al_Imran" />
         <activity android:name=".An_Nisa" />
         <activity android:name=".Al_Maidah" />
-        <activity android:name=".Al_Anam"></activity>
+        <activity android:name=".Al_Anam" />
+        <activity android:name=".Ayat"></activity>
     </application>
 
 </manifest>

@@ -10,8 +10,11 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
+import java.util.ArrayList;
+
 public class Surahs extends AppCompatActivity {
     ListView surahListView;
+    ArrayList<String> surahs;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -19,43 +22,39 @@ public class Surahs extends AppCompatActivity {
         setContentView(R.layout.activity_surahs);
 
         surahListView = findViewById(R.id.SurahListViewId);
-        final String[] surahNames = getResources().getStringArray(R.array.surah_names);
+        surahs = new ArrayList<String>();
+        //Add all surah name here
+        surahs.add("Fatiha");
+        surahs.add("Bakarah");
+        surahs.add("Fatiha");
+        surahs.add("Fatiha");
+        surahs.add("Fatiha");
+        surahs.add("Fatiha");
 
-        ArrayAdapter<String> adapter= new ArrayAdapter<String>(this,R.layout.sample_surah_names_list,R.id.sampleSurahNamesId,surahNames);
+        ListViewAdapter adapter = new ListViewAdapter(this,surahs);
         surahListView.setAdapter(adapter);
 
         surahListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-                String value = surahNames[i];
+                String surahName = "";
 
-                if (i==0)
+                if(i == 0)
                 {
-                    Intent intent = new Intent(getApplicationContext(),Al_Fatiha.class);
-                    startActivity(intent);
+                    surahName = "Fatiha";
                 }
-                if (i==1)
+                else if(i == 1)
                 {
-                    Intent intent = new Intent(getApplicationContext(),Al_Baqarah.class);
-                    startActivity(intent);
+                    surahName = "Bakarah";
                 }
-                if (i==2)
-                {
-                    Intent intent = new Intent(getApplicationContext(),Al_Imran.class);
-                    startActivity(intent);
-                }
-                if (i==3)
-                {
-                    Intent intent = new Intent(getApplicationContext(),An_Nisa.class);
-                    startActivity(intent);
-                }
-                if (i==4)
-                {
-                    Intent intent = new Intent(getApplicationContext(),Al_Maidah.class);
-                    startActivity(intent);
-                }
+
+
+                Intent intent = new Intent(Surahs.this,Ayat.class);
+                intent.putExtra("Surah",surahName);
+                startActivity(intent);
             }
         });
+
 
         // for inserting back arrow
         ActionBar actionBar = getSupportActionBar();
