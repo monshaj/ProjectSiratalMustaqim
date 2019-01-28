@@ -6,14 +6,20 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Zakat"
-    android:layout_margin="57dp">
+    android:layout_margin="65dp"
+   >
+
 
     <TextView
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:text="Gold"
     android:id="@+id/gold"
-        android:textSize="20dp"/>
+        android:textSize="25dp"
+        android:textColor="#D4AF37"
+        android:textStyle="bold"
+        android:textAllCaps="true"
+        android:textColorHighlight="#C5B358"/>
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -26,7 +32,11 @@
         android:text="Money"
         android:id="@+id/tk"
         android:layout_below="@id/goldInput"
-        android:textSize="20dp"/>
+        android:textSize="25dp"
+        android:textColor="#0b8f2c"
+        android:textStyle="bold"
+        android:textAllCaps="true"
+        android:textColorHighlight="#2d8b44"/>
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -39,21 +49,41 @@
         android:text="Silver"
         android:id="@+id/silver"
         android:layout_below="@id/tkInput"
-        android:textSize="20dp"/>
+        android:textSize="25dp"
+        android:textColor="#838383"
+        android:textStyle="bold"
+        android:textAllCaps="true"
+        android:textColorHighlight="#808080"/>
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/silverInput"
         android:hint="Amount in Bori"
         android:layout_below="@id/silver"/>
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/silverInput"
-        android:gravity="center"
+
+    <com.spark.submitbutton.SubmitButton
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/silverInput"
         android:layout_centerHorizontal="true"
         android:text="Submit"
-        android:layout_marginTop="9dp"
-        android:id="@+id/submit"/>
+        android:textColor="@color/gray"
+        app:sub_btn_background="@color/white"
+        app:sub_btn_duration="3000"
+        app:sub_btn_line_color="#2c8b41"
+        app:sub_btn_ripple_color="#2c8b41"
+        app:sub_btn_tick_color="@color/white"
+        android:id="@+id/submit"
+        android:textAllCaps="true"/>
+
+    <!--<Button-->
+        <!--android:id="@+id/submit"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:layout_marginBottom="112dp"-->
+        <!--android:gravity="center"-->
+        <!--android:text="Submit" />-->
 
 </RelativeLayout>

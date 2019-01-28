@@ -11,9 +11,11 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
+import com.spark.submitbutton.SubmitButton;
+
 public class Zakat extends AppCompatActivity {
     EditText gold, money, silver;
-    Button submit;
+    SubmitButton submit;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

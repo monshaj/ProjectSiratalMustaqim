@@ -32,7 +32,7 @@ public class Ayat extends AppCompatActivity {
         }
 
 
-        if(surahName.equals("Fatiha"))
+        if(surahName.equals("1. Al_Fatihah"))
         {
             setTitle("Surah Fatiha");
             ayat.add("1\n" +
@@ -92,9 +92,558 @@ public class Ayat extends AppCompatActivity {
                     "nor are astray.4");
 
         }
-        else if(surahName.equals("Bakarah"))
+        else if(surahName.equals("2. Al_Baqarah"))
         {
-            ayat.add("B 1");
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("2\n" +
+                    "ذٰلِكَ الكِتابُ لا رَيبَ ۛ فيهِ ۛ هُدًى لِلمُتَّقينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "dhālika l-kitābu lā rayba fīhi hudan li-l-muttaqīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "This is the Book,1 there is no doubt in it,\n" +
+                    "a guidance to the Godwary,2");
+            ayat.add("3\n" +
+                    "الَّذينَ يُؤمِنونَ بِالغَيبِ وَيُقيمونَ الصَّلاةَ وَمِمّا رَزَقناهُم يُنفِقونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "alladhīna yuʾminūna bi-l-ghaybi wa-yuqīmūna ṣ-ṣalāta wa-mimmā razaqnāhum yunfiqūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "who believe in the Unseen,\n" +
+                    "and maintain the prayer,\n" +
+                    "and spend1 out of what We have provided for them;");
+            ayat.add("4\n" +
+                    "وَالَّذينَ يُؤمِنونَ بِما أُنزِلَ إِلَيكَ وَما أُنزِلَ مِن قَبلِكَ وَبِالآخِرَةِ هُم يوقِنونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-lladhīna yuʾminūna bi-mā ʾunzila ʾilayka wa-mā ʾunzila min qablika wa-bi-l-ʾākhirati hum yūqinūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and who believe in what has been sent down to you1\n" +
+                    "and what was sent down before you,\n" +
+                    "and are certain of the Hereafter.");
+            ayat.add("5\n" +
+                    "أُولٰئِكَ عَلىٰ هُدًى مِن رَبِّهِم ۖ وَأُولٰئِكَ هُمُ المُفلِحونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾulāʾika ʿalā hudan min rabbihim wa-ʾulāʾika humu l-mufliḥūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Those follow their Lord’s guidance,\n" +
+                    "and it is they who are the felicitous.");
+            ayat.add("B 6");
+            ayat.add("B 6");
+            ayat.add("B 6");
+            ayat.add("B 6");
+            ayat.add("B 6");
+            ayat.add("B 6");
+            ayat.add("B 6");
+            ayat.add("B 6");
+            ayat.add("B 6");
+        }
+        else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
+            ayat.add("B 2");
+            ayat.add("B 3");
+            ayat.add("B 4");
+            ayat.add("B 5");
+            ayat.add("B 6");
+        }else if(surahName.equals("2. Al_Baqarah"))
+        {
+            ayat.add("1\n" +
+                    "الم\n" +
+                    "TRANSLITERATION\n" +
+                    "a-l-m (ʾalif lām mīm)\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Alif, Lām, Mīm.");
             ayat.add("B 2");
             ayat.add("B 3");
             ayat.add("B 4");
@@ -128,7 +677,7 @@ public class Ayat extends AppCompatActivity {
     //For coming back to Main_Menu
     @Override
     public void onBackPressed() {
-        Intent intent= new Intent(Ayat.this,Main_Menu.class);
+        Intent intent= new Intent(Ayat.this,Surahs.class);
         startActivity(intent);
     }
 

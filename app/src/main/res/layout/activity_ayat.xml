@@ -5,7 +5,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Ayat">
+    tools:context=".Ayat"
+    android:background="@drawable/ayat">
     <TextView
         android:layout_width="match_parent"
         android:layout_height="49dp"
