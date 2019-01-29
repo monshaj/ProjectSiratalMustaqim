@@ -15,6 +15,7 @@ public class Names_of_Allah extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_names_of__allah);
+        setTitle("Names of Allah");
 
         nameListView = findViewById(R.id.NameListViewId);
         final String[] allahsNames = getResources().getStringArray(R.array.names_of_Allah);

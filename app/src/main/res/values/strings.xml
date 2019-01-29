@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Sirat-al-Mustaqim</string>
     <string name="banner_ad_unit_id">ca-app-pub-2058824109529879/6308030941</string>
-    <string name="text_v">Tasbeeh Counter</string>
+    <string name="text_v">Tasbih Counter</string>
 
     <string-array name="surah_names">
         <item>1. Al-Fatihah</item>

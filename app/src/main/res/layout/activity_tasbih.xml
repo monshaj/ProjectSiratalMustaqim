@@ -5,7 +5,8 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.example.nasim.projectsirat_al_mustaqim.tasbih"
-    android:background="@drawable/bg">
+    android:background="@drawable/bg2"
+    >
 
 
 
@@ -91,6 +92,8 @@
         </LinearLayout>
 
     </LinearLayout>
+
+
 
 
 </LinearLayout>

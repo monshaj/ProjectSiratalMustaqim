@@ -92,7 +92,8 @@ public class tasbih extends AppCompatActivity {
     }
     @Override
     public void onBackPressed() {
-        startActivity(new Intent(tasbih.this,Main_Menu.class));
+        Intent intent= new Intent(tasbih.this,Main_Menu.class);
+        startActivity(intent);
     }
 
     @Override
