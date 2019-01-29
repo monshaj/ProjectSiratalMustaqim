@@ -45,6 +45,12 @@ public class Main_Menu extends AppCompatActivity {
                 startActivity(new Intent(Main_Menu.this,Zakat.class));
             }
         });
+        btntasbih.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(Main_Menu.this,tasbih.class));
+            }
+        });
 
         // For inserting back arrow
 //        ActionBar actionBar = getSupportActionBar();

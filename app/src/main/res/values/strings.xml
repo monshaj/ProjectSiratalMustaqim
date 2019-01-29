@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Sirat-al-Mustaqim</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2058824109529879/6308030941</string>
+    <string name="text_v">Tasbeeh Counter</string>
 
     <string-array name="surah_names">
         <item>1. Al-Fatihah</item>
@@ -517,6 +519,10 @@
             <sub>\n\nExplanation : The Patient, The One who does not quickly punish the sinners.
                 \n\nBenefit : He, who is in any trouble, difficulty or sorrow and repeat this name 3000 times, will be rescued from his difficulty.</sub>
         </item>
+
+
+
+
 
     </string-array>
 </resources>
