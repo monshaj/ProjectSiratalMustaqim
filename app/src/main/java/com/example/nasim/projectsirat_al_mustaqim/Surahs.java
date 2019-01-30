@@ -17,17 +17,6 @@ public class Surahs extends AppCompatActivity {
     ListView surahListView;
     ArrayList<String> surahs;
 
-
-
-
-
-
-
-
-
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
