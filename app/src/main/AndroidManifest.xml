@@ -3,6 +3,7 @@
     package="com.example.nasim.projectsirat_al_mustaqim">
 
     <uses-permission android:name="android.permission.VIBRATE" />
+
     <application
         android:allowBackup="true"
         android:icon="@drawable/siratallllt"
@@ -22,7 +23,7 @@
         <activity android:name=".Names_of_Allah" />
         <activity android:name=".Ayat" />
         <activity android:name=".Zakat" />
-        <activity android:name=".tasbih"></activity>
+        <activity android:name=".tasbih" />
     </application>
 
 </manifest>

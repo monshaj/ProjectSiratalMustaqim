@@ -135,8 +135,25 @@ public class Ayat extends AppCompatActivity {
                     "TRANSLATION\n" +
                     "Those follow their Lord’s guidance,\n" +
                     "and it is they who are the felicitous.");
-            ayat.add("B 6");
-            ayat.add("B 6");
+            ayat.add("6\n" +
+                    "إِنَّ الَّذينَ كَفَروا سَواءٌ عَلَيهِم أَأَنذَرتَهُم أَم لَم تُنذِرهُم لا يُؤمِنونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinna lladhīna kafarū sawāʾun ʿalayhim ʾa-ʾandhartahum ʾam lam tundhirhum lā yuʾminūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "As for the faithless, it is the same to them\n" +
+                    "whether you warn them or do not warn them,\n" +
+                    "they will not have faith.");
+            ayat.add("7\n" +
+                    "خَتَمَ اللَّهُ عَلىٰ قُلوبِهِم وَعَلىٰ سَمعِهِم ۖ وَعَلىٰ أَبصارِهِم غِشاوَةٌ ۖ وَلَهُم عَذابٌ عَظيمٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "khatama llāhu ʿalā qulūbihim wa-ʿalā samʿihim wa-ʿalā ʾabṣārihim ghishāwatun wa-lahum ʿadhābun ʿaẓīmun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Allah has set a seal on their hearts\n" +
+                    "and their hearing,\n" +
+                    "and there is a blindfold on their sight,1\n" +
+                    "and there is a great punishment for them.");
             ayat.add("B 6");
             ayat.add("B 6");
             ayat.add("B 6");

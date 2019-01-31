@@ -34,7 +34,12 @@
                     android:id="@+id/btnnames"
                     android:background="@drawable/allah"
                     />
+
+
+
             </android.support.v7.widget.CardView>
+
+
 
 
         </LinearLayout>
