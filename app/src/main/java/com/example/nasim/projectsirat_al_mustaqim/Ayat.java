@@ -28,7 +28,7 @@ public class Ayat extends AppCompatActivity {
         if(b != null)
         {
             surahName = b.getString("Surah");
-            Toast.makeText(this, "You pressed on Surah "+surahName, Toast.LENGTH_SHORT).show();
+          //Toast.makeText(this, "You pressed on Surah "+surahName, Toast.LENGTH_SHORT).show();
         }
 
 

@@ -12,137 +12,162 @@ import android.widget.ListView;
 import android.widget.SearchView;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 
 public class Surahs extends AppCompatActivity {
     ListView surahListView;
     ArrayList<String> surahs;
+    SearchView searchView;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_surahs);
 
+        searchView = findViewById(R.id.seachViewId);
         surahListView = findViewById(R.id.SurahListViewId);
-        surahs = new ArrayList<String>();
+        String[] test = getResources().getStringArray(R.array.surah_names);
+        surahs = new ArrayList<String>(Arrays.asList(test));
+      //  surahs.clear();
+
+       // surahs = new ArrayList<String>();
+
+
         //Add all surah name here
-        surahs.add("1. Al_Fatihah");
-        surahs.add("2. Al_Baqarah");
-        surahs.add("3. Al_Imran");
-        surahs.add("4. An_Nisa");
-        surahs.add("5. Al_Ma`idah");
-        surahs.add("6. Al_An`am");
-        surahs.add("7. Al_A`raf");
-        surahs.add("8. Al_Anfal");
-        surahs.add("9. At_Tawbah");
-        surahs.add("10. Yunus");
-        surahs.add("11. Hud");
-        surahs.add("12. Yusuf");
-        surahs.add("13. Ar_Ra`d");
-        surahs.add("14. Ibraheem");
-        surahs.add("15. Al_Hijr");
-        surahs.add("16. An_Nahl");
-        surahs.add("17. Al_Isra");
-        surahs.add("18. Al_Kahf");
-        surahs.add("19. Maryam");
-        surahs.add("20. Ta_Ha");
-        surahs.add("21. Al_Anbiya");
-        surahs.add("22. Al_Hajj");
-        surahs.add("23. Al_Mu`minoon");
-        surahs.add("24. An_Noor");
-        surahs.add("25. Al_Furqan");
-        surahs.add("26. Ash_Shu`ara");
-        surahs.add("27. An_Naml");
-        surahs.add("28. Al_Qasas");
-        surahs.add("29. Al_`Ankabut");
-        surahs.add("30. Ar_Rum");
-        surahs.add("31. Luqman");
-        surahs.add("32. As_Sajdah");
-        surahs.add("33. Al_Ahzab");
-        surahs.add("34. Saba");
-        surahs.add("35. Fatir");
-        surahs.add("36. Ya seen");
-        surahs.add("37. As_Saffat");
-        surahs.add("38. Saad");
-        surahs.add("39. Az_Zumar");
-        surahs.add("40. Ghafir");
-        surahs.add("41. Fussilat");
-        surahs.add("42. Ash_Shura");
-        surahs.add("43. Az_Zukhruf");
-        surahs.add("44. Ad_Dukhan");
-        surahs.add("45. Al_Jathiyah");
-        surahs.add("46. Al_Ahqaf");
-        surahs.add("47. Muhammad");
-        surahs.add("48. Al_Fath");
-        surahs.add("49. Al_Hujurat");
-        surahs.add("50. Qaf");
-        surahs.add("51. Ad_Dhariyat");
-        surahs.add("52. At_Tur");
-        surahs.add("53. An_Najm");
-        surahs.add("54. Al_Qamar");
-        surahs.add("55. Ar_Rahman");
-        surahs.add("56. Al_Waqi`ah");
-        surahs.add("57. Al_Hadeed");
-        surahs.add("58. Al_Mujadilah");
-        surahs.add("59. Al_Hashr");
-        surahs.add("60. Al_Mumtahina");
-        surahs.add("61. As_Saff");
-        surahs.add("62. Al_Jumu`ah");
-        surahs.add("63. Al_Munafiqun");
-        surahs.add("64. At_Taghabun");
-        surahs.add("65. At_Talaq");
-        surahs.add("66. At_Tahreem");
-        surahs.add("67. Al_Mulk");
-        surahs.add("68. Al_Qalam");
-        surahs.add("69. Al_Haqqah");
-        surahs.add("70. Al_Ma`aarij");
-        surahs.add("71. Nuh");
-        surahs.add("72. Al_Jinn");
-        surahs.add("73. Al_Muzzammil");
-        surahs.add("74. Al_Muddathir");
-        surahs.add("75. Al_Qiyamah");
-        surahs.add("76. Al_Insan");
-        surahs.add("77. Al_Mursalat");
-        surahs.add("78. An_Naba");
-        surahs.add("79. An_Nazi`at");
-        surahs.add("80. `Abasa");
-        surahs.add("81. At_Takweer");
-        surahs.add("82. Al_Infitar");
-        surahs.add("83. Al_Mutaffifeen");
-        surahs.add("84. Al_Inshiqaq");
-        surahs.add("85. Al_Burooj");
-        surahs.add("86. At_Tariq");
-        surahs.add("87. Al_A`la");
-        surahs.add("88. Al_Ghashiyah");
-        surahs.add("89. Al_Fajr");
-        surahs.add("90. Al_Balad");
-        surahs.add("91. Ash_Shams");
-        surahs.add("92. Al_Lail");
-        surahs.add("93. Ad_Dhuha");
-        surahs.add("94. Al_Inshirah");
-        surahs.add("95. At_Teen");
-        surahs.add("96. al_`Alaq");
-        surahs.add("97. Al_Qadr");
-        surahs.add("98. Al_Bayyinah");
-        surahs.add("99. Az_Zalzala");
-        surahs.add("100. Al_Adiyat");
-        surahs.add("101. al_Qari`ah");
-        surahs.add("102. At_Takathur");
-        surahs.add("103. Al_Asr");
-        surahs.add("104. Al_Humazah");
-        surahs.add("105. Al_Feel");
-        surahs.add("106. Al_Quraish");
-        surahs.add("107. Al_Maa`oun");
-        surahs.add("108. Al_Kawthar");
-        surahs.add("109. Al_Kafiroun");
-        surahs.add("110. An_Nasr");
-        surahs.add("111. Al_Masad");
-        surahs.add("112. Al_Ikhlas");
-        surahs.add("113. Al_Falaq");
-        surahs.add("114. An_Nas ");
+//        surahs.add("1. Al_Fatihah");
+//        surahs.add("2. Al_Baqarah");
+//        surahs.add("3. Al_Imran");
+//        surahs.add("4. An_Nisa");
+//        surahs.add("5. Al_Ma`idah");
+//        surahs.add("6. Al_An`am");
+//        surahs.add("7. Al_A`raf");
+//        surahs.add("8. Al_Anfal");
+//        surahs.add("9. At_Tawbah");
+//        surahs.add("10. Yunus");
+//        surahs.add("11. Hud");
+//        surahs.add("12. Yusuf");
+//        surahs.add("13. Ar_Ra`d");
+//        surahs.add("14. Ibraheem");
+//        surahs.add("15. Al_Hijr");
+//        surahs.add("16. An_Nahl");
+//        surahs.add("17. Al_Isra");
+//        surahs.add("18. Al_Kahf");
+//        surahs.add("19. Maryam");
+//        surahs.add("20. Ta_Ha");
+//        surahs.add("21. Al_Anbiya");
+//        surahs.add("22. Al_Hajj");
+//        surahs.add("23. Al_Mu`minoon");
+//        surahs.add("24. An_Noor");
+//        surahs.add("25. Al_Furqan");
+//        surahs.add("26. Ash_Shu`ara");
+//        surahs.add("27. An_Naml");
+//        surahs.add("28. Al_Qasas");
+//        surahs.add("29. Al_`Ankabut");
+//        surahs.add("30. Ar_Rum");
+//        surahs.add("31. Luqman");
+//        surahs.add("32. As_Sajdah");
+//        surahs.add("33. Al_Ahzab");
+//        surahs.add("34. Saba");
+//        surahs.add("35. Fatir");
+//        surahs.add("36. Ya seen");
+//        surahs.add("37. As_Saffat");
+//        surahs.add("38. Saad");
+//        surahs.add("39. Az_Zumar");
+//        surahs.add("40. Ghafir");
+//        surahs.add("41. Fussilat");
+//        surahs.add("42. Ash_Shura");
+//        surahs.add("43. Az_Zukhruf");
+//        surahs.add("44. Ad_Dukhan");
+//        surahs.add("45. Al_Jathiyah");
+//        surahs.add("46. Al_Ahqaf");
+//        surahs.add("47. Muhammad");
+//        surahs.add("48. Al_Fath");
+//        surahs.add("49. Al_Hujurat");
+//        surahs.add("50. Qaf");
+//        surahs.add("51. Ad_Dhariyat");
+//        surahs.add("52. At_Tur");
+//        surahs.add("53. An_Najm");
+//        surahs.add("54. Al_Qamar");
+//        surahs.add("55. Ar_Rahman");
+//        surahs.add("56. Al_Waqi`ah");
+//        surahs.add("57. Al_Hadeed");
+//        surahs.add("58. Al_Mujadilah");
+//        surahs.add("59. Al_Hashr");
+//        surahs.add("60. Al_Mumtahina");
+//        surahs.add("61. As_Saff");
+//        surahs.add("62. Al_Jumu`ah");
+//        surahs.add("63. Al_Munafiqun");
+//        surahs.add("64. At_Taghabun");
+//        surahs.add("65. At_Talaq");
+//        surahs.add("66. At_Tahreem");
+//        surahs.add("67. Al_Mulk");
+//        surahs.add("68. Al_Qalam");
+//        surahs.add("69. Al_Haqqah");
+//        surahs.add("70. Al_Ma`aarij");
+//        surahs.add("71. Nuh");
+//        surahs.add("72. Al_Jinn");
+//        surahs.add("73. Al_Muzzammil");
+//        surahs.add("74. Al_Muddathir");
+//        surahs.add("75. Al_Qiyamah");
+//        surahs.add("76. Al_Insan");
+//        surahs.add("77. Al_Mursalat");
+//        surahs.add("78. An_Naba");
+//        surahs.add("79. An_Nazi`at");
+//        surahs.add("80. `Abasa");
+//        surahs.add("81. At_Takweer");
+//        surahs.add("82. Al_Infitar");
+//        surahs.add("83. Al_Mutaffifeen");
+//        surahs.add("84. Al_Inshiqaq");
+//        surahs.add("85. Al_Burooj");
+//        surahs.add("86. At_Tariq");
+//        surahs.add("87. Al_A`la");
+//        surahs.add("88. Al_Ghashiyah");
+//        surahs.add("89. Al_Fajr");
+//        surahs.add("90. Al_Balad");
+//        surahs.add("91. Ash_Shams");
+//        surahs.add("92. Al_Lail");
+//        surahs.add("93. Ad_Dhuha");
+//        surahs.add("94. Al_Inshirah");
+//        surahs.add("95. At_Teen");
+//        surahs.add("96. al_`Alaq");
+//        surahs.add("97. Al_Qadr");
+//        surahs.add("98. Al_Bayyinah");
+//        surahs.add("99. Az_Zalzala");
+//        surahs.add("100. Al_Adiyat");
+//        surahs.add("101. al_Qari`ah");
+//        surahs.add("102. At_Takathur");
+//        surahs.add("103. Al_Asr");
+//        surahs.add("104. Al_Humazah");
+//        surahs.add("105. Al_Feel");
+//        surahs.add("106. Al_Quraish");
+//        surahs.add("107. Al_Maa`oun");
+//        surahs.add("108. Al_Kawthar");
+//        surahs.add("109. Al_Kafiroun");
+//        surahs.add("110. An_Nasr");
+//        surahs.add("111. Al_Masad");
+//        surahs.add("112. Al_Ikhlas");
+//        surahs.add("113. Al_Falaq");
+//        surahs.add("114. An_Nas ");
 
 
-        ListViewAdapter adapter = new ListViewAdapter(this,surahs);
+        final ArrayAdapter adapter = new ArrayAdapter(this,R.layout.list_item, R.id.text, surahs);
+        //final ListViewAdapter adapter = new ListViewAdapter(this,surahs);
         surahListView.setAdapter(adapter);
+        searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
+            @Override
+            public boolean onQueryTextSubmit(String s) {
+                return false;
+            }
+
+            @Override
+            public boolean onQueryTextChange(String s) {
+                adapter.getFilter().filter(s);
+                return false;
+            }
+        });
+
 
         surahListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
@@ -399,6 +424,8 @@ public class Surahs extends AppCompatActivity {
             actionBar.setHomeButtonEnabled(true);
             actionBar.setDisplayHomeAsUpEnabled(true);
         }
+
+
 
     }
 

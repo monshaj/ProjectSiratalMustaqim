@@ -25,7 +25,8 @@
         android:layout_height="wrap_content"
         android:id="@+id/goldInput"
         android:hint="Amount in Bori"
-        android:layout_below="@id/gold"/>
+        android:layout_below="@id/gold"
+        android:inputType="number"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -42,7 +43,8 @@
         android:layout_height="wrap_content"
         android:id="@+id/tkInput"
         android:hint="Amount in money"
-        android:layout_below="@id/tk"/>
+        android:layout_below="@id/tk"
+        android:inputType="number"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -59,7 +61,8 @@
         android:layout_height="wrap_content"
         android:id="@+id/silverInput"
         android:hint="Amount in Bori"
-        android:layout_below="@id/silver"/>
+        android:layout_below="@id/silver"
+        android:inputType="number"/>
 
     <com.spark.submitbutton.SubmitButton
         android:layout_width="match_parent"

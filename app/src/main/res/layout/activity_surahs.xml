@@ -6,28 +6,20 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Surahs"
-    android:background="@drawable/surahbg"
+    android:background="@drawable/surahbg">
 
-
-    >
-    <android.support.v7.widget.SearchView
-
-        android:id="@+id/searchView"
-
-        android:layout_alignParentTop="true"
-
+    <SearchView
+        android:background="@color/white"
+        android:id="@+id/seachViewId"
         android:layout_width="match_parent"
-
         android:layout_height="wrap_content"
+        android:queryHint="Search Surah">
 
-        android:textColor="@color/black" />
-
-
-
-
+    </SearchView>
 
 
     <ListView
+        android:layout_below="@id/seachViewId"
         android:layout_width="match_parent"
         android:dividerHeight="3dp"
         android:divider="@null"

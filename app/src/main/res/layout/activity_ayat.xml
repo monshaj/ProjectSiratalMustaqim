@@ -7,18 +7,7 @@
     android:layout_height="match_parent"
     tools:context=".Ayat"
     android:background="@drawable/ayat">
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="49dp"
-        android:id="@+id/text"
-        android:text="﷽ \nBismillahir Rahmanir Rahim"
-        android:textSize="20dp"
-        android:textColor="#000"
-        android:layout_centerHorizontal="true"
-        android:gravity="center"
-        android:textStyle="bold">
 
-    </TextView>
 
     <ListView
         android:layout_below="@+id/text"
@@ -28,5 +17,6 @@
         android:divider="@null">
 
     </ListView>
+
 
 </RelativeLayout>
