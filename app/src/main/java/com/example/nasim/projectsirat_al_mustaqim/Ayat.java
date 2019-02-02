@@ -716,19 +716,196 @@ public class Ayat extends AppCompatActivity {
                     "TRANSLATION :\n" +
                     "In the Name of Allah,\n" +
                     "the All-beneficent, the All-merciful.");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
+            ayat.add("1\n" +
+                    "يا أَيُّهَا الَّذينَ آمَنوا لا تَتَّخِذوا عَدُوّي وَعَدُوَّكُم أَولِياءَ تُلقونَ إِلَيهِم بِالمَوَدَّةِ وَقَد كَفَروا بِما جاءَكُم مِنَ الحَقِّ يُخرِجونَ الرَّسولَ وَإِيّاكُم ۙ أَن تُؤمِنوا بِاللَّهِ رَبِّكُم إِن كُنتُم خَرَجتُم جِهادًا في سَبيلي وَابتِغاءَ مَرضاتي ۚ تُسِرّونَ إِلَيهِم بِالمَوَدَّةِ وَأَنا أَعلَمُ بِما أَخفَيتُم وَما أَعلَنتُم ۚ وَمَن يَفعَلهُ مِنكُم فَقَد ضَلَّ سَواءَ السَّبيلِ\n" +
+                    "TRANSLITERATION\n" +
+                    "yā-ʾayyuhā lladhīna ʾāmanū lā tattakhidhū ʿaduwwī wa-ʿaduwwakum ʾawliyyāʾa tulqūna ʾilayhim bi-l-mawaddati wa-qad kafarū bi-mā jāʾakum mina l-ḥaqqi yukhrijūna r-rasūla wa-ʾiyyākum ʾan tuʾminū bi-llāhi rabbikum ʾin kuntum kharajtum jihādan fī sabīlī wa-btighāʾa marḍātī tusirrūna ʾilayhim bi-l-mawaddati wa-ʾana ʾaʿlamu bi-mā ʾakhfaytum wa-mā ʾaʿlantum wa-man yafʿalhu minkum fa-qad ḍalla sawāʾa s-sabīli\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "O you who have faith!\n" +
+                    "Do not take My enemy and your enemy for friends,\n" +
+                    "[secretly] offering them affection\n" +
+                    "(for they have certainly defied\n" +
+                    "whatever has come to you of the truth,\n" +
+                    "expelling the Apostle and you,\n" +
+                    "because you have faith in Allah, your Lord)\n" +
+                    "if you have set out for jihād in My way\n" +
+                    "and to seek My pleasure.\n" +
+                    "You secretly nourish affection for them,\n" +
+                    "while I know well whatever you hide\n" +
+                    "and whatever you disclose,\n" +
+                    "and whoever among you does that\n" +
+                    "has certainly strayed from the right way.");
+            ayat.add("2\n" +
+                    "إِن يَثقَفوكُم يَكونوا لَكُم أَعداءً وَيَبسُطوا إِلَيكُم أَيدِيَهُم وَأَلسِنَتَهُم بِالسّوءِ وَوَدّوا لَو تَكفُرونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾin yathqafūkum yakūnū lakum ʾaʿdāʾan wa-yabsuṭū ʾilaykum ʾaydiyahum wa-ʾalsinatahum bi-s-sūʾi wa-waddū law takfurūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "If they were to confront you\n" +
+                    "they would be your enemies,\n" +
+                    "and would stretch out against you their hands\n" +
+                    "and their tongues\n" +
+                    "with evil [intentions],\n" +
+                    "and they are eager that you should be faithless.");
+            ayat.add("3\n" +
+                    "لَن تَنفَعَكُم أَرحامُكُم وَلا أَولادُكُم ۚ يَومَ القِيامَةِ يَفصِلُ بَينَكُم ۚ وَاللَّهُ بِما تَعمَلونَ بَصيرٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "lan tanfaʿakum ʾarḥāmukum wa-lā ʾawlādukum yawma l-qiyāmati yafṣilu baynakum wa-llāhu bi-mā taʿmalūna baṣīrun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Your relatives and your children will not avail you\n" +
+                    "on the Day of Resurrection:\n" +
+                    "He will separate you [from one another],\n" +
+                    "and Allah sees best what you do.");
+            ayat.add("4\n" +
+                    "قَد كانَت لَكُم أُسوَةٌ حَسَنَةٌ في إِبراهيمَ وَالَّذينَ مَعَهُ إِذ قالوا لِقَومِهِم إِنّا بُرَآءُ مِنكُم وَمِمّا تَعبُدونَ مِن دونِ اللَّهِ كَفَرنا بِكُم وَبَدا بَينَنا وَبَينَكُمُ العَداوَةُ وَالبَغضاءُ أَبَدًا حَتّىٰ تُؤمِنوا بِاللَّهِ وَحدَهُ إِلّا قَولَ إِبراهيمَ لِأَبيهِ لَأَستَغفِرَنَّ لَكَ وَما أَملِكُ لَكَ مِنَ اللَّهِ مِن شَيءٍ ۖ رَبَّنا عَلَيكَ تَوَكَّلنا وَإِلَيكَ أَنَبنا وَإِلَيكَ المَصيرُ\n" +
+                    "TRANSLITERATION\n" +
+                    "qad kānat lakum ʾuswatun ḥasanatun fī ʾibrāhīma wa-lladhīna maʿahū ʾidh qālū li-qawmihim ʾinnā buraʾāʾu minkum wa-mimmā taʿbudūna min dūni llāhi kafarnā bikum wa-badā baynanā wa-baynakumu l-ʿadāwatu wa-l-baghḍāʾu ʾabadan ḥattā tuʾminū bi-llāhi waḥdahū ʾillā qawla ʾibrāhīma li-ʾabīhi la-ʾastaghfiranna laka wa-mā ʾamliku laka mina llāhi min shayʾin rabbanā ʿalayka tawakkalnā wa-ʾilayka ʾanabnā wa-ʾilayka l-maṣīru\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "There is certainly a good exemplar for you\n" +
+                    "in Abraham\n" +
+                    "and those who were with him,\n" +
+                    "when they said to their own people,\n" +
+                    "‘Indeed we repudiate you\n" +
+                    "and whatever you worship besides Allah.\n" +
+                    "We disavow you,\n" +
+                    "and between you and us there has appeared\n" +
+                    "enmity and hate for ever,\n" +
+                    "unless you come to have faith in Allah alone,’\n" +
+                    "except for Abraham’s saying to his father,\n" +
+                    "‘I will surely plead forgiveness for you,\n" +
+                    "though I cannot avail you anything against Allah.’\n" +
+                    "\n" +
+                    "‘Our Lord! In You do we put our trust,\n" +
+                    "and to You do we turn penitently,\n" +
+                    "and toward You is the destination.");
+            ayat.add("5\n" +
+                    "رَبَّنا لا تَجعَلنا فِتنَةً لِلَّذينَ كَفَروا وَاغفِر لَنا رَبَّنا ۖ إِنَّكَ أَنتَ العَزيزُ الحَكيمُ\n" +
+                    "TRANSLITERATION\n" +
+                    "rabbanā lā tajʿalnā fitnatan li-lladhīna kafarū wa-ghfir lanā rabbanā ʾinnaka ʾanta l-ʿazīzu l-ḥakīmu\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Our Lord!\n" +
+                    "Do not make us a trial for the faithless,\n" +
+                    "and forgive us.\n" +
+                    "Our Lord!\n" +
+                    "Indeed You are the All-mighty, the All-wise.’");
+            ayat.add("6\n" +
+                    "لَقَد كانَ لَكُم فيهِم أُسوَةٌ حَسَنَةٌ لِمَن كانَ يَرجُو اللَّهَ وَاليَومَ الآخِرَ ۚ وَمَن يَتَوَلَّ فَإِنَّ اللَّهَ هُوَ الغَنِيُّ الحَميدُ\n" +
+                    "TRANSLITERATION\n" +
+                    "la-qad kāna lakum fīhim ʾuswatun ḥasanatun li-man kāna yarjū llāha wa-l-yawma l-ʾākhira wa-man yatawalla fa-ʾinna llāha huwa l-ghaniyyu l-ḥamīdu\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "There is certainly a good exemplar for you in them\n" +
+                    "—for those who look forward to Allah\n" +
+                    "and the Last Day—\n" +
+                    "and anyone who refuses to comply [should know that]\n" +
+                    "indeed Allah is the All-sufficient, the All-laudable.");
+            ayat.add("7\n" +
+                    "۞ عَسَى اللَّهُ أَن يَجعَلَ بَينَكُم وَبَينَ الَّذينَ عادَيتُم مِنهُم مَوَدَّةً ۚ وَاللَّهُ قَديرٌ ۚ وَاللَّهُ غَفورٌ رَحيمٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʿasā llāhu ʿan yajʿala baynakum wa-bayna lladhīna ʿādaytum minhum mawaddatan wa-llāhu qadīrun wa-llāhu ghafūrun raḥīmun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "It may be that Allah will bring about\n" +
+                    "between you and those with whom you are at enmity\n" +
+                    "affection,\n" +
+                    "and Allah is all-powerful,\n" +
+                    "and Allah is all-forgiving, all-merciful.");
+            ayat.add("8\n" +
+                    "لا يَنهاكُمُ اللَّهُ عَنِ الَّذينَ لَم يُقاتِلوكُم فِي الدّينِ وَلَم يُخرِجوكُم مِن دِيارِكُم أَن تَبَرّوهُم وَتُقسِطوا إِلَيهِم ۚ إِنَّ اللَّهَ يُحِبُّ المُقسِطينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "lā yanhākumu llāhu ʿani lladhīna lam yuqātilūkum fī d-dīni wa-lam yukhrijūkum min diyārikum ʾan tabarrūhum wa-tuqsiṭū ʾilayhim ʾinna llāha yuḥibbu l-muqsiṭīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Allah does not forbid you in regard to those\n" +
+                    "who did not make war against you\n" +
+                    "on account of religion\n" +
+                    "and did not expel you from your homes,\n" +
+                    "that you deal with them with kindness and justice.\n" +
+                    "Indeed Allah loves the just.");
+            ayat.add("9\n" +
+                    "إِنَّما يَنهاكُمُ اللَّهُ عَنِ الَّذينَ قاتَلوكُم فِي الدّينِ وَأَخرَجوكُم مِن دِيارِكُم وَظاهَروا عَلىٰ إِخراجِكُم أَن تَوَلَّوهُم ۚ وَمَن يَتَوَلَّهُم فَأُولٰئِكَ هُمُ الظّالِمونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinnamā yanhākumu llāhu ʿani lladhīna qātalūkum fī d-dīni wa-ʾakhrajūkum min diyārikum wa-ẓāharū ʿalā ʾikhrājikum ʾan tawallawhum wa-man yatawallahum fa-ʾulāʾika humu ẓ-ẓālimūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Allah forbids you only in regard to those\n" +
+                    "who made war against you on account of religion\n" +
+                    "and expelled you from your homes\n" +
+                    "and supported [others] in your expulsion,\n" +
+                    "that you make friends with them,\n" +
+                    "and whoever makes friends with them\n" +
+                    "—it is they who are the wrongdoers.");
+            ayat.add("10\n" +
+                    "يا أَيُّهَا الَّذينَ آمَنوا إِذا جاءَكُمُ المُؤمِناتُ مُهاجِراتٍ فَامتَحِنوهُنَّ ۖ اللَّهُ أَعلَمُ بِإيمانِهِنَّ ۖ فَإِن عَلِمتُموهُنَّ مُؤمِناتٍ فَلا تَرجِعوهُنَّ إِلَى الكُفّارِ ۖ لا هُنَّ حِلٌّ لَهُم وَلا هُم يَحِلّونَ لَهُنَّ ۖ وَآتوهُم ما أَنفَقوا ۚ وَلا جُناحَ عَلَيكُم أَن تَنكِحوهُنَّ إِذا آتَيتُموهُنَّ أُجورَهُنَّ ۚ وَلا تُمسِكوا بِعِصَمِ الكَوافِرِ وَاسأَلوا ما أَنفَقتُم وَليَسأَلوا ما أَنفَقوا ۚ ذٰلِكُم حُكمُ اللَّهِ ۖ يَحكُمُ بَينَكُم ۚ وَاللَّهُ عَليمٌ حَكيمٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "yā-ʾayyuhā lladhīna ʾāmanū ʾidhā jāʾakumu l-muʾminātu muhājirātin fa-mtaḥinūhunna llāhu ʾaʿlamu bi-ʾīmānihinna fa-ʾin ʿalimtumūhunna muʾminātin fa-lā tarjiʿūhunna ʾilā l-kuffāri lā hunna ḥillun lahum wa-lā hum yaḥillūna lahunna wa-ʾātūhum mā ʾanfaqū wa-lā junāḥa ʿalaykum ʾan tankiḥūhunna ʾidhā ʾātaytumūhunna ʾujūrahunna wa-lā tumsikū bi-ʿiṣami l-kawāfiri wa-sʾalū mā ʾanfaqtum wa-l-yasʾalū mā ʾanfaqū dhālikum ḥukmu llāhi yaḥkumu baynakum wa-llāhu ʿalīmun ḥakīmun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "O you who have faith!\n" +
+                    "When faithful women come to you as immigrants,1\n" +
+                    "test them.\n" +
+                    "Allah knows best [the state of] their faith.\n" +
+                    "Then, if you ascertain them to be faithful women,\n" +
+                    "do not send them back to the faithless.\n" +
+                    "They2 are not lawful for them,3\n" +
+                    "nor are they4 lawful for them.5\n" +
+                    "And give them6 what they have spent [for them].7\n" +
+                    "There is no sin upon you in marrying them\n" +
+                    "when you have given them their dowries.\n" +
+                    "Do not hold on\n" +
+                    "to [conjugal] ties with faithless women.\n" +
+                    "Ask [the infidels] for what you have spent,\n" +
+                    "and let the faithless ask for what they have spent.8\n" +
+                    "That is the judgment of Allah;\n" +
+                    "He judges between you;\n" +
+                    "and Allah is all-knowing, all-wise.");
+            ayat.add("11\n" +
+                    "وَإِن فاتَكُم شَيءٌ مِن أَزواجِكُم إِلَى الكُفّارِ فَعاقَبتُم فَآتُوا الَّذينَ ذَهَبَت أَزواجُهُم مِثلَ ما أَنفَقوا ۚ وَاتَّقُوا اللَّهَ الَّذي أَنتُم بِهِ مُؤمِنونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾin fātakum shayʾun min ʾazwājikum ʾilā l-kuffāri fa-ʿāqabtum fa-ʾātū lladhīna dhahabat ʾazwājuhum mithla mā ʾanfaqū wa-ttaqū llāha lladhī ʾantum bihī muʾminūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "If anything pertaining to your wives is not reclaimed\n" +
+                    "from the faithless1\n" +
+                    "and then you have your turn,\n" +
+                    "then give to those whose wives have left\n" +
+                    "the like of what they have spent,\n" +
+                    "and be wary of Allah\n" +
+                    "in whom you have faith.");
+            ayat.add("12\n" +
+                    "يا أَيُّهَا النَّبِيُّ إِذا جاءَكَ المُؤمِناتُ يُبايِعنَكَ عَلىٰ أَن لا يُشرِكنَ بِاللَّهِ شَيئًا وَلا يَسرِقنَ وَلا يَزنينَ وَلا يَقتُلنَ أَولادَهُنَّ وَلا يَأتينَ بِبُهتانٍ يَفتَرينَهُ بَينَ أَيديهِنَّ وَأَرجُلِهِنَّ وَلا يَعصينَكَ في مَعروفٍ ۙ فَبايِعهُنَّ وَاستَغفِر لَهُنَّ اللَّهَ ۖ إِنَّ اللَّهَ غَفورٌ رَحيمٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "yā-ʾayyuhā n-nabiyyu ʾidhā jāʾaka l-muʾminātu yubāyiʿnaka ʿalā ʾan lā yushrikna bi-llāhi shayʾan wa-lā yasriqna wa-lā yaznīna wa-lā yaqtulna ʾawlādahunna wa-lā yaʾtīna bi-buhtānin yaftarīnahū bayna ʾaydīhinna wa-ʾarjulihinna wa-lā yaʿṣīnaka fī maʿrūfin fa-bāyiʿhunna wa-staghfir lahunna llāha ʾinna llāha ghafūrun raḥīmun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "O Prophet!\n" +
+                    "If faithful women come to you,\n" +
+                    "to take the oath of allegiance to you, [pledging]\n" +
+                    "that they shall not ascribe any partners to Allah,\n" +
+                    "that they shall not steal, nor commit adultery,\n" +
+                    "nor kill their children,\n" +
+                    "nor utter any slander\n" +
+                    "that they may have intentionally fabricated,\n" +
+                    "nor disobey you in what is right,\n" +
+                    "then accept their allegiance,\n" +
+                    "and plead for them to Allah for forgiveness.\n" +
+                    "Indeed Allah is all-forgiving, all-merciful.");
+            ayat.add("13\n" +
+                    "يا أَيُّهَا الَّذينَ آمَنوا لا تَتَوَلَّوا قَومًا غَضِبَ اللَّهُ عَلَيهِم قَد يَئِسوا مِنَ الآخِرَةِ كَما يَئِسَ الكُفّارُ مِن أَصحابِ القُبورِ\n" +
+                    "TRANSLITERATION\n" +
+                    "yā-ʾayyuhā lladhīna ʾāmanū lā tatawallaw qawman ghaḍiba llāhu ʿalayhim qad yaʾisū mina l-ʾākhirati ka-mā yaʾisa l-kuffāru min ʾaṣḥābi l-qubūri\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "O you who have faith!\n" +
+                    "Do not befriend a people\n" +
+                    "at whom Allah is wrathful:\n" +
+                    "they have despaired of the Hereafter,\n" +
+                    "just as the faithless have despaired\n" +
+                    "of the occupants of the graves.");
         }
         else if (surahName.equals("61. As-Saff"))
         {
@@ -740,20 +917,158 @@ public class Ayat extends AppCompatActivity {
                     "TRANSLATION :\n" +
                     "In the Name of Allah,\n" +
                     "the All-beneficent, the All-merciful.");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
+            ayat.add("1\n" +
+                    "سَبَّحَ لِلَّهِ ما فِي السَّماواتِ وَما فِي الأَرضِ ۖ وَهُوَ العَزيزُ الحَكيمُ\n" +
+                    "TRANSLITERATION\n" +
+                    "sabbaḥa li-llāhi mā fī s-samāwāti wa-mā fī l-ʾarḍi wa-huwa l-ʿazīzu l-ḥakīmu\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Whatever there is in the heavens glorifies Allah\n" +
+                    "and whatever there is in the earth,\n" +
+                    "and He is the All-mighty, the All-wise.");
+            ayat.add("2\n" +
+                    "يا أَيُّهَا الَّذينَ آمَنوا لِمَ تَقولونَ ما لا تَفعَلونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "yā-ʾayyuhā lladhīna ʾāmanū li-ma taqūlūna mā lā tafʿalūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "O you who have faith!\n" +
+                    "Why do you say what you do not do?");
+            ayat.add("3\n" +
+                    "كَبُرَ مَقتًا عِندَ اللَّهِ أَن تَقولوا ما لا تَفعَلونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "kabura maqtan ʿinda llāhi ʾan taqūlū mā lā tafʿalūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "It is greatly outrageous to Allah\n" +
+                    "that you should say what you do not do.");
+            ayat.add("4\n" +
+                    "إِنَّ اللَّهَ يُحِبُّ الَّذينَ يُقاتِلونَ في سَبيلِهِ صَفًّا كَأَنَّهُم بُنيانٌ مَرصوصٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinna llāha yuḥibbu lladhīna yuqātilūna fī sabīlihī ṣaffan ka-ʾannahum bunyānun marṣūṣun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Indeed Allah loves those\n" +
+                    "who fight in His way in ranks,\n" +
+                    "as if they were a compact structure.");
+            ayat.add("5\n" +
+                    "وَإِذ قالَ موسىٰ لِقَومِهِ يا قَومِ لِمَ تُؤذونَني وَقَد تَعلَمونَ أَنّي رَسولُ اللَّهِ إِلَيكُم ۖ فَلَمّا زاغوا أَزاغَ اللَّهُ قُلوبَهُم ۚ وَاللَّهُ لا يَهدِي القَومَ الفاسِقينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾidh qāla mūsā li-qawmihī yā-qawmi li-ma tuʾdhūnanī wa-qad taʿlamūna ʾannī rasūlu llāhi ʾilaykum fa-lammā zāghū ʾazāgha llāhu qulūbahum wa-llāhu lā yahdī l-qawma l-fāsiqīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "When Moses said to his people,\n" +
+                    "‘O my people! Why do you torment me,\n" +
+                    "when you certainly know\n" +
+                    "that I am Allah’s apostle to you?’\n" +
+                    "So when they swerved [from the right path]\n" +
+                    "Allah made their hearts swerve,\n" +
+                    "and Allah does not guide the transgressing lot.");
+            ayat.add("6\n" +
+                    "وَإِذ قالَ عيسَى ابنُ مَريَمَ يا بَني إِسرائيلَ إِنّي رَسولُ اللَّهِ إِلَيكُم مُصَدِّقًا لِما بَينَ يَدَيَّ مِنَ التَّوراةِ وَمُبَشِّرًا بِرَسولٍ يَأتي مِن بَعدِي اسمُهُ أَحمَدُ ۖ فَلَمّا جاءَهُم بِالبَيِّناتِ قالوا هٰذا سِحرٌ مُبينٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾidh qāla ʿīsā bnu maryama yā-banī ʾisrāʾīla ʾinnī rasūlu llāhi ʾilaykum muṣaddiqan li-mā bayna yadayya mina t-tawrāti wa-mubashshiran bi-rasūlin yaʾtī min baʿdī smuhū ʾaḥmadu fa-lammā jāʾahum bi-l-bayyināti qālū hādhā siḥrun mubīnun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "And when Jesus son of Mary said,\n" +
+                    "‘O Children of Israel!\n" +
+                    "Indeed I am the apostle of Allah to you,\n" +
+                    "to confirm what is before me of the Torah,\n" +
+                    "and to give the good news of an apostle\n" +
+                    "who will come after me,\n" +
+                    "whose name is Aḥmad.’\n" +
+                    "Yet when he brought them manifest proofs,\n" +
+                    "they said, ‘This is plain magic.’");
+            ayat.add("7\n" +
+                    "وَمَن أَظلَمُ مِمَّنِ افتَرىٰ عَلَى اللَّهِ الكَذِبَ وَهُوَ يُدعىٰ إِلَى الإِسلامِ ۚ وَاللَّهُ لا يَهدِي القَومَ الظّالِمينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-man ʾaẓlamu mimmani ftarā ʿalā llāhi l-kadhiba wa-huwa yudʿā ʾilā l-ʾislāmi wa-llāhu lā yahdī l-qawma ẓ-ẓālimīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "And who is a greater wrongdoer than him\n" +
+                    "who fabricates falsehoods against Allah,\n" +
+                    "while he is being summoned to Islam?\n" +
+                    "And Allah does not guide the wrongdoing lot.");
+            ayat.add("8\n" +
+                    "يُريدونَ لِيُطفِئوا نورَ اللَّهِ بِأَفواهِهِم وَاللَّهُ مُتِمُّ نورِهِ وَلَو كَرِهَ الكافِرونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "yurīdūna li-yuṭfiʾū nūra llāhi bi-ʾafwāhihim wa-llāhu mutimmu nūrihī wa-law kariha l-kāfirūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "They desire to put out the light of Allah\n" +
+                    "with their mouths,\n" +
+                    "but Allah shall perfect His light\n" +
+                    "though the faithless should be averse.");
+            ayat.add("9\n" +
+                    "هُوَ الَّذي أَرسَلَ رَسولَهُ بِالهُدىٰ وَدينِ الحَقِّ لِيُظهِرَهُ عَلَى الدّينِ كُلِّهِ وَلَو كَرِهَ المُشرِكونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "huwa lladhī ʾarsala rasūlahū bi-l-hudā wa-dīni l-ḥaqqi li-yuẓhirahū ʿalā d-dīni kullihī wa-law kariha l-mushrikūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "It is He who has sent His Apostle\n" +
+                    "with the guidance\n" +
+                    "and the religion of truth\n" +
+                    "that He may make it prevail over all religions\n" +
+                    "though the polytheists should be averse.");
+            ayat.add("10\n" +
+                    "يا أَيُّهَا الَّذينَ آمَنوا هَل أَدُلُّكُم عَلىٰ تِجارَةٍ تُنجيكُم مِن عَذابٍ أَليمٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "yā-ʾayyuhā lladhīna ʾāmanū hal ʾadullukum ʿalā tijāratin tunjīkum min ʿadhābin ʾalīmin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "O you who have faith!\n" +
+                    "Shall I show you a deal\n" +
+                    "that will deliver you from a painful punishment?");
+            ayat.add("11\n" +
+                    "تُؤمِنونَ بِاللَّهِ وَرَسولِهِ وَتُجاهِدونَ في سَبيلِ اللَّهِ بِأَموالِكُم وَأَنفُسِكُم ۚ ذٰلِكُم خَيرٌ لَكُم إِن كُنتُم تَعلَمونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "tuʾminūna bi-llāhi wa-rasūlihī wa-tujāhidūna fī sabīli llāhi bi-ʾamwālikum wa-ʾanfusikum dhālikum khayrun lakum ʾin kuntum taʿlamūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Have faith in Allah and His Apostle,\n" +
+                    "and wage jihād in the way of Allah\n" +
+                    "with your possessions and your persons.\n" +
+                    "That is better for you,\n" +
+                    "should you know.");
+            ayat.add("12\n" +
+                    "يَغفِر لَكُم ذُنوبَكُم وَيُدخِلكُم جَنّاتٍ تَجري مِن تَحتِهَا الأَنهارُ وَمَساكِنَ طَيِّبَةً في جَنّاتِ عَدنٍ ۚ ذٰلِكَ الفَوزُ العَظيمُ\n" +
+                    "TRANSLITERATION\n" +
+                    "yaghfir lakum dhunūbakum wa-yudkhilkum jannātin tajrī min taḥtihā l-ʾanhāru wa-masākina ṭayyibatan fī jannāti ʿadnin dhālika l-fawzu l-ʿaẓīmu\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "He shall forgive you your sins\n" +
+                    "and admit you into gardens\n" +
+                    "with streams running in them,\n" +
+                    "and into good dwellings\n" +
+                    "in the Gardens of Eden.\n" +
+                    "That is the great success.");
+            ayat.add("13\n" +
+                    "وَأُخرىٰ تُحِبّونَها ۖ نَصرٌ مِنَ اللَّهِ وَفَتحٌ قَريبٌ ۗ وَبَشِّرِ المُؤمِنينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾukhrā tuḥibbūnahā naṣrun mina llāhi wa-fatḥun qarībun wa-bashshiri l-muʾminīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "And other [blessings] you love:\n" +
+                    "help from Allah and a victory near at hand.\n" +
+                    "And give good news to the faithful.");
+            ayat.add("14\n" +
+                    "يا أَيُّهَا الَّذينَ آمَنوا كونوا أَنصارَ اللَّهِ كَما قالَ عيسَى ابنُ مَريَمَ لِلحَوارِيّينَ مَن أَنصاري إِلَى اللَّهِ ۖ قالَ الحَوارِيّونَ نَحنُ أَنصارُ اللَّهِ ۖ فَآمَنَت طائِفَةٌ مِن بَني إِسرائيلَ وَكَفَرَت طائِفَةٌ ۖ فَأَيَّدنَا الَّذينَ آمَنوا عَلىٰ عَدُوِّهِم فَأَصبَحوا ظاهِرينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "yā-ʾayyuhā lladhīna ʾāmanū kūnū ʾanṣāra llāhi ka-mā qāla ʿīsā bnu maryama li-l-ḥawāriyyīna man ʾanṣārī ʾilā llāhi qāla l-ḥawāriyyūna naḥnu ʾanṣāru llāhi fa-ʾāmanat ṭāʾifatun min banī ʾisrāʾīla wa-kafarat ṭāʾifatun fa-ʾayyadnā lladhīna ʾāmanū ʿalā ʿaduwwihim fa-ʾaṣbaḥū ẓāhirīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "O you who have faith!\n" +
+                    "Be Allah’s helpers,\n" +
+                    "just as Jesus son of Mary said\n" +
+                    "to the disciples,\n" +
+                    "‘Who will be my helpers for Allah’s sake?’\n" +
+                    "The Disciples said,\n" +
+                    "‘We will be Allah’s helpers!’\n" +
+                    "So a group of the Children of Israel believed,\n" +
+                    "and a group disbelieved.\n" +
+                    "Then We strengthened the faithful\n" +
+                    "against their enemies,\n" +
+                    "and they became the dominant ones.");
         }
         else if (surahName.equals("62. Al-Jumu`ah"))
         {
@@ -765,17 +1080,125 @@ public class Ayat extends AppCompatActivity {
                     "TRANSLATION :\n" +
                     "In the Name of Allah,\n" +
                     "the All-beneficent, the All-merciful.");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
+            ayat.add("1\n" +
+                    "يُسَبِّحُ لِلَّهِ ما فِي السَّماواتِ وَما فِي الأَرضِ المَلِكِ القُدّوسِ العَزيزِ الحَكيمِ\n" +
+                    "TRANSLITERATION\n" +
+                    "yusabbiḥu li-llāhi mā fī s-samāwāti wa-mā fī l-ʾarḍi l-maliki l-quddūsi l-ʿazīzi l-ḥakīmi\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Whatever there is in the heavens glorifies Allah\n" +
+                    "and whatever there is in the earth,\n" +
+                    "the Sovereign, the All-holy,\n" +
+                    "the All-mighty, the All-wise.");
+            ayat.add("2\n" +
+                    "هُوَ الَّذي بَعَثَ فِي الأُمِّيّينَ رَسولًا مِنهُم يَتلو عَلَيهِم آياتِهِ وَيُزَكّيهِم وَيُعَلِّمُهُمُ الكِتابَ وَالحِكمَةَ وَإِن كانوا مِن قَبلُ لَفي ضَلالٍ مُبينٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "huwa lladhī baʿatha fī l-ʾummiyyīna rasūlan minhum yatlū ʿalayhim ʾāyātihī wa-yuzakkīhim wa-yuʿallimuhumu l-kitāba wa-l-ḥikmata wa-ʾin kānū min qablu la-fī ḍalālin mubīnin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "It is He who sent to the unlettered [people]\n" +
+                    "an apostle from among themselves,\n" +
+                    "to recite to them His signs, to purify them,\n" +
+                    "and to teach them the Book and wisdom,\n" +
+                    "and earlier they had indeed been\n" +
+                    "in manifest error.");
+            ayat.add("3\n" +
+                    "وَآخَرينَ مِنهُم لَمّا يَلحَقوا بِهِم ۚ وَهُوَ العَزيزُ الحَكيمُ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾākharīna minhum lammā yalḥaqū bihim wa-huwa l-ʿazīzu l-ḥakīmu\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "And to others from among them [as well]\n" +
+                    "who have not yet joined them.\n" +
+                    "And He is the All-mighty, the All-wise.");
+            ayat.add("4\n" +
+                    "ذٰلِكَ فَضلُ اللَّهِ يُؤتيهِ مَن يَشاءُ ۚ وَاللَّهُ ذُو الفَضلِ العَظيمِ\n" +
+                    "TRANSLITERATION\n" +
+                    "dhālika faḍlu llāhi yuʾtīhi man yashāʾu wa-llāhu dhū l-faḍli l-ʿaẓīmi\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "That is Allah’s grace\n" +
+                    "which He grants to whomever He wishes,\n" +
+                    "and Allah is dispenser of a great grace.");
+            ayat.add("5\n" +
+                    "مَثَلُ الَّذينَ حُمِّلُوا التَّوراةَ ثُمَّ لَم يَحمِلوها كَمَثَلِ الحِمارِ يَحمِلُ أَسفارًا ۚ بِئسَ مَثَلُ القَومِ الَّذينَ كَذَّبوا بِآياتِ اللَّهِ ۚ وَاللَّهُ لا يَهدِي القَومَ الظّالِمينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "mathalu lladhīna ḥummilū t-tawrāta thumma lam yaḥmilūhā ka-mathali l-ḥimāri yaḥmilu ʾasfāran biʾsa mathalu l-qawmi lladhīna kadhdhabū bi-ʾāyāti llāhi wa-llāhu lā yahdī l-qawma ẓ-ẓālimīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "The example of those who were charged with the Torah,\n" +
+                    "then failed to carry it,\n" +
+                    "is that of an ass carrying books.\n" +
+                    "Evil is the example of the people who\n" +
+                    "deny Allah’s signs,\n" +
+                    "and Allah does not guide the wrongdoing lot.");
+            ayat.add("6\n" +
+                    "قُل يا أَيُّهَا الَّذينَ هادوا إِن زَعَمتُم أَنَّكُم أَولِياءُ لِلَّهِ مِن دونِ النّاسِ فَتَمَنَّوُا المَوتَ إِن كُنتُم صادِقينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "qul yā-ʾayyuhā lladhīna hādū ʾin zaʿamtum ʾannakum ʾawliyāʾu li-llāhi min dūni n-nāsi fa-tamannawu l-mawta ʾin kuntum ṣādiqīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Say, ‘O Jews!\n" +
+                    "If you claim that you are Allah’s favourites,\n" +
+                    "to the exclusion of other people,\n" +
+                    "then long for death,\n" +
+                    "should you be truthful.’");
+            ayat.add("7\n" +
+                    "وَلا يَتَمَنَّونَهُ أَبَدًا بِما قَدَّمَت أَيديهِم ۚ وَاللَّهُ عَليمٌ بِالظّالِمينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-lā yatamannawnahū ʾabadan bi-mā qaddamat ʾaydīhim wa-llāhu ʿalīmun bi-ẓ-ẓālimīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Yet they will never long for it,\n" +
+                    "because of what their hands have sent ahead,\n" +
+                    "and Allah knows best the wrongdoers.");
+            ayat.add("8\n" +
+                    "قُل إِنَّ المَوتَ الَّذي تَفِرّونَ مِنهُ فَإِنَّهُ مُلاقيكُم ۖ ثُمَّ تُرَدّونَ إِلىٰ عالِمِ الغَيبِ وَالشَّهادَةِ فَيُنَبِّئُكُم بِما كُنتُم تَعمَلونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "qul ʾinna l-mawta lladhī tafirrūna minhu fa-ʾinnahū mulāqīkum thumma turaddūna ʾilā ʿālimi l-ghaybi wa-sh-shahādati fa-yunabbiʾukum bi-mā kuntum taʿmalūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Say, ‘Indeed the death that you flee\n" +
+                    "will indeed encounter you.\n" +
+                    "Then you will be returned\n" +
+                    "to the Knower of the sensible and the Unseen,\n" +
+                    "and He will inform you\n" +
+                    "about what you used to do.’");
+            ayat.add("9\n" +
+                    "يا أَيُّهَا الَّذينَ آمَنوا إِذا نودِيَ لِلصَّلاةِ مِن يَومِ الجُمُعَةِ فَاسعَوا إِلىٰ ذِكرِ اللَّهِ وَذَرُوا البَيعَ ۚ ذٰلِكُم خَيرٌ لَكُم إِن كُنتُم تَعلَمونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "yā-ʾayyuhā lladhīna ʾāmanū ʾidhā nūdiya li-ṣ-ṣalāti min yawmi l-jumuʿati fa-sʿaw ʾilā dhikri llāhi wa-dharū l-bayʿa dhālikum khayrun lakum ʾin kuntum taʿlamūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "O you who have faith!\n" +
+                    "When the call is made for prayer on Friday,\n" +
+                    "hurry toward the remembrance of Allah,\n" +
+                    "and leave all business.\n" +
+                    "That is better for you,\n" +
+                    "should you know.");
+            ayat.add("10\n" +
+                    "فَإِذا قُضِيَتِ الصَّلاةُ فَانتَشِروا فِي الأَرضِ وَابتَغوا مِن فَضلِ اللَّهِ وَاذكُرُوا اللَّهَ كَثيرًا لَعَلَّكُم تُفلِحونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-ʾidhā quḍiyati ṣ-ṣalātu fa-ntashirū fī l-ʾarḍi wa-btaghū min faḍli llāhi wa-dhkurū llāha kathīran laʿallakum tufliḥūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "And when the prayer is finished\n" +
+                    "disperse through the land\n" +
+                    "and seek Allah’s grace,\n" +
+                    "and remember Allah greatly\n" +
+                    "so that you may be felicitous.");
+            ayat.add("11\n" +
+                    "وَإِذا رَأَوا تِجارَةً أَو لَهوًا انفَضّوا إِلَيها وَتَرَكوكَ قائِمًا ۚ قُل ما عِندَ اللَّهِ خَيرٌ مِنَ اللَّهوِ وَمِنَ التِّجارَةِ ۚ وَاللَّهُ خَيرُ الرّازِقينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾidhā raʾaw tijāratan ʾaw lahwan-i nfaḍḍū ʾilayhā wa-tarakūka qāʾiman qul mā ʿinda llāhi khayrun mina l-lahwi wa-mina t-tijārati wa-llāhu khayru r-rāziqīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "When they sight a deal or a diversion,\n" +
+                    "they scatter off towards it\n" +
+                    "and leave you standing!\n" +
+                    "Say, ‘What is with Allah\n" +
+                    "is better than diversion and dealing,\n" +
+                    "and Allah is the best of providers.’");
         }
         else if (surahName.equals("63. Al-Munafiqun"))
         {
@@ -787,17 +1210,124 @@ public class Ayat extends AppCompatActivity {
                     "TRANSLATION :\n" +
                     "In the Name of Allah,\n" +
                     "the All-beneficent, the All-merciful.");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
+            ayat.add("1\n" +
+                    "إِذا جاءَكَ المُنافِقونَ قالوا نَشهَدُ إِنَّكَ لَرَسولُ اللَّهِ ۗ وَاللَّهُ يَعلَمُ إِنَّكَ لَرَسولُهُ وَاللَّهُ يَشهَدُ إِنَّ المُنافِقينَ لَكاذِبونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾidhā jāʾaka l-munāfiqūna qālū nashhadu ʾinnaka la-rasūlu llāhi wa-llāhu yaʿlamu ʾinnaka la-rasūluhū wa-llāhu yashhadu ʾinna l-munāfiqīna la-kādhibūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "When the hypocrites come to you\n" +
+                    "they say, ‘We bear witness\n" +
+                    "that you are indeed the apostle of Allah.’\n" +
+                    "Allah knows that you are indeed His Apostle,\n" +
+                    "and Allah bears witness that\n" +
+                    "the hypocrites are indeed liars.");
+            ayat.add("2\n" +
+                    "اتَّخَذوا أَيمانَهُم جُنَّةً فَصَدّوا عَن سَبيلِ اللَّهِ ۚ إِنَّهُم ساءَ ما كانوا يَعمَلونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ittakhadhū ʾaymānahum junnatan fa-ṣaddū ʿan sabīli llāhi ʾinnahum sāʾa mā kānū yaʿmalūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "They make a shield of their oaths,\n" +
+                    "and bar from the way of Allah.\n" +
+                    "Evil indeed is what they used to do.");
+            ayat.add("3\n" +
+                    "ذٰلِكَ بِأَنَّهُم آمَنوا ثُمَّ كَفَروا فَطُبِعَ عَلىٰ قُلوبِهِم فَهُم لا يَفقَهونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "dhālika bi-ʾannahum ʾāmanū thumma kafarū fa-ṭubiʿa ʿalā qulūbihim fa-hum lā yafqahūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "That is because they believed and then disbelieved,\n" +
+                    "so their hearts were sealed.\n" +
+                    "Hence they do not understand.");
+            ayat.add("4\n" +
+                    "۞ وَإِذا رَأَيتَهُم تُعجِبُكَ أَجسامُهُم ۖ وَإِن يَقولوا تَسمَع لِقَولِهِم ۖ كَأَنَّهُم خُشُبٌ مُسَنَّدَةٌ ۖ يَحسَبونَ كُلَّ صَيحَةٍ عَلَيهِم ۚ هُمُ العَدُوُّ فَاحذَرهُم ۚ قاتَلَهُمُ اللَّهُ ۖ أَنّىٰ يُؤفَكونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾidhā raʾaytahum tuʿjibuka ʾajsāmuhum wa-ʾin yaqūlū tasmaʿ li-qawlihim ka-ʾannahum khushubun musannadatun yaḥsabūna kulla ṣayḥatin ʿalayhim humu l-ʿaduwwu fa-ḥdharhum qātalahumu llāhu ʾannā yuʾfakūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "When you see them, their bodies impress you,\n" +
+                    "and if they speak, you listen to their speech.\n" +
+                    "Yet they are like dry logs set reclining [against a wall].\n" +
+                    "They suppose every cry is directed against them.\n" +
+                    "They are the enemy, so beware of them.\n" +
+                    "May Allah assail them, where do they stray?!");
+            ayat.add("5\n" +
+                    "وَإِذا قيلَ لَهُم تَعالَوا يَستَغفِر لَكُم رَسولُ اللَّهِ لَوَّوا رُءوسَهُم وَرَأَيتَهُم يَصُدّونَ وَهُم مُستَكبِرونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾidhā qīla lahum taʿālaw yastaghfir lakum rasūlu llāhi lawwaw ruʾūsahum wa-raʾaytahum yaṣuddūna wa-hum mustakbirūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "When they are told, ‘Come,\n" +
+                    "that Allah’s Apostle may plead for forgiveness for you,’\n" +
+                    "they twist their heads,\n" +
+                    "and you see them turn away while they are disdainful.");
+            ayat.add("6\n" +
+                    "سَواءٌ عَلَيهِم أَستَغفَرتَ لَهُم أَم لَم تَستَغفِر لَهُم لَن يَغفِرَ اللَّهُ لَهُم ۚ إِنَّ اللَّهَ لا يَهدِي القَومَ الفاسِقينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "sawāʾun ʿalayhim ʾa-staghfarta lahum ʾam lam tastaghfir lahum lan yaghfira llāhu lahum ʾinna llāha lā yahdī l-qawma l-fāsiqīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "It is the same for them\n" +
+                    "whether you plead for forgiveness for them,\n" +
+                    "or do not plead for forgiveness for them:\n" +
+                    "Allah will never forgive them.\n" +
+                    "Indeed Allah does not guide the transgressing lot.");
+            ayat.add("7\n" +
+                    "هُمُ الَّذينَ يَقولونَ لا تُنفِقوا عَلىٰ مَن عِندَ رَسولِ اللَّهِ حَتّىٰ يَنفَضّوا ۗ وَلِلَّهِ خَزائِنُ السَّماواتِ وَالأَرضِ وَلٰكِنَّ المُنافِقينَ لا يَفقَهونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "humu lladhīna yaqūlūna lā tunfiqū ʿalā man ʿinda rasūli llāhi ḥattā yanfaḍḍū wa-li-llāhi khazāʾinu s-samāwāti wa-l-ʾarḍi wa-lākinna l-munāfiqīna lā yafqahūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "They are the ones who say, ‘Do not spend\n" +
+                    "on those who are with the Apostle of Allah\n" +
+                    "until they scatter off.’\n" +
+                    "Yet to Allah belong the treasuries of the heavens\n" +
+                    "and the earth,\n" +
+                    "but the hypocrites do not understand.");
+            ayat.add("8\n" +
+                    "يَقولونَ لَئِن رَجَعنا إِلَى المَدينَةِ لَيُخرِجَنَّ الأَعَزُّ مِنهَا الأَذَلَّ ۚ وَلِلَّهِ العِزَّةُ وَلِرَسولِهِ وَلِلمُؤمِنينَ وَلٰكِنَّ المُنافِقينَ لا يَعلَمونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "yaqūlūna la-ʾin rajaʿnā ʾilā l-madīnati la-yukhrijanna l-ʾaʿazzu minhā l-ʾadhalla wa-li-llāhi l-ʿizzatu wa-li-rasūlihī wa-li-l-muʾminīna wa-lākinna l-munāfiqīna lā yaʿlamūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "They say, ‘When we return to the city,\n" +
+                    "the mighty will surely expel the abased from it.’1\n" +
+                    "Yet all might belongs to Allah and His Apostle,\n" +
+                    "and the faithful,\n" +
+                    "but the hypocrites do not know.");
+            ayat.add("9\n" +
+                    "يا أَيُّهَا الَّذينَ آمَنوا لا تُلهِكُم أَموالُكُم وَلا أَولادُكُم عَن ذِكرِ اللَّهِ ۚ وَمَن يَفعَل ذٰلِكَ فَأُولٰئِكَ هُمُ الخاسِرونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "yā-ʾayyuhā lladhīna ʾāmanū lā tulhikum ʾamwālukum wa-lā ʾawlādukum ʿan dhikri llāhi wa-man yafʿal dhālika fa-ʾulāʾika humu l-khāsirūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "O you who have faith!\n" +
+                    "Do not let your possessions and children distract you\n" +
+                    "from the remembrance of Allah,\n" +
+                    "and whoever does that\n" +
+                    "—it is they who are the losers.");
+            ayat.add("10\n" +
+                    "وَأَنفِقوا مِن ما رَزَقناكُم مِن قَبلِ أَن يَأتِيَ أَحَدَكُمُ المَوتُ فَيَقولَ رَبِّ لَولا أَخَّرتَني إِلىٰ أَجَلٍ قَريبٍ فَأَصَّدَّقَ وَأَكُن مِنَ الصّالِحينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾanfiqū min mā razaqnākum min qabli ʾan yaʾtiya ʾaḥadakumu l-mawtu fa-yaqūla rabbi law-lā ʾakhkhartanī ʾilā ʾajalin qarībin fa-ʾaṣṣaddaqa wa-ʾakun mina ṣ-ṣāliḥīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Spend from what We have provided you\n" +
+                    "before death comes to any of you,\n" +
+                    "whereat he will say, ‘My Lord,\n" +
+                    "why did You not respite me for a short time\n" +
+                    "so that I might have given charity\n" +
+                    "and become one of the righteous!’");
+            ayat.add("11\n" +
+                    "وَلَن يُؤَخِّرَ اللَّهُ نَفسًا إِذا جاءَ أَجَلُها ۚ وَاللَّهُ خَبيرٌ بِما تَعمَلونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-lan yuʾakhkhira llāhu nafsan ʾidhā jāʾa ʾajaluhā wa-llāhu khabīrun bi-mā taʿmalūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "But Allah shall never respite a soul\n" +
+                    "when its time has come,\n" +
+                    "and Allah is well aware of what you do.");
         }
         else if (surahName.equals("64. At-Taghabun"))
         {
@@ -809,24 +1339,191 @@ public class Ayat extends AppCompatActivity {
                     "TRANSLATION :\n" +
                     "In the Name of Allah,\n" +
                     "the All-beneficent, the All-merciful.");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
+            ayat.add("1\n" +
+                    "يُسَبِّحُ لِلَّهِ ما فِي السَّماواتِ وَما فِي الأَرضِ ۖ لَهُ المُلكُ وَلَهُ الحَمدُ ۖ وَهُوَ عَلىٰ كُلِّ شَيءٍ قَديرٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "yusabbiḥu li-llāhi mā fī s-samāwāti wa-mā fī l-ʾarḍi lahu l-mulku wa-lahu l-ḥamdu wa-huwa ʿalā kulli shayʾin qadīrun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Whatever there is in the heavens glorifies Allah\n" +
+                    "and whatever there is in the earth.\n" +
+                    "To Him belongs all sovereignty\n" +
+                    "and to Him belongs all praise,\n" +
+                    "and He has power over all things.");
+            ayat.add("2\n" +
+                    "هُوَ الَّذي خَلَقَكُم فَمِنكُم كافِرٌ وَمِنكُم مُؤمِنٌ ۚ وَاللَّهُ بِما تَعمَلونَ بَصيرٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "huwa lladhī khalaqakum fa-minkum kāfirun wa-minkum muʾminun wa-llāhu bi-mā taʿmalūna baṣīrun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "It is He who created you.\n" +
+                    "Then some of you are faithless\n" +
+                    "and some of you are faithful,\n" +
+                    "and Allah sees best what you do.");
+            ayat.add("3\n" +
+                    "خَلَقَ السَّماواتِ وَالأَرضَ بِالحَقِّ وَصَوَّرَكُم فَأَحسَنَ صُوَرَكُم ۖ وَإِلَيهِ المَصيرُ\n" +
+                    "TRANSLITERATION\n" +
+                    "khalaqa s-samāwāti wa-l-ʾarḍa bi-l-ḥaqqi wa-ṣawwarakum fa-ʾaḥsana ṣuwarakum wa-ʾilayhi l-maṣīru\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "He created the heavens and the earth\n" +
+                    "with reason,\n" +
+                    "and He formed you and perfected your forms,\n" +
+                    "and toward Him is the destination.");
+            ayat.add("4\n" +
+                    "يَعلَمُ ما فِي السَّماواتِ وَالأَرضِ وَيَعلَمُ ما تُسِرّونَ وَما تُعلِنونَ ۚ وَاللَّهُ عَليمٌ بِذاتِ الصُّدورِ\n" +
+                    "TRANSLITERATION\n" +
+                    "yaʿlamu mā fī s-samāwāti wa-l-ʾarḍi wa-yaʿlamu mā tusirrūna wa-mā tuʿlinūna wa-llāhu ʿalīmun bi-dhāti ṣ-ṣudūri\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "He knows whatever there is in the heavens and the earth,\n" +
+                    "and He knows whatever you hide\n" +
+                    "and whatever you disclose,\n" +
+                    "and Allah knows best what is in the breasts.");
+            ayat.add("5\n" +
+                    "أَلَم يَأتِكُم نَبَأُ الَّذينَ كَفَروا مِن قَبلُ فَذاقوا وَبالَ أَمرِهِم وَلَهُم عَذابٌ أَليمٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾa-lam yaʾtikum nabaʾu lladhīna kafarū min qablu fa-dhāqū wabāla ʾamrihim wa-lahum ʿadhābun ʾalīmun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Has there not come to you the account\n" +
+                    "of those who were faithless before?\n" +
+                    "They tasted the evil consequences of their conduct,\n" +
+                    "and there is a painful punishment for them.");
+            ayat.add("6\n" +
+                    "ذٰلِكَ بِأَنَّهُ كانَت تَأتيهِم رُسُلُهُم بِالبَيِّناتِ فَقالوا أَبَشَرٌ يَهدونَنا فَكَفَروا وَتَوَلَّوا ۚ وَاستَغنَى اللَّهُ ۚ وَاللَّهُ غَنِيٌّ حَميدٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "dhālika bi-ʾannahū kānat taʾtīhim rusuluhum bi-l-bayyināti fa-qālū ʾa-basharun yahdūnanā fa-kafarū wa-tawallaw wa-staghnā llāhu wa-llāhu ghaniyyun ḥamīdun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "That was because their apostles used to bring them\n" +
+                    "manifest proofs,\n" +
+                    "but they said, ‘Shall humans be our guides?!’\n" +
+                    "So they disbelieved and turned away,\n" +
+                    "and Allah was in no need [of their faith]\n" +
+                    "and Allah is all-sufficient, all-laudable.");
+            ayat.add("7\n" +
+                    "زَعَمَ الَّذينَ كَفَروا أَن لَن يُبعَثوا ۚ قُل بَلىٰ وَرَبّي لَتُبعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِما عَمِلتُم ۚ وَذٰلِكَ عَلَى اللَّهِ يَسيرٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "zaʿama lladhīna kafarū ʾan lan yubʿathū qul balā wa-rabbī la-tubʿathunna thumma la-tunabbaʾunna bi-mā ʿamiltum wa-dhālika ʿalā llāhi yasīrun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "The faithless claim that they will not be resurrected.\n" +
+                    "Say, ‘Yes, by my Lord,\n" +
+                    "you will surely be resurrected;\n" +
+                    "then you will surely be informed of what you did,\n" +
+                    "and that is easy for Allah.’");
+            ayat.add("8\n" +
+                    "فَآمِنوا بِاللَّهِ وَرَسولِهِ وَالنّورِ الَّذي أَنزَلنا ۚ وَاللَّهُ بِما تَعمَلونَ خَبيرٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-ʾāminū bi-llāhi wa-rasūlihī wa-n-nūri lladhī ʾanzalnā wa-llāhu bi-mā taʿmalūna khabīrun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "So have faith in Allah and His Apostle\n" +
+                    "and the light which We have sent down,\n" +
+                    "and Allah is well aware of what you do.");
+            ayat.add("9\n" +
+                    "يَومَ يَجمَعُكُم لِيَومِ الجَمعِ ۖ ذٰلِكَ يَومُ التَّغابُنِ ۗ وَمَن يُؤمِن بِاللَّهِ وَيَعمَل صالِحًا يُكَفِّر عَنهُ سَيِّئَاتِهِ وَيُدخِلهُ جَنّاتٍ تَجري مِن تَحتِهَا الأَنهارُ خالِدينَ فيها أَبَدًا ۚ ذٰلِكَ الفَوزُ العَظيمُ\n" +
+                    "TRANSLITERATION\n" +
+                    "yawma yajmaʿukum li-yawmi l-jamʿi dhālika yawmu t-taghābuni wa-man yuʾmin bi-llāhi wa-yaʿmal ṣāliḥan yukaffir ʿanhu sayyiʾātihī wa-yudkhilhu jannātin tajrī min taḥtihā l-ʾanhāru khālidīna fīhā ʾabadan dhālika l-fawzu l-ʿaẓīmu\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "The day when He will gather you\n" +
+                    "for the Day of Gathering,\n" +
+                    "that will be a day of dispossession.1\n" +
+                    "And whoever has faith in Allah and acts righteously,\n" +
+                    "He shall absolve him of his misdeeds\n" +
+                    "and admit him into gardens\n" +
+                    "with streams running in them,\n" +
+                    "to remain in them forever.\n" +
+                    "That is the great success.");
+            ayat.add("10\n" +
+                    "وَالَّذينَ كَفَروا وَكَذَّبوا بِآياتِنا أُولٰئِكَ أَصحابُ النّارِ خالِدينَ فيها ۖ وَبِئسَ المَصيرُ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-lladhīna kafarū wa-kadhdhabū bi-ʾāyātinā ʾulāʾika ʾaṣḥābu n-nāri khālidīna fīhā wa-biʾsa l-maṣīru\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "But as for those who are faithless and deny Our signs,\n" +
+                    "—they shall be the inmates of the Fire,\n" +
+                    "to remain in it [forever],\n" +
+                    "and it is an evil destination.");
+            ayat.add("11\n" +
+                    "ما أَصابَ مِن مُصيبَةٍ إِلّا بِإِذنِ اللَّهِ ۗ وَمَن يُؤمِن بِاللَّهِ يَهدِ قَلبَهُ ۚ وَاللَّهُ بِكُلِّ شَيءٍ عَليمٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "mā ʾaṣāba min muṣībatin ʾillā bi-ʾidhni llāhi wa-man yuʾmin bi-llāhi yahdi qalbahū wa-llāhu bi-kulli shayʾin ʿalīmun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "No affliction visits [anyone] except by Allah’s leave.\n" +
+                    "Whoever has faith in Allah,\n" +
+                    "He guides his heart,\n" +
+                    "and Allah has knowledge of all things.");
+            ayat.add("12\n" +
+                    "وَأَطيعُوا اللَّهَ وَأَطيعُوا الرَّسولَ ۚ فَإِن تَوَلَّيتُم فَإِنَّما عَلىٰ رَسولِنَا البَلاغُ المُبينُ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾaṭīʿū llāha wa-ʾaṭīʿū r-rasūla fa-ʾin tawallaytum fa-ʾinnamā ʿalā rasūlinā l-balāghu l-mubīnu\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Obey Allah and obey the Apostle;\n" +
+                    "but if you turn away,\n" +
+                    "then Our Apostle’s duty is only\n" +
+                    "to communicate in clear terms.");
+            ayat.add("13\n" +
+                    "اللَّهُ لا إِلٰهَ إِلّا هُوَ ۚ وَعَلَى اللَّهِ فَليَتَوَكَّلِ المُؤمِنونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "allāhu lā ʾilāha ʾillā huwa wa-ʿalā llāhi fa-l-yatawakkali l-muʾminūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Allah—there is no god except Him—\n" +
+                    "in Allah let all the faithful put their trust.");
+            ayat.add("14\n" +
+                    "يا أَيُّهَا الَّذينَ آمَنوا إِنَّ مِن أَزواجِكُم وَأَولادِكُم عَدُوًّا لَكُم فَاحذَروهُم ۚ وَإِن تَعفوا وَتَصفَحوا وَتَغفِروا فَإِنَّ اللَّهَ غَفورٌ رَحيمٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "yā-ʾayyuhā lladhīna ʾāmanū ʾinna min ʾazwājikum wa-ʾawlādikum ʿaduwwan lakum fa-ḥdharūhum wa-ʾin taʿfū wa-taṣfaḥū wa-taghfirū fa-ʾinna llāha ghafūrun raḥīmun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "O you who have faith!\n" +
+                    "Indeed among your spouses and children\n" +
+                    "you have enemies;\n" +
+                    "so beware of them.\n" +
+                    "And if you excuse, forbear and forgive,\n" +
+                    "then Allah is indeed all-forgiving, all-merciful.");
+            ayat.add("15\n" +
+                    "إِنَّما أَموالُكُم وَأَولادُكُم فِتنَةٌ ۚ وَاللَّهُ عِندَهُ أَجرٌ عَظيمٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinnamā ʾamwālukum wa-ʾawlādukum fitnatun wa-llāhu ʿindahū ʾajrun ʿaẓīmun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Rather your possessions and children are a trial,\n" +
+                    "and Allah—with Him is a great reward!");
+            ayat.add("16\n" +
+                    "فَاتَّقُوا اللَّهَ مَا استَطَعتُم وَاسمَعوا وَأَطيعوا وَأَنفِقوا خَيرًا لِأَنفُسِكُم ۗ وَمَن يوقَ شُحَّ نَفسِهِ فَأُولٰئِكَ هُمُ المُفلِحونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-ttaqū llāha mā staṭaʿtum wa-smaʿū wa-ʾaṭīʿū wa-ʾanfiqū khayran li-ʾanfusikum wa-man yūqa shuḥḥa nafsihī fa-ʾulāʾika humu l-mufliḥūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "So be wary of Allah, as far as you can,\n" +
+                    "and listen and obey,\n" +
+                    "and spend [in the way of Allah];\n" +
+                    "that is better for yourselves.\n" +
+                    "Those who are saved from their own greed\n" +
+                    "—it is they who are the felicitous.");
+            ayat.add("17\n" +
+                    "إِن تُقرِضُوا اللَّهَ قَرضًا حَسَنًا يُضاعِفهُ لَكُم وَيَغفِر لَكُم ۚ وَاللَّهُ شَكورٌ حَليمٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾin tuqriḍū llāha qarḍan ḥasanan yuḍāʿifhu lakum wa-yaghfir lakum wa-llāhu shakūrun ḥalīmun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "If you lend Allah a good loan,\n" +
+                    "He shall multiply it for you and forgive you,\n" +
+                    "and Allah is all-appreciative, all-forbearing,");
+            ayat.add("18\n" +
+                    "عالِمُ الغَيبِ وَالشَّهادَةِ العَزيزُ الحَكيمُ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʿālimu l-ghaybi wa-ṣ-ṣahādati l-ʿazīzu l-ḥakīmu\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Knower of the sensible and the Unseen,\n" +
+                    "the All-mighty, the All-wise.");
         }
         else if (surahName.equals("65. At-Talaq"))
         {
@@ -838,18 +1535,165 @@ public class Ayat extends AppCompatActivity {
                     "TRANSLATION :\n" +
                     "In the Name of Allah,\n" +
                     "the All-beneficent, the All-merciful.");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
+            ayat.add("1\n" +
+                    "يا أَيُّهَا النَّبِيُّ إِذا طَلَّقتُمُ النِّساءَ فَطَلِّقوهُنَّ لِعِدَّتِهِنَّ وَأَحصُوا العِدَّةَ ۖ وَاتَّقُوا اللَّهَ رَبَّكُم ۖ لا تُخرِجوهُنَّ مِن بُيوتِهِنَّ وَلا يَخرُجنَ إِلّا أَن يَأتينَ بِفاحِشَةٍ مُبَيِّنَةٍ ۚ وَتِلكَ حُدودُ اللَّهِ ۚ وَمَن يَتَعَدَّ حُدودَ اللَّهِ فَقَد ظَلَمَ نَفسَهُ ۚ لا تَدري لَعَلَّ اللَّهَ يُحدِثُ بَعدَ ذٰلِكَ أَمرًا\n" +
+                    "TRANSLITERATION\n" +
+                    "yā-ʾayyuhā n-nabiyyu ʾidhā ṭallaqtumu n-nisāʾa fa-ṭalliqūhunna li-ʿiddatihinna wa-ʾaḥṣū l-ʿiddata wa-ttaqū llāha rabbakum lā tukhrijūhunna min buyūtihinna wa-lā yakhrujna ʾillā ʾan yaʾtīna bi-fāḥishatin mubayyinatin wa-tilka ḥudūdu llāhi wa-man yataʿadda ḥudūda llāhi fa-qad ẓalama nafsahū lā tadrī laʿalla llāha yuḥdithu baʿda dhālika ʾamran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "O Prophet!\n" +
+                    "When you1 divorce women,\n" +
+                    "divorce them at [the conclusion of] their term2\n" +
+                    "and calculate the term,\n" +
+                    "and be wary of Allah, your Lord.\n" +
+                    "Do not turn them out from their houses,\n" +
+                    "nor shall they go out,\n" +
+                    "unless they commit a gross3 indecency.4\n" +
+                    "These are Allah’s bounds,\n" +
+                    "and whoever transgresses the bounds of Allah\n" +
+                    "certainly wrongs himself.\n" +
+                    "You never know\n" +
+                    "maybe Allah will bring off something new later on.");
+            ayat.add("2\n" +
+                    "فَإِذا بَلَغنَ أَجَلَهُنَّ فَأَمسِكوهُنَّ بِمَعروفٍ أَو فارِقوهُنَّ بِمَعروفٍ وَأَشهِدوا ذَوَي عَدلٍ مِنكُم وَأَقيمُوا الشَّهادَةَ لِلَّهِ ۚ ذٰلِكُم يوعَظُ بِهِ مَن كانَ يُؤمِنُ بِاللَّهِ وَاليَومِ الآخِرِ ۚ وَمَن يَتَّقِ اللَّهَ يَجعَل لَهُ مَخرَجًا\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-ʾidhā balaghna ʾajalahunna fa-ʾamsikūhunna bi-maʿrūfin ʾaw fāriqūhunna bi-maʿrūfin wa-ʾashhidū dhaway ʿadlin minkum wa-ʾaqīmū sh-shahādata li-llāhi dhālikum yūʿaẓu bihī man kāna yuʾminu bi-llāhi wa-l-yawmi l-ʾākhiri wa-man yattaqi llāha yajʿal lahū makhrajan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Then, when they have completed their term,\n" +
+                    "either retain them honourably\n" +
+                    "or separate from them honourably,\n" +
+                    "and take the witness of two fair men\n" +
+                    "from among yourselves,\n" +
+                    "and bear witness for the sake of Allah.\n" +
+                    "To [comply with] this is advised\n" +
+                    "whoever believes in Allah\n" +
+                    "and the Last Day.\n" +
+                    "And whoever is wary of Allah,\n" +
+                    "He shall make a way out for him,");
+            ayat.add("3\n" +
+                    "وَيَرزُقهُ مِن حَيثُ لا يَحتَسِبُ ۚ وَمَن يَتَوَكَّل عَلَى اللَّهِ فَهُوَ حَسبُهُ ۚ إِنَّ اللَّهَ بالِغُ أَمرِهِ ۚ قَد جَعَلَ اللَّهُ لِكُلِّ شَيءٍ قَدرًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-yarzuqhu min ḥaythu lā yaḥtasibu wa-man yatawakkal ʿalā llāhi fa-huwa ḥasbuhū ʾinna llāha bālighu ʾamrihī qad jaʿala llāhu li-kulli shayʾin qadran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and provide for him\n" +
+                    "from whence he does not reckon.\n" +
+                    "And whoever puts his trust in Allah,\n" +
+                    "He will suffice him.\n" +
+                    "Indeed Allah carries through His command.\n" +
+                    "Certainly Allah has set a measure for everything.");
+            ayat.add("4\n" +
+                    "وَاللّائي يَئِسنَ مِنَ المَحيضِ مِن نِسائِكُم إِنِ ارتَبتُم فَعِدَّتُهُنَّ ثَلاثَةُ أَشهُرٍ وَاللّائي لَم يَحِضنَ ۚ وَأُولاتُ الأَحمالِ أَجَلُهُنَّ أَن يَضَعنَ حَملَهُنَّ ۚ وَمَن يَتَّقِ اللَّهَ يَجعَل لَهُ مِن أَمرِهِ يُسرًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-llāʾī yaʾisna mina l-maḥīḍi min nisāʾikum ʾini rtabtum fa-ʿiddatuhunna thalāthatu ʾashhurin wa-llāʾī lam yaḥiḍna wa-ʾulātu l-ʾaḥmāli ʾajaluhunna ʾan yaḍaʿna ḥamlahunna wa-man yattaqi llāha yajʿal lahū min ʾamrihī yusran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "As for those\n" +
+                    "of your wives who do not hope to have menses,\n" +
+                    "should you have any doubts,\n" +
+                    "their term shall be three months,\n" +
+                    "and for those [as well] who have not yet had menses.\n" +
+                    "As for those who are pregnant,\n" +
+                    "their term shall be until they deliver.\n" +
+                    "And whoever is wary of Allah,\n" +
+                    "He shall grant him ease in his affairs.");
+            ayat.add("5\n" +
+                    "ذٰلِكَ أَمرُ اللَّهِ أَنزَلَهُ إِلَيكُم ۚ وَمَن يَتَّقِ اللَّهَ يُكَفِّر عَنهُ سَيِّئَاتِهِ وَيُعظِم لَهُ أَجرًا\n" +
+                    "TRANSLITERATION\n" +
+                    "dhālika ʾamru llāhi ʾanzalahū ʾilaykum wa-man yattaqi llāha yukaffir ʿanhu sayyiʾātihī wa-yuʿẓim lahū ʾajran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "That is the ordinance of Allah\n" +
+                    "which He has sent down to you,\n" +
+                    "and whoever is wary of Allah,\n" +
+                    "He shall absolve him of his misdeeds\n" +
+                    "and give him a great reward.");
+            ayat.add("6\n" +
+                    "أَسكِنوهُنَّ مِن حَيثُ سَكَنتُم مِن وُجدِكُم وَلا تُضارّوهُنَّ لِتُضَيِّقوا عَلَيهِنَّ ۚ وَإِن كُنَّ أُولاتِ حَملٍ فَأَنفِقوا عَلَيهِنَّ حَتّىٰ يَضَعنَ حَملَهُنَّ ۚ فَإِن أَرضَعنَ لَكُم فَآتوهُنَّ أُجورَهُنَّ ۖ وَأتَمِروا بَينَكُم بِمَعروفٍ ۖ وَإِن تَعاسَرتُم فَسَتُرضِعُ لَهُ أُخرىٰ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾaskinūhunna min ḥaythu sakantum min wujdikum wa-lā tuḍārrūhunna li-tuḍayyiqū ʿalayhinna wa-ʾin kunna ʾulāti ḥamlin fa-ʾanfiqū ʿalayhinna ḥattā yaḍaʿna ḥamlahunna fa-ʾin ʾarḍaʿna lakum fa-ʾātūhunna ʾujūrahunna wa-ʾtamirū baynakum bi-maʿrūfin wa-ʾin taʿāsartum fa-sa-turḍiʿu lahū ʾukhrā\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "House them where you live,1\n" +
+                    "in accordance with your means,\n" +
+                    "and do not harass them to put them in straits,\n" +
+                    "and should they be pregnant,\n" +
+                    "maintain them until they deliver.\n" +
+                    "Then, if they suckle [the baby] for you,\n" +
+                    "give them their wages\n" +
+                    "and consult together honourably;\n" +
+                    "but if you make things difficult for each other,\n" +
+                    "then another woman will suckle [the baby] for him.2");
+            ayat.add("7\n" +
+                    "لِيُنفِق ذو سَعَةٍ مِن سَعَتِهِ ۖ وَمَن قُدِرَ عَلَيهِ رِزقُهُ فَليُنفِق مِمّا آتاهُ اللَّهُ ۚ لا يُكَلِّفُ اللَّهُ نَفسًا إِلّا ما آتاها ۚ سَيَجعَلُ اللَّهُ بَعدَ عُسرٍ يُسرًا\n" +
+                    "TRANSLITERATION\n" +
+                    "li-yunfiq dhū saʿatin min saʿatihī wa-man qudira ʿalayhi rizquhū fa-l-yunfiq mimmā ʾātāhu llāhu lā yukallifu llāhu nafsan ʾillā mā ʾātāhā sa-yajʿalu llāhu baʿda ʿusrin yusran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Let the affluent man spend out of his affluence,\n" +
+                    "and let he whose provision has been tightened\n" +
+                    "spend out of what Allah has given him.\n" +
+                    "Allah does not task any soul\n" +
+                    "except [according to] what He has given it.\n" +
+                    "Allah will bring about ease after hardship.");
+            ayat.add("8\n" +
+                    "وَكَأَيِّن مِن قَريَةٍ عَتَت عَن أَمرِ رَبِّها وَرُسُلِهِ فَحاسَبناها حِسابًا شَديدًا وَعَذَّبناها عَذابًا نُكرًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ka-ʾayyin min qaryatin ʿatat ʿan ʾamri rabbihā wa-rusulihī fa-ḥāsabnāhā ḥisāban shadīdan wa-ʿadhdhabnāhā ʿadhāban nukran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "How many a town defied the command of its Lord\n" +
+                    "and His apostles,\n" +
+                    "then We called it to a severe account\n" +
+                    "and punished it with a dire punishment.");
+            ayat.add("9\n" +
+                    "فَذاقَت وَبالَ أَمرِها وَكانَ عاقِبَةُ أَمرِها خُسرًا\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-dhāqat wabāla ʾamrihā wa-kāna ʿāqibatu ʾamrihā khusran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "So it tasted the evil consequences of its conduct,\n" +
+                    "and the outcome of its conduct was ruin.");
+            ayat.add("10\n" +
+                    "أَعَدَّ اللَّهُ لَهُم عَذابًا شَديدًا ۖ فَاتَّقُوا اللَّهَ يا أُولِي الأَلبابِ الَّذينَ آمَنوا ۚ قَد أَنزَلَ اللَّهُ إِلَيكُم ذِكرًا\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾaʿadda llāhu lahum ʿadhāban shadīdan fa-ttaqū llāha yā-ʾulī l-ʾalbābi lladhīna ʾāmanū qad ʾanzala llāhu ʾilaykum dhikran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Allah has prepared for them a severe punishment.\n" +
+                    "So be wary of Allah,\n" +
+                    "O you who possess intellect and have faith!\n" +
+                    "Allah has already sent down to you a reminder,");
+            ayat.add("11\n" +
+                    "رَسولًا يَتلو عَلَيكُم آياتِ اللَّهِ مُبَيِّناتٍ لِيُخرِجَ الَّذينَ آمَنوا وَعَمِلُوا الصّالِحاتِ مِنَ الظُّلُماتِ إِلَى النّورِ ۚ وَمَن يُؤمِن بِاللَّهِ وَيَعمَل صالِحًا يُدخِلهُ جَنّاتٍ تَجري مِن تَحتِهَا الأَنهارُ خالِدينَ فيها أَبَدًا ۖ قَد أَحسَنَ اللَّهُ لَهُ رِزقًا\n" +
+                    "TRANSLITERATION\n" +
+                    "rasūlan yatlū ʿalaykum ʾāyāti llāhi mubayyinātin li-yukhrija lladhīna ʾāmanū wa-ʿamilū ṣ-ṣāliḥāti mina ẓ-ẓulumāti ʾilā n-nūri wa-man yuʾmin bi-llāhi wa-yaʿmal ṣāliḥan yudkhilhu jannātin tajrī min taḥtihā l-ʾanhāru khālidīna fīhā ʾabadan qad ʾaḥsana llāhu lahū rizqan-i\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "an apostle\n" +
+                    "reciting to you the manifest signs of Allah\n" +
+                    "that He may bring out those who have faith\n" +
+                    "and do righteous deeds\n" +
+                    "from darkness into light.\n" +
+                    "And whoever has faith in Allah\n" +
+                    "and does righteous deeds,\n" +
+                    "He shall admit him into gardens\n" +
+                    "with streams running in them,\n" +
+                    "to remain in them forever.\n" +
+                    "Allah has certainly granted him an excellent provision.");
+            ayat.add("12\n" +
+                    "اللَّهُ الَّذي خَلَقَ سَبعَ سَماواتٍ وَمِنَ الأَرضِ مِثلَهُنَّ يَتَنَزَّلُ الأَمرُ بَينَهُنَّ لِتَعلَموا أَنَّ اللَّهَ عَلىٰ كُلِّ شَيءٍ قَديرٌ وَأَنَّ اللَّهَ قَد أَحاطَ بِكُلِّ شَيءٍ عِلمًا\n" +
+                    "TRANSLITERATION\n" +
+                    "allāhu lladhī khalaqa sabʿa samāwātin wa-mina l-ʾarḍi mithlahunna yatanazzalu l-ʾamru baynahunna li-taʿlamū ʾanna llāha ʿalā kulli shayʾin qadīrun wa-ʾanna llāha qad ʾaḥāṭa bi-kulli shayʾin ʿilman\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "It is Allah who has created seven heavens,\n" +
+                    "and of the earth [a number] similar to them.\n" +
+                    "The command gradually descends through them,\n" +
+                    "that you may know\n" +
+                    "that Allah has power over all things,\n" +
+                    "and that Allah comprehends all things in knowledge.");
         }
         else if (surahName.equals("66. At-Tahreem"))
         {
@@ -861,18 +1705,158 @@ public class Ayat extends AppCompatActivity {
                     "TRANSLATION :\n" +
                     "In the Name of Allah,\n" +
                     "the All-beneficent, the All-merciful.");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
+            ayat.add("1\n" +
+                    "يا أَيُّهَا النَّبِيُّ لِمَ تُحَرِّمُ ما أَحَلَّ اللَّهُ لَكَ ۖ تَبتَغي مَرضاتَ أَزواجِكَ ۚ وَاللَّهُ غَفورٌ رَحيمٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "yā-ʾayyuhā n-nabiyyu li-ma tuḥarrimu mā ʾaḥalla llāhu laka tabtaghī marḍāta ʾazwājika wa-llāhu ghafūrun raḥīmun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "O Prophet! Why do you prohibit [yourself]\n" +
+                    "what Allah has made lawful for you,\n" +
+                    "seeking to please your wives?\n" +
+                    "And Allah is all-forgiving, all-merciful.");
+            ayat.add("2\n" +
+                    "قَد فَرَضَ اللَّهُ لَكُم تَحِلَّةَ أَيمانِكُم ۚ وَاللَّهُ مَولاكُم ۖ وَهُوَ العَليمُ الحَكيمُ\n" +
+                    "TRANSLITERATION\n" +
+                    "qad faraḍa llāhu lakum taḥillata ʾaymānikum wa-llāhu mawlākum wa-huwa l-ʿalīmu l-ḥakīmu\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Allah has certainly made lawful for you\n" +
+                    "the dissolution of your oaths,1\n" +
+                    "and Allah is your master\n" +
+                    "and He is the All-knowing, the All-wise.");
+            ayat.add("3\n" +
+                    "وَإِذ أَسَرَّ النَّبِيُّ إِلىٰ بَعضِ أَزواجِهِ حَديثًا فَلَمّا نَبَّأَت بِهِ وَأَظهَرَهُ اللَّهُ عَلَيهِ عَرَّفَ بَعضَهُ وَأَعرَضَ عَن بَعضٍ ۖ فَلَمّا نَبَّأَها بِهِ قالَت مَن أَنبَأَكَ هٰذا ۖ قالَ نَبَّأَنِيَ العَليمُ الخَبيرُ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾidh ʾasarra n-nabiyyu ʾilā baʿḍi ʾazwājihī ḥadīthan fa-lammā nabbaʾat bihī wa-ʾaẓharahu llāhu ʿalayhi ʿarrafa baʿḍahū wa-ʾaʿraḍa ʿan baʿḍin fa-lammā nabbaʾahā bihī qālat man ʾanbaʾaka hādhā qāla nabbaʾaniya l-ʿalīmu l-khabīru\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "When the Prophet confided to one of his wives\n" +
+                    "a matter,\n" +
+                    "but when she divulged it,\n" +
+                    "and Allah apprised him about it,\n" +
+                    "he announced [to her] part of it\n" +
+                    "and disregarded part of it.\n" +
+                    "So when he told her about it,\n" +
+                    "she said, ‘Who informed you about it?’\n" +
+                    "He said,\n" +
+                    "‘The All-knowing and the All-aware informed me.’");
+            ayat.add("4\n" +
+                    "إِن تَتوبا إِلَى اللَّهِ فَقَد صَغَت قُلوبُكُما ۖ وَإِن تَظاهَرا عَلَيهِ فَإِنَّ اللَّهَ هُوَ مَولاهُ وَجِبريلُ وَصالِحُ المُؤمِنينَ ۖ وَالمَلائِكَةُ بَعدَ ذٰلِكَ ظَهيرٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾin tatūbā ʾilā llāhi fa-qad ṣaghat qulūbukumā wa-ʾin taẓāharā ʿalayhi fa-ʾinna llāha huwa mawlāhu wa-jibrīlu wa-ṣāliḥu l-muʾminīna wa-l-malāʾikatu baʿda dhālika ẓahīrun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "If the two of you1 repent to Allah …2\n" +
+                    "for your hearts have certainly swerved,\n" +
+                    "and if you back each other against him,\n" +
+                    "then [know that] Allah is indeed his guardian,\n" +
+                    "and Gabriel, the righteous among the faithful,\n" +
+                    "and, thereafter, the angels are his supporters.");
+            ayat.add("5\n" +
+                    "عَسىٰ رَبُّهُ إِن طَلَّقَكُنَّ أَن يُبدِلَهُ أَزواجًا خَيرًا مِنكُنَّ مُسلِماتٍ مُؤمِناتٍ قانِتاتٍ تائِباتٍ عابِداتٍ سائِحاتٍ ثَيِّباتٍ وَأَبكارًا\n" +
+                    "TRANSLITERATION\n" +
+                    "ʿasā rabbuhū ʾin ṭallaqakunna ʾan yubdilahū ʾazwājan khayran minkunna muslimātin muʾminātin qānitātin tāʾibātin ʿābidātin sāʾiḥātin thayyibātin wa-ʾabkāran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "It may be that if he divorces you\n" +
+                    "his Lord will give him, in [your] stead, wives\n" +
+                    "better than you:\n" +
+                    "[such as are] muslim, faithful, obedient,\n" +
+                    "penitent, devout and given to fasting,\n" +
+                    "virgins and non-virgins.");
+            ayat.add("6\n" +
+                    "يا أَيُّهَا الَّذينَ آمَنوا قوا أَنفُسَكُم وَأَهليكُم نارًا وَقودُهَا النّاسُ وَالحِجارَةُ عَلَيها مَلائِكَةٌ غِلاظٌ شِدادٌ لا يَعصونَ اللَّهَ ما أَمَرَهُم وَيَفعَلونَ ما يُؤمَرونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "yā-ʾayyuhā lladhīna ʾāmanū qū ʾanfusakum wa-ʾahlīkum nāran waqūduhā n-nāsu wa-l-ḥijāratu ʿalayhā malāʾikatun ghilāẓun shidādun lā yaʿṣūna llāha mā ʾamarahum wa-yafʿalūna mā yuʾmarūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "O you who have faith!\n" +
+                    "Save yourselves and your families from a Fire\n" +
+                    "whose fuel is people and stones,\n" +
+                    "over which are [assigned] angels, severe and mighty,\n" +
+                    "who do not disobey\n" +
+                    "whatever Allah has commanded them,\n" +
+                    "and carry out what they are commanded.");
+            ayat.add("7\n" +
+                    "يا أَيُّهَا الَّذينَ كَفَروا لا تَعتَذِرُوا اليَومَ ۖ إِنَّما تُجزَونَ ما كُنتُم تَعمَلونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "yā-ʾayyuhā lladhīna kafarū lā taʿtadhirū l-yawma ʾinnamā tujzawna mā kuntum taʿmalūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "[They will call out to the faithless:] ‘O faithless ones!\n" +
+                    "Do not make any excuses today.\n" +
+                    "You are only being requited\n" +
+                    "for what you used to do.’");
+            ayat.add("8\n" +
+                    "يا أَيُّهَا الَّذينَ آمَنوا توبوا إِلَى اللَّهِ تَوبَةً نَصوحًا عَسىٰ رَبُّكُم أَن يُكَفِّرَ عَنكُم سَيِّئَاتِكُم وَيُدخِلَكُم جَنّاتٍ تَجري مِن تَحتِهَا الأَنهارُ يَومَ لا يُخزِي اللَّهُ النَّبِيَّ وَالَّذينَ آمَنوا مَعَهُ ۖ نورُهُم يَسعىٰ بَينَ أَيديهِم وَبِأَيمانِهِم يَقولونَ رَبَّنا أَتمِم لَنا نورَنا وَاغفِر لَنا ۖ إِنَّكَ عَلىٰ كُلِّ شَيءٍ قَديرٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "yā-ʾayyuhā lladhīna ʾāmanū tūbū ʾilā llāhi tawbatan naṣūḥan ʿasā rabbukum ʾan yukaffira ʿankum sayyiʾātikum wa-yudkhilakum jannātin tajrī min taḥtihā l-ʾanhāru yawma lā yukhzī llāhu n-nabiyya wa-lladhīna ʾāmanū maʿahū nūruhum yasʿā bayna ʾaydīhim wa-bi-ʾaymānihim yaqūlūna rabbanā ʾatmim lanā nūranā wa-ghfir lanā ʾinnaka ʿalā kulli shayʾin qadīrun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "O you who have faith!\n" +
+                    "Repent to Allah with sincere repentance!\n" +
+                    "Maybe your Lord\n" +
+                    "will absolve you of your misdeeds\n" +
+                    "and admit you into gardens\n" +
+                    "with streams running in them,\n" +
+                    "on the day\n" +
+                    "when Allah will not let the Prophet down\n" +
+                    "and the faithful who are with him.\n" +
+                    "Their light will move swiftly before them\n" +
+                    "and on their right.\n" +
+                    "They will say, ‘Our Lord!\n" +
+                    "Perfect our light for us, and forgive us!\n" +
+                    "Indeed You have power over all things.’");
+            ayat.add("9\n" +
+                    "يا أَيُّهَا النَّبِيُّ جاهِدِ الكُفّارَ وَالمُنافِقينَ وَاغلُظ عَلَيهِم ۚ وَمَأواهُم جَهَنَّمُ ۖ وَبِئسَ المَصيرُ\n" +
+                    "TRANSLITERATION\n" +
+                    "yā-ʾayyuhā n-nabiyyu jāhidi l-kuffāra wa-l-munāfiqīna wa-ghluẓ ʿalayhim wa-maʾwāhum jahannamu wa-biʾsa l-maṣīru\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "O Prophet!\n" +
+                    "Wage jihād against the faithless and the hypocrites,\n" +
+                    "and be severe with them.\n" +
+                    "Their refuge shall be hell,\n" +
+                    "and it is an evil destination.");
+            ayat.add("10\n" +
+                    "ضَرَبَ اللَّهُ مَثَلًا لِلَّذينَ كَفَرُوا امرَأَتَ نوحٍ وَامرَأَتَ لوطٍ ۖ كانَتا تَحتَ عَبدَينِ مِن عِبادِنا صالِحَينِ فَخانَتاهُما فَلَم يُغنِيا عَنهُما مِنَ اللَّهِ شَيئًا وَقيلَ ادخُلَا النّارَ مَعَ الدّاخِلينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ḍaraba llāhu mathalan li-lladhīna kafarū mraʾata nūḥin wa-mraʾata lūṭin kānatā taḥta ʿabdayni min ʿibādinā ṣāliḥayni fa-khānatāhumā fa-lam yughniyā ʿanhumā mina llāhi shayʾan wa-qīla dkhulā n-nāra maʿa d-dākhilīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Allah draws an example for the faithless:\n" +
+                    "the wife of Noah and the wife of Lot.\n" +
+                    "They were\n" +
+                    "under two of our righteous servants,\n" +
+                    "yet they betrayed them.\n" +
+                    "So they1 did not avail them2 in any way against Allah,\n" +
+                    "and it was said [to them],\n" +
+                    "‘Enter the Fire, along with those who enter [it].’");
+            ayat.add("11\n" +
+                    "وَضَرَبَ اللَّهُ مَثَلًا لِلَّذينَ آمَنُوا امرَأَتَ فِرعَونَ إِذ قالَت رَبِّ ابنِ لي عِندَكَ بَيتًا فِي الجَنَّةِ وَنَجِّني مِن فِرعَونَ وَعَمَلِهِ وَنَجِّني مِنَ القَومِ الظّالِمينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ḍaraba llāhu mathalan li-lladhīna ʾāmanū mraʾata firʿawna ʾidh qālat rabbi bni lī ʿindaka baytan fī l-jannati wa-najjinī min firʿawna wa-ʿamalihī wa-najjinī mina l-qawmi ẓ-ẓālimīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Allah draws an[other] example\n" +
+                    "for those who have faith:\n" +
+                    "the wife of Pharaoh, when she said,\n" +
+                    "‘My Lord! Build me a home near You in paradise,\n" +
+                    "and deliver me from Pharaoh and his conduct,\n" +
+                    "and deliver me from the wrongdoing lot.’");
+            ayat.add("12\n" +
+                    "وَمَريَمَ ابنَتَ عِمرانَ الَّتي أَحصَنَت فَرجَها فَنَفَخنا فيهِ مِن روحِنا وَصَدَّقَت بِكَلِماتِ رَبِّها وَكُتُبِهِ وَكانَت مِنَ القانِتينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-maryama bnata ʿimrāna llatī ʾaḥṣanat farjahā fa-nafakhnā fīhi min rūḥinā wa-ṣaddaqat bi-kalimāti rabbihā wa-kutubihī wa-kānat mina l-qānitīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "And Mary, daughter of Imran,\n" +
+                    "who guarded the chastity of her womb,\n" +
+                    "so We breathed into it of Our spirit.\n" +
+                    "She confirmed the words of her Lord\n" +
+                    "and His Books,\n" +
+                    "and she was one of the obedient.");
         }
         else if (surahName.equals("67. Al-Mulk"))
         {
@@ -884,36 +1868,279 @@ public class Ayat extends AppCompatActivity {
                     "TRANSLATION :\n" +
                     "In the Name of Allah,\n" +
                     "the All-beneficent, the All-merciful.");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
+            ayat.add("1\n" +
+                    "تَبارَكَ الَّذي بِيَدِهِ المُلكُ وَهُوَ عَلىٰ كُلِّ شَيءٍ قَديرٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "tabāraka lladhī bi-yadihi l-mulku wa-huwa ʿalā kulli shayʾin qadīrun-i\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Blessed is He in whose hands is all sovereignty,\n" +
+                    "and He has power over all things.");
+            ayat.add("2\n" +
+                    "الَّذي خَلَقَ المَوتَ وَالحَياةَ لِيَبلُوَكُم أَيُّكُم أَحسَنُ عَمَلًا ۚ وَهُوَ العَزيزُ الغَفورُ\n" +
+                    "TRANSLITERATION\n" +
+                    "alladhī khalaqa l-mawta wa-l-ḥayāta li-yabluwakum ʾayyukum ʾaḥsanu ʿamalan wa-huwa l-ʿazīzu l-ghafūru\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "He, who created death and life\n" +
+                    "that He may test you [to see]\n" +
+                    "which of you is best in conduct.\n" +
+                    "And He is the All-mighty, the All-forgiving.");
+            ayat.add("3\n" +
+                    "الَّذي خَلَقَ سَبعَ سَماواتٍ طِباقًا ۖ ما تَرىٰ في خَلقِ الرَّحمٰنِ مِن تَفاوُتٍ ۖ فَارجِعِ البَصَرَ هَل تَرىٰ مِن فُطورٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "alladhī khalaqa sabʿa samāwātin ṭibāqan mā tarā fī khalqi r-raḥmāni min tafāwutin fa-rjiʿi l-baṣara hal tarā min fuṭūrin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "He created seven heavens in layers.\n" +
+                    "You do not see\n" +
+                    "any discordance in the creation of the All-beneficent.\n" +
+                    "Look again!\n" +
+                    "Do you see any flaw?");
+            ayat.add("4\n" +
+                    "ثُمَّ ارجِعِ البَصَرَ كَرَّتَينِ يَنقَلِب إِلَيكَ البَصَرُ خاسِئًا وَهُوَ حَسيرٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "thumma rjiʿi l-baṣara karratayni yanqalib ʾilayka l-baṣaru khāsiʾan wa-huwa ḥasīrun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Look again, once more.\n" +
+                    "Your look will return to you\n" +
+                    "humbled and weary.");
+            ayat.add("5\n" +
+                    "وَلَقَد زَيَّنَّا السَّماءَ الدُّنيا بِمَصابيحَ وَجَعَلناها رُجومًا لِلشَّياطينِ ۖ وَأَعتَدنا لَهُم عَذابَ السَّعيرِ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-la-qad zayyannā s-samāʾa d-dunyā bi-maṣābīḥa wa-jaʿalnāhā rujūman li-sh-shayāṭīni wa-ʾaʿtadnā lahum ʿadhāba s-saʿīri\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "We have certainly adorned the lowest heaven\n" +
+                    "with lamps,\n" +
+                    "and made them missiles against the devils,\n" +
+                    "and We have prepared for them\n" +
+                    "punishment of the Blaze.");
+            ayat.add("6\n" +
+                    "وَلِلَّذينَ كَفَروا بِرَبِّهِم عَذابُ جَهَنَّمَ ۖ وَبِئسَ المَصيرُ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-li-lladhīna kafarū bi-rabbihim ʿadhābu jahannama wa-biʾsa l-maṣīru\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "For those who defy their Lord\n" +
+                    "is the punishment of hell,\n" +
+                    "and it is an evil destination.");
+            ayat.add("7\n" +
+                    "إِذا أُلقوا فيها سَمِعوا لَها شَهيقًا وَهِيَ تَفورُ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾidhā ʾulqū fīhā samiʿū lahā shahīqan wa-hiya tafūru\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "When they are thrown in it,\n" +
+                    "they hear it blaring, as it seethes,");
+            ayat.add("8\n" +
+                    "تَكادُ تَمَيَّزُ مِنَ الغَيظِ ۖ كُلَّما أُلقِيَ فيها فَوجٌ سَأَلَهُم خَزَنَتُها أَلَم يَأتِكُم نَذيرٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "takādu tamayyazu mina l-ghayẓi kullamā ʾulqiya fīhā fawjun saʾalahum khazanatuhā ʾa-lam yaʾtikum nadhīrun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "almost exploding with rage.\n" +
+                    "Whenever a group is thrown in it,\n" +
+                    "its keepers will ask them,\n" +
+                    "‘Did there not come to you any warner?’");
+            ayat.add("9\n" +
+                    "قالوا بَلىٰ قَد جاءَنا نَذيرٌ فَكَذَّبنا وَقُلنا ما نَزَّلَ اللَّهُ مِن شَيءٍ إِن أَنتُم إِلّا في ضَلالٍ كَبيرٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "qālū balā qad jāʾanā nadhīrun fa-kadhdhabnā wa-qulnā mā nazzala llāhu min shayʾin ʾin ʾantum ʾillā fī ḍalālin kabīrin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "They will say, ‘Yes, a warner did come to us,\n" +
+                    "but we impugned [him] and said,\n" +
+                    "‘Allah did not send down anything;\n" +
+                    "you are only in great error.’");
+            ayat.add("10\n" +
+                    "وَقالوا لَو كُنّا نَسمَعُ أَو نَعقِلُ ما كُنّا في أَصحابِ السَّعيرِ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-qālū law kunnā nasmaʿu ʾaw naʿqilu mā kunnā fī ʾaṣḥābi s-saʿīri\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "And they will say,\n" +
+                    "‘Had we listened or applied reason,\n" +
+                    "we would not have been among inmates of the Blaze.’");
+            ayat.add("11\n" +
+                    "فَاعتَرَفوا بِذَنبِهِم فَسُحقًا لِأَصحابِ السَّعيرِ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-ʿtarafū bi-dhanbihim fa-suḥqan li-ʾaṣḥābi s-saʿīri\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Thus they will admit their sin.\n" +
+                    "So away with the inmates of the Blaze!");
+            ayat.add("12\n" +
+                    "إِنَّ الَّذينَ يَخشَونَ رَبَّهُم بِالغَيبِ لَهُم مَغفِرَةٌ وَأَجرٌ كَبيرٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinna lladhīna yakhshawna rabbahum bi-l-ghaybi lahum maghfiratun wa-ʾajrun kabīrun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Indeed for those who fear their Lord in secret\n" +
+                    "there will be forgiveness and a great reward.");
+            ayat.add("13\n" +
+                    "وَأَسِرّوا قَولَكُم أَوِ اجهَروا بِهِ ۖ إِنَّهُ عَليمٌ بِذاتِ الصُّدورِ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾasirrū qawlakum ʾawi jharū bihī ʾinnahū ʿalīmun bi-dhāti ṣ-ṣudūri\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Speak secretly, or do so loudly,\n" +
+                    "indeed He knows well what is in the breasts.");
+            ayat.add("14\n" +
+                    "أَلا يَعلَمُ مَن خَلَقَ وَهُوَ اللَّطيفُ الخَبيرُ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾa-lā yaʿlamu man khalaqa wa-huwa l-laṭīfu l-khabīru\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Would He who has created not know?\n" +
+                    "And He is the All-attentive, the All-aware.");
+            ayat.add("15\n" +
+                    "هُوَ الَّذي جَعَلَ لَكُمُ الأَرضَ ذَلولًا فَامشوا في مَناكِبِها وَكُلوا مِن رِزقِهِ ۖ وَإِلَيهِ النُّشورُ\n" +
+                    "TRANSLITERATION\n" +
+                    "huwa lladhī jaʿala lakumu l-ʾarḍa dhalūlan fa-mshū fī manākibihā wa-kulū min rizqihī wa-ʾilayhi n-nushūru\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "It is He who made the earth tractable for you;\n" +
+                    "so walk on its flanks\n" +
+                    "and eat of His provision,\n" +
+                    "and towards Him is the resurrection.");
+            ayat.add("16\n" +
+                    "أَأَمِنتُم مَن فِي السَّماءِ أَن يَخسِفَ بِكُمُ الأَرضَ فَإِذا هِيَ تَمورُ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾa-ʾamintum man fī s-samāʾi ʾan yakhsifa bikumu l-ʾarḍa fa-ʾidhā hiya tamūru\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Are you secure that He who is in the sky\n" +
+                    "will not make the earth swallow you\n" +
+                    "while it quakes?");
+            ayat.add("17\n" +
+                    "أَم أَمِنتُم مَن فِي السَّماءِ أَن يُرسِلَ عَلَيكُم حاصِبًا ۖ فَسَتَعلَمونَ كَيفَ نَذيرِ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾam-ʾamintum man fī s-samāʾi ʾan yursila ʿalaykum ḥāṣiban fa-sa-taʿlamūna kayfa nadhīri\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Are you secure that He who is in the sky\n" +
+                    "will not unleash upon you a rain of stones?\n" +
+                    "Soon you will know how My warning has been!");
+            ayat.add("18\n" +
+                    "وَلَقَد كَذَّبَ الَّذينَ مِن قَبلِهِم فَكَيفَ كانَ نَكيرِ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-la-qad kadhdhaba lladhīna min qablihim fa-kayfa kāna nakīri\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Certainly those who were before them had denied;\n" +
+                    "but then how was My rebuttal!1\n" +
+                    "Or, ‘how was My requital.’");
+            ayat.add("19\n" +
+                    "أَوَلَم يَرَوا إِلَى الطَّيرِ فَوقَهُم صافّاتٍ وَيَقبِضنَ ۚ ما يُمسِكُهُنَّ إِلَّا الرَّحمٰنُ ۚ إِنَّهُ بِكُلِّ شَيءٍ بَصيرٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾa-wa-lam yaraw ʾilā ṭ-ṭayri fawqahum ṣāffātin wa-yaqbiḍna mā yumsikuhunna ʾillā r-raḥmānu ʾinnahū bi-kulli shayʾin baṣīrun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Have they not regarded the birds above them\n" +
+                    "spreading and closing their wings?\n" +
+                    "No one sustains them except the All-beneficent.\n" +
+                    "Indeed He sees best all things.");
+            ayat.add("20\n" +
+                    "أَمَّن هٰذَا الَّذي هُوَ جُندٌ لَكُم يَنصُرُكُم مِن دونِ الرَّحمٰنِ ۚ إِنِ الكافِرونَ إِلّا في غُرورٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾam-man hādhā lladhī huwa jundun lakum yanṣurukum min dūni r-raḥmāni ʾini l-kāfirūna ʾillā fī ghurūrin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Who is it that is your host\n" +
+                    "who may help you, besides the All-beneficent?\n" +
+                    "The faithless only dwell in delusion.");
+            ayat.add("21\n" +
+                    "أَمَّن هٰذَا الَّذي يَرزُقُكُم إِن أَمسَكَ رِزقَهُ ۚ بَل لَجّوا في عُتُوٍّ وَنُفورٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾam-man hādhā lladhī yarzuqukum ʾin ʾamsaka rizqahū bal lajjū fī ʿutuwwin wa-nufūrin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Who is it that may provide for you\n" +
+                    "if He withholds His provision?\n" +
+                    "Rather they persist in defiance and aversion.");
+            ayat.add("22\n" +
+                    "أَفَمَن يَمشي مُكِبًّا عَلىٰ وَجهِهِ أَهدىٰ أَمَّن يَمشي سَوِيًّا عَلىٰ صِراطٍ مُستَقيمٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾa-fa-man yamshī mukibban ʿalā wajhihī ʾahdā ʾam-man yamshī sawiyyan ʿalā ṣirāṭin mustaqīmin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Is he who walks prone on his face better guided,\n" +
+                    "or he who walks upright\n" +
+                    "on a straight path?");
+            ayat.add("23\n" +
+                    "قُل هُوَ الَّذي أَنشَأَكُم وَجَعَلَ لَكُمُ السَّمعَ وَالأَبصارَ وَالأَفئِدَةَ ۖ قَليلًا ما تَشكُرونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "qul huwa lladhī ʾanshaʾakum wa-jaʿala lakumu s-samʿa wa-l-ʾabṣāra wa-l-ʾafʾidata qalīlan mā tashkurūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Say, ‘It is He who created you,\n" +
+                    "and made for you hearing, eyesight, and hearts.\n" +
+                    "Little do you thank.’");
+            ayat.add("24\n" +
+                    "قُل هُوَ الَّذي ذَرَأَكُم فِي الأَرضِ وَإِلَيهِ تُحشَرونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "qul huwa lladhī dharaʾakum fī l-ʾarḍi wa-ʾilayhi tuḥsharūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Say, ‘It is He who created you on the earth,\n" +
+                    "and toward Him you will be mustered.’");
+            ayat.add("25\n" +
+                    "وَيَقولونَ مَتىٰ هٰذَا الوَعدُ إِن كُنتُم صادِقينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-yaqūlūna matā hādhā l-waʿdu ʾin kuntum ṣādiqīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "They say, ‘When will this promise be fulfilled,\n" +
+                    "should you be truthful?’");
+            ayat.add("26\n" +
+                    "قُل إِنَّمَا العِلمُ عِندَ اللَّهِ وَإِنَّما أَنا نَذيرٌ مُبينٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "qul ʾinnamā l-ʿilmu ʿinda llāhi wa-ʾinnamā ʾana nadhīrun mubīnun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Say, ‘Its knowledge is only with Allah;\n" +
+                    "I am only a manifest warner.’");
+            ayat.add("27\n" +
+                    "فَلَمّا رَأَوهُ زُلفَةً سيئَت وُجوهُ الَّذينَ كَفَروا وَقيلَ هٰذَا الَّذي كُنتُم بِهِ تَدَّعونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-lammā raʾawhu zulfatan sīʾat wujūhu lladhīna kafarū wa-qīla hādhā lladhī kuntum bihī taddaʿūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "When they see it brought near,\n" +
+                    "the countenances of the faithless will be distorted,\n" +
+                    "and [they will be] told, ‘This is what you asked for!’");
+            ayat.add("28\n" +
+                    "قُل أَرَأَيتُم إِن أَهلَكَنِيَ اللَّهُ وَمَن مَعِيَ أَو رَحِمَنا فَمَن يُجيرُ الكافِرينَ مِن عَذابٍ أَليمٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "qul ʾa-raʾaytum ʾin ʾahlakaniya llāhu wa-man maʿiya ʾaw raḥimanā fa-man yujīru l-kāfirīna min ʿadhābin ʾalīmin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Say, ‘Tell me,\n" +
+                    "whether Allah destroys me and those with me,\n" +
+                    "or He has mercy on us,\n" +
+                    "who will shelter the faithless\n" +
+                    "from a painful punishment?’");
+            ayat.add("29\n" +
+                    "قُل هُوَ الرَّحمٰنُ آمَنّا بِهِ وَعَلَيهِ تَوَكَّلنا ۖ فَسَتَعلَمونَ مَن هُوَ في ضَلالٍ مُبينٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "qul huwa r-raḥmānu ʾāmannā bihī wa-ʿalayhi tawakkalnā fa-sa-taʿlamūna man huwa fī ḍalālin mubīnin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Say, ‘He is the All-beneficent;\n" +
+                    "we have faith in Him, and in Him do we trust.\n" +
+                    "Soon you will know\n" +
+                    "who is in manifest error.’");
+            ayat.add("30\n" +
+                    "قُل أَرَأَيتُم إِن أَصبَحَ ماؤُكُم غَورًا فَمَن يَأتيكُم بِماءٍ مَعينٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "qul ʾa-raʾaytum ʾin ʾaṣbaḥa māʾukum ghawran fa-man yaʾtīkum bi-māʾin maʿīnin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Say, ‘Tell me,\n" +
+                    "should your water sink down [into the ground],\n" +
+                    "who will bring you running water?’");
         }
         else if (surahName.equals("68. Al-Qalam"))
         {
@@ -925,58 +2152,415 @@ public class Ayat extends AppCompatActivity {
                     "TRANSLATION :\n" +
                     "In the Name of Allah,\n" +
                     "the All-beneficent, the All-merciful.");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
+            ayat.add("1\n" +
+                    "ن ۚ وَالقَلَمِ وَما يَسطُرونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "n (nūn) wa-l-qalami wa-mā yasṭurūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Nūn.\n" +
+                    "By the Pen and what they write:");
+            ayat.add("2\n" +
+                    "ما أَنتَ بِنِعمَةِ رَبِّكَ بِمَجنونٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "mā ʾanta bi-niʿmati rabbika bi-majnūnin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "you are not, by your Lord’s blessing, crazy,");
+            ayat.add("3\n" +
+                    "وَإِنَّ لَكَ لَأَجرًا غَيرَ مَمنونٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾinna laka la-ʾajran ghayra mamnūnin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and yours indeed will be an everlasting reward,");
+            ayat.add("4\n" +
+                    "وَإِنَّكَ لَعَلىٰ خُلُقٍ عَظيمٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾinnaka la-ʿalā khuluqin ʿaẓīmin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and indeed you possess a great character.");
+            ayat.add("5\n" +
+                    "فَسَتُبصِرُ وَيُبصِرونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-sa-tubṣiru wa-yubṣirūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "You will see and they will see,");
+            ayat.add("6\n" +
+                    "بِأَييِكُمُ المَفتونُ\n" +
+                    "TRANSLITERATION\n" +
+                    "bi-ʾayyikumu l-maftūnu\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "which one of you is crazy.");
+            ayat.add("7\n" +
+                    "إِنَّ رَبَّكَ هُوَ أَعلَمُ بِمَن ضَلَّ عَن سَبيلِهِ وَهُوَ أَعلَمُ بِالمُهتَدينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinna rabbaka huwa ʾaʿlamu bi-man ḍalla ʿan sabīlihī wa-huwa ʾaʿlamu bi-l-muhtadīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Indeed your Lord knows best\n" +
+                    "those who stray from His way,\n" +
+                    "and He knows best those who are guided.");
+            ayat.add("8\n" +
+                    "فَلا تُطِعِ المُكَذِّبينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-lā tuṭiʿi l-mukadhdhibīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "So do not obey the deniers,");
+            ayat.add("9\n" +
+                    "وَدّوا لَو تُدهِنُ فَيُدهِنونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "waddū law tudhinu fa-yudhinūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "who are eager that you should be pliable,\n" +
+                    "so that they may be pliable [towards you].");
+            ayat.add("10\n" +
+                    "وَلا تُطِع كُلَّ حَلّافٍ مَهينٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-lā tuṭiʿ kulla ḥallāfin mahīnin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "And do not obey any vile swearer,");
+            ayat.add("11\n" +
+                    "هَمّازٍ مَشّاءٍ بِنَميمٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "hammāzin mashshāʾin bi-namīmin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "scandal-monger, talebearer,");
+            ayat.add("12\n" +
+                    "مَنّاعٍ لِلخَيرِ مُعتَدٍ أَثيمٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "mannāʿin li-l-khayri muʿtadin ʾathīmin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "hinderer of all good, sinful transgressor,");
+            ayat.add("13\n" +
+                    "عُتُلٍّ بَعدَ ذٰلِكَ زَنيمٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʿutullin baʿda dhālika zanīmin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "callous and, on top of that, baseborn,");
+            ayat.add("14\n" +
+                    "أَن كانَ ذا مالٍ وَبَنينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾan kāna dhā mālin wa-banīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "—[only] because he has wealth and children.");
+            ayat.add("15\n" +
+                    "إِذا تُتلىٰ عَلَيهِ آياتُنا قالَ أَساطيرُ الأَوَّلينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾidhā tutlā ʿalayhi ʾāyātunā qāla ʾasāṭīru l-ʾawwalīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "When Our signs are recited to him,");
+            ayat.add("16\n" +
+                    "سَنَسِمُهُ عَلَى الخُرطومِ\n" +
+                    "TRANSLITERATION\n" +
+                    "sa-nasimuhū ʿalā l-khurṭūmi\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Soon We shall brand him on the snout.");
+            ayat.add("17\n" +
+                    "إِنّا بَلَوناهُم كَما بَلَونا أَصحابَ الجَنَّةِ إِذ أَقسَموا لَيَصرِمُنَّها مُصبِحينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinnā balawnāhum ka-mā balawnā ʾaṣḥāba l-jannati ʾidh ʾaqsamū la-yaṣrimunnahā muṣbiḥīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Indeed we have tested them1\n" +
+                    "just as We tested the People of the Garden\n" +
+                    "when they vowed they would gather its fruit\n" +
+                    "at dawn,");
+            ayat.add("18\n" +
+                    "وَلا يَستَثنونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-lā yastathnūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and they did not make any exception.");
+            ayat.add("19\n" +
+                    "فَطافَ عَلَيها طائِفٌ مِن رَبِّكَ وَهُم نائِمونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-ṭāfa ʿalayhā ṭāʾifun min rabbika wa-hum nāʾimūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Then a visitation from your Lord visited it1\n" +
+                    "while they were asleep.");
+            ayat.add("20\n" +
+                    "فَأَصبَحَت كَالصَّريمِ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-ʾaṣbaḥat ka-ṣ-ṣarīmi\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "So by the dawn it was like a harvested field.1");
+            ayat.add("21\n" +
+                    "فَتَنادَوا مُصبِحينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-tanādaw muṣbiḥīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "At dawn they called out to one another,");
+            ayat.add("22\n" +
+                    "أَنِ اغدوا عَلىٰ حَرثِكُم إِن كُنتُم صارِمينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾani ghdū ʿalā ḥarthikum ʾin kuntum ṣārimīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "‘Get off early to your field\n" +
+                    "if you have to gather [the fruits].’");
+            ayat.add("23\n" +
+                    "فَانطَلَقوا وَهُم يَتَخافَتونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-nṭalaqū wa-hum yatakhāfatūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "So off they went, murmuring to one another:");
+            ayat.add("24\n" +
+                    "أَن لا يَدخُلَنَّهَا اليَومَ عَلَيكُم مِسكينٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾan lā yadkhulannahā l-yawma ʿalaykum miskīnun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "‘Today no needy man shall come to you in it.’");
+            ayat.add("25\n" +
+                    "وَغَدَوا عَلىٰ حَردٍ قادِرينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ghadaw ʿalā ḥardin qādirīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "They set out early morning,\n" +
+                    "[considering themselves] able to grudge.");
+            ayat.add("26\n" +
+                    "فَلَمّا رَأَوها قالوا إِنّا لَضالّونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-lammā raʾawhā qālū ʾinnā la-ḍāllūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "But when they saw it, they said,\n" +
+                    "‘We have indeed lost our way!’");
+            ayat.add("27\n" +
+                    "بَل نَحنُ مَحرومونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "bal naḥnu maḥrūmūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "‘No, we are deprived!’");
+            ayat.add("28\n" +
+                    "قالَ أَوسَطُهُم أَلَم أَقُل لَكُم لَولا تُسَبِّحونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "qāla ʾawsaṭuhum ʾa-lam ʾaqul lakum law-lā tusabbiḥūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "The most moderate among them said,\n" +
+                    "‘Did I not tell you,\n" +
+                    "“Why do you not glorify [Allah]?” ’");
+            ayat.add("29\n" +
+                    "قالوا سُبحانَ رَبِّنا إِنّا كُنّا ظالِمينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "qālū subḥāna rabbinā ʾinnā kunnā ẓālimīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "They said, ‘Immaculate is our Lord!\n" +
+                    "We have indeed been wrongdoers!’");
+            ayat.add("30\n" +
+                    "فَأَقبَلَ بَعضُهُم عَلىٰ بَعضٍ يَتَلاوَمونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-ʾaqbala baʿḍuhum ʿalā baʿḍin yatalāwamūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Then they turned to one another,\n" +
+                    "blaming each other.");
+            ayat.add("31\n" +
+                    "قالوا يا وَيلَنا إِنّا كُنّا طاغينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "qālū yā-waylanā ʾinnā kunnā ṭāghīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "They said, ‘Woe to us!\n" +
+                    "Indeed we have been rebellious.");
+            ayat.add("32\n" +
+                    "عَسىٰ رَبُّنا أَن يُبدِلَنا خَيرًا مِنها إِنّا إِلىٰ رَبِّنا راغِبونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʿasā rabbunā ʾan yubdilanā khayran minhā ʾinnā ʾilā rabbinā rāghibūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Maybe our Lord will give us a better one in its place.\n" +
+                    "Indeed we turn earnestly to our Lord.’");
+            ayat.add("33\n" +
+                    "كَذٰلِكَ العَذابُ ۖ وَلَعَذابُ الآخِرَةِ أَكبَرُ ۚ لَو كانوا يَعلَمونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ka-dhālika l-ʿadhābu wa-la-ʿadhābu l-ʾākhirati ʾakbaru law kānū yaʿlamūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Such was the punishment;\n" +
+                    "and the punishment of the Hereafter is surely greater,\n" +
+                    "had they known.");
+            ayat.add("34\n" +
+                    "إِنَّ لِلمُتَّقينَ عِندَ رَبِّهِم جَنّاتِ النَّعيمِ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinna li-l-muttaqīna ʿinda rabbihim jannāti n-naʿīmi\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Indeed for the Godwary\n" +
+                    "there will be gardens of bliss near their Lord.");
+            ayat.add("35\n" +
+                    "أَفَنَجعَلُ المُسلِمينَ كَالمُجرِمينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾa-fa-najʿalu l-muslimīna ka-l-mujrimīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Shall We, then, treat those who submit [to Us]\n" +
+                    "as [We treat] the guilty?");
+            ayat.add("36\n" +
+                    "ما لَكُم كَيفَ تَحكُمونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "mā lakum kayfa taḥkumūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "What is the matter with you? How do you judge!");
+            ayat.add("37\n" +
+                    "أَم لَكُم كِتابٌ فيهِ تَدرُسونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾam lakum kitābun fīhi tadrusūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Do you possess a scripture in which you read");
+            ayat.add("38\n" +
+                    "إِنَّ لَكُم فيهِ لَما تَخَيَّرونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinna lakum fīhi la-mā takhayyarūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "that you shall indeed have in it1\n" +
+                    "whatever you would like?");
+            ayat.add("39\n" +
+                    "أَم لَكُم أَيمانٌ عَلَينا بالِغَةٌ إِلىٰ يَومِ القِيامَةِ ۙ إِنَّ لَكُم لَما تَحكُمونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾam lakum ʾaymānun ʿalaynā bālighatun ʾilā yawmi l-qiyāmati ʾinna lakum la-mā taḥkumūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Do you have a pledge binding on Us\n" +
+                    "until the Day of Resurrection,\n" +
+                    "that you shall indeed have whatever you decide?");
+            ayat.add("40\n" +
+                    "سَلهُم أَيُّهُم بِذٰلِكَ زَعيمٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "salhum ʾayyuhum bi-dhālika zaʿīmun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Ask them, which of them will aver [any of] that!");
+            ayat.add("41\n" +
+                    "أَم لَهُم شُرَكاءُ فَليَأتوا بِشُرَكائِهِم إِن كانوا صادِقينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾam lahum shurakāʾu fa-l-yaʾtū bi-shurakāʾihim ʾin kānū ṣādiqīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Do they have any partners [they ascribe to Allah]?\n" +
+                    "Then let them produce their partners,\n" +
+                    "if they are truthful.");
+            ayat.add("42\n" +
+                    "يَومَ يُكشَفُ عَن ساقٍ وَيُدعَونَ إِلَى السُّجودِ فَلا يَستَطيعونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "yawma yukshafu ʿan sāqin wa-yudʿawna ʾilā s-sujūdi fa-lā yastaṭīʿūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "The day when the catastrophe occurs,1\n" +
+                    "and they are summoned to prostrate themselves,\n" +
+                    "they will not be able [to do it].");
+            ayat.add("43\n" +
+                    "خاشِعَةً أَبصارُهُم تَرهَقُهُم ذِلَّةٌ ۖ وَقَد كانوا يُدعَونَ إِلَى السُّجودِ وَهُم سالِمونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "khāshiʿatan ʾabṣāruhum tarhaquhum dhillatun wa-qad kānū yudʿawna ʾilā s-sujūdi wa-hum sālimūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "With a humbled look [in their eyes],\n" +
+                    "they will be overcast by abasement.\n" +
+                    "Certainly they were summoned to prostrate themselves\n" +
+                    "while they were yet sound.");
+            ayat.add("44\n" +
+                    "فَذَرني وَمَن يُكَذِّبُ بِهٰذَا الحَديثِ ۖ سَنَستَدرِجُهُم مِن حَيثُ لا يَعلَمونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-dharnī wa-man yukadhdhibu bi-hādhā l-ḥadīthi sa-nastadrijuhum min haythu lā yaʿlamūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "So leave Me with those who deny this discourse.\n" +
+                    "We will draw them imperceptibly [into ruin],\n" +
+                    "whence they do not know.");
+            ayat.add("45\n" +
+                    "وَأُملي لَهُم ۚ إِنَّ كَيدي مَتينٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾumlī lahum ʾinna kaydī matīnun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "I will grant them respite,\n" +
+                    "for My devising is indeed sure.");
+            ayat.add("46\n" +
+                    "أَم تَسأَلُهُم أَجرًا فَهُم مِن مَغرَمٍ مُثقَلونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾam tasʾaluhum ʾajran fa-hum min maghramin muthqalūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Do you ask them for a reward,\n" +
+                    "so that they are weighed down with debt?");
+            ayat.add("47\n" +
+                    "أَم عِندَهُمُ الغَيبُ فَهُم يَكتُبونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾam ʿindahumu l-ghaybu fa-hum yaktubūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Do they possess [access to] the Unseen\n" +
+                    "so that they write it down?");
+            ayat.add("48\n" +
+                    "فَاصبِر لِحُكمِ رَبِّكَ وَلا تَكُن كَصاحِبِ الحوتِ إِذ نادىٰ وَهُوَ مَكظومٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-ṣbir li-ḥukmi rabbika wa-lā takun ka-ṣāḥibi l-ḥūti ʾidh nādā wa-huwa makẓūmun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "So submit patiently to the judgement of your Lord,\n" +
+                    "and do not be like the Man of the Fish1\n" +
+                    "who called out as he choked with grief.");
+            ayat.add("49\n" +
+                    "لَولا أَن تَدارَكَهُ نِعمَةٌ مِن رَبِّهِ لَنُبِذَ بِالعَراءِ وَهُوَ مَذمومٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "law-lā ʾan tadārakahū niʿmatun min rabbihī la-nubidha bi-l-ʿarāʾi wa-huwa madhmūmun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Had it not been for a blessing that came to his rescue\n" +
+                    "from his Lord,\n" +
+                    "he would surely have been cast on a bare shore\n" +
+                    "while he were blameworthy.");
+            ayat.add("50\n" +
+                    "فَاجتَباهُ رَبُّهُ فَجَعَلَهُ مِنَ الصّالِحينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-jtabāhu rabbuhū fa-jaʿalahū mina ṣ-ṣāliḥīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "So his Lord chose him\n" +
+                    "and made him one of the righteous.");
+            ayat.add("51\n" +
+                    "وَإِن يَكادُ الَّذينَ كَفَروا لَيُزلِقونَكَ بِأَبصارِهِم لَمّا سَمِعُوا الذِّكرَ وَيَقولونَ إِنَّهُ لَمَجنونٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾin yakādu lladhīna kafarū la-yuzliqūnaka bi-ʾabṣārihim lammā samiʿū dh-dhikra wa-yaqūlūna ʾinnahū la-majnūnun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Indeed the faithless almost devour you\n" +
+                    "with their eyes\n" +
+                    "when they hear the Reminder,\n" +
+                    "and they say, ‘He is indeed crazy.’");
+            ayat.add("52\n" +
+                    "وَما هُوَ إِلّا ذِكرٌ لِلعالَمينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-mā huwa ʾillā dhikrun li-l-ʿālamīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Yet it is just a reminder for all the nations.");
         }
         else if (surahName.equals("69. Al-Haqqah"))
         {
@@ -988,58 +2572,393 @@ public class Ayat extends AppCompatActivity {
                     "TRANSLATION :\n" +
                     "In the Name of Allah,\n" +
                     "the All-beneficent, the All-merciful.");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
+            ayat.add("1\n" +
+                    "الحاقَّةُ\n" +
+                    "TRANSLITERATION\n" +
+                    "al-ḥāqqatu\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "The Besieger!");
+            ayat.add("2\n" +
+                    "مَا الحاقَّةُ\n" +
+                    "TRANSLITERATION\n" +
+                    "mā l-ḥāqqatu\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "What is the Besieger?!");
+            ayat.add("3\n" +
+                    "وَما أَدراكَ مَا الحاقَّةُ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-mā ʾadrāka mā l-ḥāqqatu\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "What will show you what is the Besieger?!");
+            ayat.add("4\n" +
+                    "كَذَّبَت ثَمودُ وَعادٌ بِالقارِعَةِ\n" +
+                    "TRANSLITERATION\n" +
+                    "kadhdhabat thamūdu wa-ʿādun bi-l-qāriʿati\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Thamūd and ʿĀd denied the Catastrophe.");
+            ayat.add("5\n" +
+                    "فَأَمّا ثَمودُ فَأُهلِكوا بِالطّاغِيَةِ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-ʾammā thamūdu fa-ʾuhlikū bi-ṭ-ṭāghiyati\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "As for Thamūd, they were destroyed by the Cry.");
+            ayat.add("6\n" +
+                    "وَأَمّا عادٌ فَأُهلِكوا بِريحٍ صَرصَرٍ عاتِيَةٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾammā ʿādun fa-ʾuhlikū bi-rīḥin ṣarṣarin ʿātiyatin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "And as for ʿĀd,\n" +
+                    "they were destroyed by a fierce icy gale,");
+            ayat.add("7\n" +
+                    "سَخَّرَها عَلَيهِم سَبعَ لَيالٍ وَثَمانِيَةَ أَيّامٍ حُسومًا فَتَرَى القَومَ فيها صَرعىٰ كَأَنَّهُم أَعجازُ نَخلٍ خاوِيَةٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "sakhkharahā ʿalayhim sabʿa layālin wa-thamāniyata ʾayyāmin ḥusūman fa-tarā l-qawma fīhā ṣarʿā ka-ʾannahum ʾaʿjāzu nakhlin khāwiyatin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "which He disposed against them\n" +
+                    "for seven grueling1 nights and eight days,\n" +
+                    "so that you could have seen the people\n" +
+                    "lying about therein prostrate\n" +
+                    "as if they were hollow trunks of palm trees.");
+            ayat.add("8\n" +
+                    "فَهَل تَرىٰ لَهُم مِن باقِيَةٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-hal tarā lahum min bāqiyatin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "So do you see any trace of them?");
+            ayat.add("9\n" +
+                    "وَجاءَ فِرعَونُ وَمَن قَبلَهُ وَالمُؤتَفِكاتُ بِالخاطِئَةِ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-jāʾa firʾawnu wa-man qablahū wa-l-muʾtafikātu bi-l-khāṭiʾati\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Then brought Pharaoh and those who were before him,\n" +
+                    "and the towns that were overturned,\n" +
+                    "iniquity.");
+            ayat.add("10\n" +
+                    "فَعَصَوا رَسولَ رَبِّهِم فَأَخَذَهُم أَخذَةً رابِيَةً\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-ʿaṣaw rasūla rabbihim fa-ʾakhadhahum ʾakhdhatan rābiyatan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Then they disobeyed the apostle of their Lord,\n" +
+                    "so He seized them with a terrible seizing.");
+            ayat.add("11\n" +
+                    "إِنّا لَمّا طَغَى الماءُ حَمَلناكُم فِي الجارِيَةِ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinnā lammā ṭaghā l-māʾu ḥamalnākum fī l-jāriyati\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Indeed when the Flood rose high,\n" +
+                    "We carried you in a floating ark,");
+            ayat.add("12\n" +
+                    "لِنَجعَلَها لَكُم تَذكِرَةً وَتَعِيَها أُذُنٌ واعِيَةٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "li-najʿalahā lakum tadhkiratan wa-taʿiyahā ʾudhunun wāʿiyatun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "that We might make it a reminder for you,\n" +
+                    "and that receptive ears might remember it");
+            ayat.add("13\n" +
+                    "فَإِذا نُفِخَ فِي الصّورِ نَفخَةٌ واحِدَةٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-ʾidhā nufikha fī ṣ-ṣūri nafkhatun wāḥidatun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "When the Trumpet is blown with a single blast");
+            ayat.add("14\n" +
+                    "وَحُمِلَتِ الأَرضُ وَالجِبالُ فَدُكَّتا دَكَّةً واحِدَةً\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ḥumilati l-ʾarḍu wa-l-jibālu fa-dukkatā dakkatan wāḥidatan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and the earth and the mountains are lifted\n" +
+                    "and levelled with a single leveling,");
+            ayat.add("15\n" +
+                    "فَيَومَئِذٍ وَقَعَتِ الواقِعَةُ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-yawmaʾidhin waqaʿati l-wāqiʿatu\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "then, on that day, will the Imminent [Hour] befall");
+            ayat.add("16\n" +
+                    "وَانشَقَّتِ السَّماءُ فَهِيَ يَومَئِذٍ واهِيَةٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-nshaqqati s-samāʾu fa-hiya yawmaʾidhin wāhiyatun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and the sky will be split open\n" +
+                    "for it will be frail that day");
+            ayat.add("17\n" +
+                    "وَالمَلَكُ عَلىٰ أَرجائِها ۚ وَيَحمِلُ عَرشَ رَبِّكَ فَوقَهُم يَومَئِذٍ ثَمانِيَةٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-l-malaku ʿalā ʾarjāʾihā wa-yaḥmilu ʿarsha rabbika fawqahum yawmaʾidhin thamāniyatun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and the angels will be all over it,\n" +
+                    "and the Throne of your Lord will be borne\n" +
+                    "that day by eight [angels].");
+            ayat.add("18\n" +
+                    "يَومَئِذٍ تُعرَضونَ لا تَخفىٰ مِنكُم خافِيَةٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "yawmaʾidhin tuʿraḍūna lā takhfā minkum khāfiyatun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "That day you will be exposed:\n" +
+                    "none of your secrets will remain hidden.");
+            ayat.add("19\n" +
+                    "فَأَمّا مَن أوتِيَ كِتابَهُ بِيَمينِهِ فَيَقولُ هاؤُمُ اقرَءوا كِتابِيَه\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-ʾammā man ʾūtiya kitābahū bi-yamīnihī fa-yaqūlu hāʾumu qraʾū kitābiyah\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "As for him who is given his book in his right hand,\n" +
+                    "he will say, ‘Here, take and read my book!");
+            ayat.add("20\n" +
+                    "إِنّي ظَنَنتُ أَنّي مُلاقٍ حِسابِيَه\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinnī ẓanantu ʾannī mulāqin ḥisābiyah\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Indeed I knew that I shall encounter my account.’");
+            ayat.add("21\n" +
+                    "فَهُوَ في عيشَةٍ راضِيَةٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-huwa fī ʿīshatin rāḍiyatin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "So he will have a pleasant life,");
+            ayat.add("22\n" +
+                    "في جَنَّةٍ عالِيَةٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "fī jannatin ʿāliyatin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "in an elevated garden,");
+            ayat.add("23\n" +
+                    "قُطوفُها دانِيَةٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "quṭūfuhā dāniyatun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "whose clusters [of fruits] will be within easy reach.");
+            ayat.add("24\n" +
+                    "كُلوا وَاشرَبوا هَنيئًا بِما أَسلَفتُم فِي الأَيّامِ الخالِيَةِ\n" +
+                    "TRANSLITERATION\n" +
+                    "kulū wa-shrabū hanīʾan bi-mā ʾaslaftum fī l-ʾayyāmi l-khāliyati\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "[He will be told]: ‘Enjoy your food and drink,\n" +
+                    "for what you had sent in advance in past days.’");
+            ayat.add("25\n" +
+                    "وَأَمّا مَن أوتِيَ كِتابَهُ بِشِمالِهِ فَيَقولُ يا لَيتَني لَم أوتَ كِتابِيَه\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾammā man ʾūtiya kitābahū bi-shimālihī fa-yaqūlu yā-laytanī lam ʾūta kitābiyah\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "But as for him who is given his book in his left hand,\n" +
+                    "he will say, ‘I wish I had not been given my book,");
+            ayat.add("26\n" +
+                    "وَلَم أَدرِ ما حِسابِيَه\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-lam ʾadri mā ḥisābiyah\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "nor had I ever known what my account is!");
+            ayat.add("27\n" +
+                    "يا لَيتَها كانَتِ القاضِيَةَ\n" +
+                    "TRANSLITERATION\n" +
+                    "yā-laytahā kānati l-qāḍiyata\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "I wish death had been the end of it all!");
+            ayat.add("28\n" +
+                    "ما أَغنىٰ عَنّي مالِيَه ۜ\n" +
+                    "TRANSLITERATION\n" +
+                    "mā ʾaghnā ʿannī māliyah\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "My wealth did not avail me.");
+            ayat.add("29\n" +
+                    "هَلَكَ عَنّي سُلطانِيَه\n" +
+                    "TRANSLITERATION\n" +
+                    "halaka ʿannī sulṭāniyah\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "My authority has departed from me.’");
+            ayat.add("30\n" +
+                    "خُذوهُ فَغُلّوهُ\n" +
+                    "TRANSLITERATION\n" +
+                    "khudhūhu fa-ghullūhu\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "[The angels will be told:] ‘Seize him, and fetter him!");
+            ayat.add("31\n" +
+                    "ثُمَّ الجَحيمَ صَلّوهُ\n" +
+                    "TRANSLITERATION\n" +
+                    "thumma l-jaḥīma ṣallūhu\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Then put him into hell.");
+            ayat.add("32\n" +
+                    "ثُمَّ في سِلسِلَةٍ ذَرعُها سَبعونَ ذِراعًا فَاسلُكوهُ\n" +
+                    "TRANSLITERATION\n" +
+                    "thumma fī silsilatin dharʿuhā sabʿūna dhirāʿan fa-slukūhu\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Then, in a chain whose length is seventy cubits,\n" +
+                    "bind him.");
+            ayat.add("33\n" +
+                    "إِنَّهُ كانَ لا يُؤمِنُ بِاللَّهِ العَظيمِ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinnahū kāna lā yuʾminu bi-llāhi l-ʿaẓīmi\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Indeed he had no faith in Allah, the All-supreme,");
+            ayat.add("34\n" +
+                    "وَلا يَحُضُّ عَلىٰ طَعامِ المِسكينِ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-lā yaḥuḍḍu ʿalā ṭaʿāmi l-miskīni\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and he did not urge the feeding of the needy,");
+            ayat.add("35\n" +
+                    "فَلَيسَ لَهُ اليَومَ هاهُنا حَميمٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-laysa lahu l-yawma hāhunā ḥamīmun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "so he has no friend here today,");
+            ayat.add("36\n" +
+                    "وَلا طَعامٌ إِلّا مِن غِسلينٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-lā ṭaʿāmun ʾillā min ghislīnin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "nor any food except pus,");
+            ayat.add("37\n" +
+                    "لا يَأكُلُهُ إِلَّا الخاطِئونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "lā yaʾkuluhū ʾillā l-khāṭiʾūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "which no one shall eat except the iniquitous.’");
+            ayat.add("38\n" +
+                    "فَلا أُقسِمُ بِما تُبصِرونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-lā ʾuqsimu bi-mā tubṣirūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "I swear by what you see");
+            ayat.add("39\n" +
+                    "وَما لا تُبصِرونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-mā lā tubṣirūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and what you do not see:");
+            ayat.add("40\n" +
+                    "إِنَّهُ لَقَولُ رَسولٍ كَريمٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinnahū la-qawlu rasūlin karīmin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "it is indeed the speech of a noble apostle,");
+            ayat.add("41\n" +
+                    "وَما هُوَ بِقَولِ شاعِرٍ ۚ قَليلًا ما تُؤمِنونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-mā huwa bi-qawli shāʿirin qalīlan mā tuʾminūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and it is not the speech of a poet.\n" +
+                    "Little is the faith that you have!");
+            ayat.add("42\n" +
+                    "وَلا بِقَولِ كاهِنٍ ۚ قَليلًا ما تَذَكَّرونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-lā bi-qawli kāhinin qalīlan mā tadhakkarūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Nor is it the speech of a soothsayer.\n" +
+                    "Little is the admonition that you take!");
+            ayat.add("43\n" +
+                    "تَنزيلٌ مِن رَبِّ العالَمينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "tanzīlun min rabbi l-ʿālamīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Gradually sent down from the Lord of all the worlds.");
+            ayat.add("44\n" +
+                    "وَلَو تَقَوَّلَ عَلَينا بَعضَ الأَقاويلِ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-law taqawwala ʿalaynā baʿḍa l-ʾaqāwīli\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Had he faked any sayings in Our name,");
+            ayat.add("45\n" +
+                    "لَأَخَذنا مِنهُ بِاليَمينِ\n" +
+                    "TRANSLITERATION\n" +
+                    "la-ʾakhadhnā minhu bi-l-yamīni\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "We would have surely seized him by the right hand");
+            ayat.add("46\n" +
+                    "ثُمَّ لَقَطَعنا مِنهُ الوَتينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "thumma la-qaṭaʿnā minhu l-watīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and then cut off his aorta,");
+            ayat.add("47\n" +
+                    "فَما مِنكُم مِن أَحَدٍ عَنهُ حاجِزينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-mā minkum min ʾaḥadin ʿanhu ḥājizīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and none of you could have held Us off from him.");
+            ayat.add("48\n" +
+                    "وَإِنَّهُ لَتَذكِرَةٌ لِلمُتَّقينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾinnahū la-tadhkiratun li-l-muttaqīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Indeed it is a reminder for the Godwary.");
+            ayat.add("49\n" +
+                    "وَإِنّا لَنَعلَمُ أَنَّ مِنكُم مُكَذِّبينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾinnā la-naʿlamu ʾanna minkum mukadhdhibīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Indeed We know\n" +
+                    "that there are some among you who deny [it].");
+            ayat.add("50\n" +
+                    "وَإِنَّهُ لَحَسرَةٌ عَلَى الكافِرينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾinnahū la-ḥasratun ʿalā l-kāfirīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "And indeed it will be a [matter of] regret\n" +
+                    "for the faithless.");
+            ayat.add("51\n" +
+                    "وَإِنَّهُ لَحَقُّ اليَقينِ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾinnahū la-ḥaqqu l-yaqīni\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "It is indeed certain truth.");
+            ayat.add("52\n" +
+                    "فَسَبِّح بِاسمِ رَبِّكَ العَظيمِ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-sabbiḥ bi-smi rabbika l-ʿaẓīmi\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "So celebrate the Name of your Lord, the All-supreme.");
         }
         else if (surahName.equals("70. Al-Ma`aarij"))
         {
@@ -1051,50 +2970,337 @@ public class Ayat extends AppCompatActivity {
                     "TRANSLATION :\n" +
                     "In the Name of Allah,\n" +
                     "the All-beneficent, the All-merciful.");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
+            ayat.add("1\n" +
+                    "سَأَلَ سائِلٌ بِعَذابٍ واقِعٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "saʾala sāʾilun bi-ʿadhābin wāqiʿin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "An asker asked for a punishment bound to befall");
+            ayat.add("2\n" +
+                    "لِلكافِرينَ لَيسَ لَهُ دافِعٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "li-l-kāfirīna laysa lahū dāfiʿun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "—which none can avert from the faithless—");
+            ayat.add("3\n" +
+                    "مِنَ اللَّهِ ذِي المَعارِجِ\n" +
+                    "TRANSLITERATION\n" +
+                    "mina llāhi dhī l-maʿāriji\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "from Allah, Lord of the lofty stations.");
+            ayat.add("4\n" +
+                    "تَعرُجُ المَلائِكَةُ وَالرّوحُ إِلَيهِ في يَومٍ كانَ مِقدارُهُ خَمسينَ أَلفَ سَنَةٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "taʿruju l-malāʾikatu wa-r-rūḥu ʾilayhi fī yawmin kāna miqdāruhū khamsīna ʾalfa sanatin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "The angels and the Spirit ascend to Him\n" +
+                    "in a day whose span is\n" +
+                    "fifty thousand years.");
+            ayat.add("5\n" +
+                    "فَاصبِر صَبرًا جَميلًا\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-ṣbir ṣabran jamīlan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "So be patient, with a patience that is graceful.");
+            ayat.add("6\n" +
+                    "إِنَّهُم يَرَونَهُ بَعيدًا\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinnahum yarawnahū baʿīdan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Indeed they see it to be far off,");
+            ayat.add("7\n" +
+                    "وَنَراهُ قَريبًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-narāhu qarīban\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and We see it to be near.");
+            ayat.add("8\n" +
+                    "يَومَ تَكونُ السَّماءُ كَالمُهلِ\n" +
+                    "TRANSLITERATION\n" +
+                    "yawma takūnu s-samāʾu ka-l-muhli\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "The day when the sky will be like molten copper,");
+            ayat.add("9\n" +
+                    "وَتَكونُ الجِبالُ كَالعِهنِ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-takūnu l-jibālu ka-l-ʿihni\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and the mountains like [tufts of] dyed wool,");
+            ayat.add("10\n" +
+                    "وَلا يَسأَلُ حَميمٌ حَميمًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-lā yasʾalu ḥamīmun ḥamīman\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and no friend will inquire\n" +
+                    "about [the welfare of his] friend,");
+            ayat.add("11\n" +
+                    "يُبَصَّرونَهُم ۚ يَوَدُّ المُجرِمُ لَو يَفتَدي مِن عَذابِ يَومِئِذٍ بِبَنيهِ\n" +
+                    "TRANSLITERATION\n" +
+                    "yubaṣṣarūnahum yawaddu l-mujrimu law yaftadī min ʿadhābi yawmiʾidhin bi-banīhi\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "[though] they will be placed within each other’s sight.\n" +
+                    "The guilty one will wish he could ransom himself\n" +
+                    "from the punishment of that day\n" +
+                    "at the price of his children,");
+            ayat.add("12\n" +
+                    "وَصاحِبَتِهِ وَأَخيهِ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ṣāḥibatihī wa-ʾakhīhi\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "his spouse and his brother,");
+            ayat.add("13\n" +
+                    "وَفَصيلَتِهِ الَّتي تُؤويهِ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-faṣīlatihi llatī tuʾwīhi\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "his kin which had sheltered him");
+            ayat.add("14\n" +
+                    "وَمَن فِي الأَرضِ جَميعًا ثُمَّ يُنجيهِ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-man fī l-ʾarḍi jamīʿan thumma yunjīhi\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and all those who are upon the earth,\n" +
+                    "if that might deliver him.");
+            ayat.add("15\n" +
+                    "كَلّا ۖ إِنَّها لَظىٰ\n" +
+                    "TRANSLITERATION\n" +
+                    "kallā ʾinnahā laẓā\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Never! Indeed it is a blazing fire,");
+            ayat.add("16\n" +
+                    "نَزّاعَةً لِلشَّوىٰ\n" +
+                    "TRANSLITERATION\n" +
+                    "nazzāʿatan li-sh-shawā\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "which strips away the scalp.");
+            ayat.add("17\n" +
+                    "تَدعو مَن أَدبَرَ وَتَوَلّىٰ\n" +
+                    "TRANSLITERATION\n" +
+                    "tadʿū man ʾadbara wa-tawallā\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "It invites him who has turned back [from the truth]\n" +
+                    "and forsaken [it],");
+            ayat.add("18\n" +
+                    "وَجَمَعَ فَأَوعىٰ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-jamaʿa fa-ʾawʿā\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "amassing [wealth] and hoarding [it].");
+            ayat.add("19\n" +
+                    "۞ إِنَّ الإِنسانَ خُلِقَ هَلوعًا\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinna l-ʾinsāna khuliqa halūʿan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Indeed man has been created covetous:");
+            ayat.add("20\n" +
+                    "إِذا مَسَّهُ الشَّرُّ جَزوعًا\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾidhā massahu sh-sharru jazūʿan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "anxious when an ill befalls him");
+            ayat.add("21\n" +
+                    "وَإِذا مَسَّهُ الخَيرُ مَنوعًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾidhā massahu l-khayru manūʿan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and grudging when good comes his way");
+            ayat.add("22\n" +
+                    "إِلَّا المُصَلّينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾillā l-muṣallīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "—[all are such] except the prayerful,");
+            ayat.add("23\n" +
+                    "الَّذينَ هُم عَلىٰ صَلاتِهِم دائِمونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "alladhīna hum ʿalā ṣalātihim dāʾimūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "those who are persevering in their prayers");
+            ayat.add("24\n" +
+                    "وَالَّذينَ في أَموالِهِم حَقٌّ مَعلومٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-lladhīna fī ʾamwālihim ḥaqqun maʿlūmun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and in whose wealth there is a known right");
+            ayat.add("25\n" +
+                    "لِلسّائِلِ وَالمَحرومِ\n" +
+                    "TRANSLITERATION\n" +
+                    "li-s-sāʾili wa-l-maḥrūmi\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "for the beggar and the deprived,");
+            ayat.add("26\n" +
+                    "وَالَّذينَ يُصَدِّقونَ بِيَومِ الدّينِ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-lladhīna yuṣaddiqūna bi-yawmi d-dīni\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and who affirm the Day of Retribution,");
+            ayat.add("27\n" +
+                    "وَالَّذينَ هُم مِن عَذابِ رَبِّهِم مُشفِقونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-lladhīna hum min ʿadhābi rabbihim mushfiqūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and those who are\n" +
+                    "apprehensive of the punishment of their Lord");
+            ayat.add("28\n" +
+                    "إِنَّ عَذابَ رَبِّهِم غَيرُ مَأمونٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinna ʿadhāba rabbihim ghayru maʾmūnin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "(there is indeed\n" +
+                    "no security from the punishment of their Lord)");
+            ayat.add("29\n" +
+                    "وَالَّذينَ هُم لِفُروجِهِم حافِظونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-lladhīna hum li-furūjihim ḥāfiẓūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and those who guard their private parts");
+            ayat.add("30\n" +
+                    "إِلّا عَلىٰ أَزواجِهِم أَو ما مَلَكَت أَيمانُهُم فَإِنَّهُم غَيرُ مَلومينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "illā ʿalā ʾazwājihim ʾaw mā malakat ʾaymānuhum fa-ʾinnahum ghayru malūmīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "(except from their spouses and their slave women,\n" +
+                    "for then they are not blameworthy;");
+            ayat.add("31\n" +
+                    "فَمَنِ ابتَغىٰ وَراءَ ذٰلِكَ فَأُولٰئِكَ هُمُ العادونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-mani btaghā warāʾa dhālika fa-ʾulāʾika humu l-ʿādūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "but whoever seeks beyond that\n" +
+                    "—it is they who are the transgressors)");
+            ayat.add("32\n" +
+                    "وَالَّذينَ هُم لِأَماناتِهِم وَعَهدِهِم راعونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-lladhīna hum li-ʾamānātihim wa-ʿahdihim rāʿūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and those who keep their trusts and covenants,");
+            ayat.add("33\n" +
+                    "وَالَّذينَ هُم بِشَهاداتِهِم قائِمونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-lladhīna hum bi-shahādātihim qāʾimūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and those who are observant of their testimonies,");
+            ayat.add("34\n" +
+                    "وَالَّذينَ هُم عَلىٰ صَلاتِهِم يُحافِظونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-lladhīna hum ʿalā ṣalātihim yuḥāfiẓūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and those who are watchful of their prayers.");
+            ayat.add("35\n" +
+                    "أُولٰئِكَ في جَنّاتٍ مُكرَمونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾulāʾika fī jannātin mukramūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "They will be in gardens, held in honour.");
+            ayat.add("36\n" +
+                    "فَمالِ الَّذينَ كَفَروا قِبَلَكَ مُهطِعينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-mā-li lladhīna kafarū qibalaka muhṭiʿīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "What is the matter with the faithless\n" +
+                    "that they scramble toward you");
+            ayat.add("37\n" +
+                    "عَنِ اليَمينِ وَعَنِ الشِّمالِ عِزينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʿani l-yamīni wa-ʿani sh-shimāli ʿizīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "from the left and the right in batches?");
+            ayat.add("38\n" +
+                    "أَيَطمَعُ كُلُّ امرِئٍ مِنهُم أَن يُدخَلَ جَنَّةَ نَعيمٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾa-yaṭmaʿu kullu mriʾin minhum ʾan yudkhala jannata naʿīmin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Does each man among them hope\n" +
+                    "to enter the garden of bliss?");
+            ayat.add("39\n" +
+                    "كَلّا ۖ إِنّا خَلَقناهُم مِمّا يَعلَمونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "kallā ʾinnā khalaqnāhum mimmā yaʿlamūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Never!\n" +
+                    "Indeed We created them from what they know.");
+            ayat.add("40\n" +
+                    "فَلا أُقسِمُ بِرَبِّ المَشارِقِ وَالمَغارِبِ إِنّا لَقادِرونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-lā ʾuqsimu bi-rabbi l-mashāriqi wa-l-maghāribi ʾinnā la-qādirūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "So I swear by the Lord of the easts and the wests\n" +
+                    "that We are able");
+            ayat.add("41\n" +
+                    "عَلىٰ أَن نُبَدِّلَ خَيرًا مِنهُم وَما نَحنُ بِمَسبوقينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʿalā ʾan nubaddila khayran minhum wa-mā naḥnu bi-masbūqīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "to replace them by [others] better than them\n" +
+                    "and We are not to be outmaneuvered.");
+            ayat.add("42\n" +
+                    "فَذَرهُم يَخوضوا وَيَلعَبوا حَتّىٰ يُلاقوا يَومَهُمُ الَّذي يوعَدونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-dharhum yakhūḍū wa-yalʿabū ḥattā yulāqū yawmahumu lladhī yūʿadūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "So leave them to gossip and play\n" +
+                    "until they encounter their day,\n" +
+                    "which they are promised:");
+            ayat.add("43\n" +
+                    "يَومَ يَخرُجونَ مِنَ الأَجداثِ سِراعًا كَأَنَّهُم إِلىٰ نُصُبٍ يوفِضونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "yawma yakhrujūna mina l-ʾajdāthi sirāʿan ka-ʾannahum ʾilā nuṣubin yūfiḍūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "the day when they emerge from the graves,\n" +
+                    "hastening,\n" +
+                    "as if racing toward a target,");
+            ayat.add("44\n" +
+                    "خاشِعَةً أَبصارُهُم تَرهَقُهُم ذِلَّةٌ ۚ ذٰلِكَ اليَومُ الَّذي كانوا يوعَدونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "khāshiʿatan ʾabṣāruhum tarhaquhum dhillatun dhālika l-yawmu lladhī kānū yūʿadūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "with a humbled look [in their eyes],\n" +
+                    "overcast by abasement.\n" +
+                    "That is the day they had been promised.");
         }
         else if (surahName.equals("71. Nuh"))
         {
@@ -1106,34 +3312,241 @@ public class Ayat extends AppCompatActivity {
                     "TRANSLATION :\n" +
                     "In the Name of Allah,\n" +
                     "the All-beneficent, the All-merciful.");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
+            ayat.add("1\n" +
+                    "إِنّا أَرسَلنا نوحًا إِلىٰ قَومِهِ أَن أَنذِر قَومَكَ مِن قَبلِ أَن يَأتِيَهُم عَذابٌ أَليمٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinnā ʾarsalnā nūḥan ʾilā qawmihī ʾan ʾandhir qawmaka min qabli ʾan yaʾtiyahum ʿadhābun ʾalīmun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Indeed We sent Noah to his people,\n" +
+                    "[saying,] ‘Warn your people\n" +
+                    "before a painful punishment overtakes them.’");
+            ayat.add("2\n" +
+                    "قالَ يا قَومِ إِنّي لَكُم نَذيرٌ مُبينٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "qāla yā-qawmi ʾinnī lakum nadhīrun mubīnun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "He said, ‘O my people!\n" +
+                    "Indeed I am a manifest warner to you.");
+            ayat.add("3\n" +
+                    "أَنِ اعبُدُوا اللَّهَ وَاتَّقوهُ وَأَطيعونِ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾani ʿbudū llāha wa-ttaqūhu wa-ʾaṭīʿūni\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Worship Allah and be wary of Him,\n" +
+                    "and obey me,");
+            ayat.add("4\n" +
+                    "يَغفِر لَكُم مِن ذُنوبِكُم وَيُؤَخِّركُم إِلىٰ أَجَلٍ مُسَمًّى ۚ إِنَّ أَجَلَ اللَّهِ إِذا جاءَ لا يُؤَخَّرُ ۖ لَو كُنتُم تَعلَمونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "yaghfir lakum min dhunūbikum wa-yuʾakhkhirkum ʾilā ʾajalin musamman ʾinna ʾajala llāhi ʾidhā jāʾa lā yuʾakhkharu law kuntum taʿlamūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "that He may forgive you some of your sins\n" +
+                    "and respite you until a specified time.\n" +
+                    "Indeed when Allah’s [appointed] time comes,\n" +
+                    "it cannot be deferred,\n" +
+                    "should you know.’");
+            ayat.add("5\n" +
+                    "قالَ رَبِّ إِنّي دَعَوتُ قَومي لَيلًا وَنَهارًا\n" +
+                    "TRANSLITERATION\n" +
+                    "qāla rabbi ʾinnī daʿawtu qawmī laylan wa-nahāran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "He said, ‘My Lord!\n" +
+                    "Indeed I have summoned my people night and day");
+            ayat.add("6\n" +
+                    "فَلَم يَزِدهُم دُعائي إِلّا فِرارًا\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-lam yazidhum duʿāʾī ʾillā firāran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "but my summons only increases their evasion.");
+            ayat.add("7\n" +
+                    "وَإِنّي كُلَّما دَعَوتُهُم لِتَغفِرَ لَهُم جَعَلوا أَصابِعَهُم في آذانِهِم وَاستَغشَوا ثِيابَهُم وَأَصَرّوا وَاستَكبَرُوا استِكبارًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾinnī kullamā daʿawtuhum li-taghfira lahum jaʿalū ʾaṣābiʿahum fī ʾādhānihim wa-staghshaw thiyābahum wa-ʾaṣarrū wa-stakbarū stikbāran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Indeed whenever I have summoned them,\n" +
+                    "so that You might forgive them,\n" +
+                    "they would put their fingers into their ears\n" +
+                    "and draw their cloaks over their heads,\n" +
+                    "and they were persistent [in their unfaith],\n" +
+                    "and disdainful in [their] arrogance.");
+            ayat.add("8\n" +
+                    "ثُمَّ إِنّي دَعَوتُهُم جِهارًا\n" +
+                    "TRANSLITERATION\n" +
+                    "thumma ʾinnī daʿawtuhum jihāran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Again I summoned them aloud,");
+            ayat.add("9\n" +
+                    "ثُمَّ إِنّي أَعلَنتُ لَهُم وَأَسرَرتُ لَهُم إِسرارًا\n" +
+                    "TRANSLITERATION\n" +
+                    "thumma ʾinnī ʾaʿlantu lahum wa-ʾasrartu lahum ʾisrāran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and again appealed to them publicly\n" +
+                    "and confided with them privately,");
+            ayat.add("10\n" +
+                    "فَقُلتُ استَغفِروا رَبَّكُم إِنَّهُ كانَ غَفّارًا\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-qultu staghfirū rabbakum ʾinnahū kāna ghaffāran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "telling [them]: “Plead to your Lord for forgiveness.\n" +
+                    "Indeed He is all-forgiver.");
+            ayat.add("11\n" +
+                    "يُرسِلِ السَّماءَ عَلَيكُم مِدرارًا\n" +
+                    "TRANSLITERATION\n" +
+                    "yursili s-samāʾa ʿalaykum midrāran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "He will send for you abundant rains from the sky,");
+            ayat.add("12\n" +
+                    "وَيُمدِدكُم بِأَموالٍ وَبَنينَ وَيَجعَل لَكُم جَنّاتٍ وَيَجعَل لَكُم أَنهارًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-yumdidkum bi-ʾamwālin wa-banīna wa-yajʿal lakum jannātin wa-yajʿal lakum ʾanhāran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and aid you with wealth and sons,\n" +
+                    "and provide you with gardens\n" +
+                    "and provide you with streams.");
+            ayat.add("13\n" +
+                    "ما لَكُم لا تَرجونَ لِلَّهِ وَقارًا\n" +
+                    "TRANSLITERATION\n" +
+                    "mā lakum lā tarjūna li-llāhi waqāran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "What is the matter with you\n" +
+                    "that you do not look upon Allah with veneration,");
+            ayat.add("14\n" +
+                    "وَقَد خَلَقَكُم أَطوارًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-qad khalaqakum ʾaṭwāran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "though He has created you in [various] stages?");
+            ayat.add("15\n" +
+                    "أَلَم تَرَوا كَيفَ خَلَقَ اللَّهُ سَبعَ سَماواتٍ طِباقًا\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾa-lam taraw kayfa khalaqa llāhu sabʿa samāwātin ṭibāqan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Have you not seen how Allah has created\n" +
+                    "seven heavens in layers,");
+            ayat.add("16\n" +
+                    "وَجَعَلَ القَمَرَ فيهِنَّ نورًا وَجَعَلَ الشَّمسَ سِراجًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-jaʿala l-qamara fīhinna nūran wa-jaʿala sh-shamsa sirājan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and has made therein the moon for a light,\n" +
+                    "and the sun for a lamp?");
+            ayat.add("17\n" +
+                    "وَاللَّهُ أَنبَتَكُم مِنَ الأَرضِ نَباتًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-llāhu ʾanbatakum mina l-ʾarḍi nabātan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Allah made you grow from the earth,\n" +
+                    "with a [vegetable] growth.");
+            ayat.add("18\n" +
+                    "ثُمَّ يُعيدُكُم فيها وَيُخرِجُكُم إِخراجًا\n" +
+                    "TRANSLITERATION\n" +
+                    "thumma yuʿīdukum fīhā wa-yukhrijukum ʾikhrājan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Then He makes you return to it,\n" +
+                    "and He will bring you forth [without fail].");
+            ayat.add("19\n" +
+                    "وَاللَّهُ جَعَلَ لَكُمُ الأَرضَ بِساطًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-llāhu jaʿala lakumu l-ʾarḍa bisāṭan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Allah has made the earth a vast expanse for you");
+            ayat.add("20\n" +
+                    "لِتَسلُكوا مِنها سُبُلًا فِجاجًا\n" +
+                    "TRANSLITERATION\n" +
+                    "li-taslukū minhā subulan fijājan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "so that you may travel over its spacious ways.” ’");
+            ayat.add("21\n" +
+                    "قالَ نوحٌ رَبِّ إِنَّهُم عَصَوني وَاتَّبَعوا مَن لَم يَزِدهُ مالُهُ وَوَلَدُهُ إِلّا خَسارًا\n" +
+                    "TRANSLITERATION\n" +
+                    "qāla nūḥun rabbi ʾinnahum ʿaṣawnī wa-ttabaʿū man lam yazidhu māluhū wa-waladuhū ʾillā khasāran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Noah said, ‘My Lord!\n" +
+                    "They have disobeyed me,\n" +
+                    "following someone\n" +
+                    "whose wealth and children only add to his loss,");
+            ayat.add("22\n" +
+                    "وَمَكَروا مَكرًا كُبّارًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-makarū makran kubbāran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and they have devised an outrageous plot.");
+            ayat.add("23\n" +
+                    "وَقالوا لا تَذَرُنَّ آلِهَتَكُم وَلا تَذَرُنَّ وَدًّا وَلا سُواعًا وَلا يَغوثَ وَيَعوقَ وَنَسرًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-qālū lā tadharunna ʾālihatakum wa-lā tadharunna waddan wa-lā suwāʿan wa-lā yaghūtha wa-yaʿūqa wa-nasran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "They say, “Do not abandon your gods.\n" +
+                    "Do not abandon Wadd, nor Suwā,\n" +
+                    "nor Yaghūth, Yaʿūq and Nasr,”1");
+            ayat.add("24\n" +
+                    "وَقَد أَضَلّوا كَثيرًا ۖ وَلا تَزِدِ الظّالِمينَ إِلّا ضَلالًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-qad ʾaḍallū kathīran wa-lā tazidi ẓ-ẓālimīna ʾillā ḍalālan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and already they have led many astray.\n" +
+                    "Do not increase the wrongdoers in anything but error.’");
+            ayat.add("25\n" +
+                    "مِمّا خَطيئَاتِهِم أُغرِقوا فَأُدخِلوا نارًا فَلَم يَجِدوا لَهُم مِن دونِ اللَّهِ أَنصارًا\n" +
+                    "TRANSLITERATION\n" +
+                    "mimmā khaṭīʾātihim ʾughriqū fa-ʾudkhilū nāran fa-lam yajidū lahum min dūni llāhi ʾanṣāran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "They were drowned because of their iniquities,\n" +
+                    "then made to enter a Fire,\n" +
+                    "and they did not find for themselves\n" +
+                    "any helpers besides Allah.");
+            ayat.add("26\n" +
+                    "وَقالَ نوحٌ رَبِّ لا تَذَر عَلَى الأَرضِ مِنَ الكافِرينَ دَيّارًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-qāla nūḥun rabbi lā tadhar ʿalā l-ʾarḍi mina l-kāfirīna dayyāran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "And Noah said, ‘My Lord!\n" +
+                    "‘Do not leave on the earth\n" +
+                    "any inhabitant from among the faithless.");
+            ayat.add("27\n" +
+                    "إِنَّكَ إِن تَذَرهُم يُضِلّوا عِبادَكَ وَلا يَلِدوا إِلّا فاجِرًا كَفّارًا\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinnaka ʾin tadharhum yuḍillū ʿibādaka wa-lā yalidū ʾillā fājiran kaffāran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "If You leave them, they will lead astray Your servants\n" +
+                    "and will not beget except vicious ingrates.");
+            ayat.add("28\n" +
+                    "رَبِّ اغفِر لي وَلِوالِدَيَّ وَلِمَن دَخَلَ بَيتِيَ مُؤمِنًا وَلِلمُؤمِنينَ وَالمُؤمِناتِ وَلا تَزِدِ الظّالِمينَ إِلّا تَبارًا\n" +
+                    "TRANSLITERATION\n" +
+                    "rabbi ghfir lī wa-li-wālidayya wa-li-man dakhala baytiya muʾminan wa-li-l-muʾminīna wa-l-muʾmināti wa-lā tazidi ẓ-ẓālimīna ʾillā tabāran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "My Lord! Forgive me and my parents,\n" +
+                    "and whoever enters my house in faith,\n" +
+                    "and the faithful men and women,\n" +
+                    "and do not increase the wrongdoers in anything\n" +
+                    "except ruin.’");
         }
         else if (surahName.equals("72. Al-Jinn"))
         {
@@ -1145,34 +3558,254 @@ public class Ayat extends AppCompatActivity {
                     "TRANSLATION :\n" +
                     "In the Name of Allah,\n" +
                     "the All-beneficent, the All-merciful.");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
+            ayat.add("1\n" +
+                    "قُل أوحِيَ إِلَيَّ أَنَّهُ استَمَعَ نَفَرٌ مِنَ الجِنِّ فَقالوا إِنّا سَمِعنا قُرآنًا عَجَبًا\n" +
+                    "TRANSLITERATION\n" +
+                    "qul ʾūḥiya ʾilayya ʾannahu stamaʿa nafarun mina l-jinni fa-qālū ʾinnā samiʿnā qurʾānan ʿajaban\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Say, ‘It has been revealed to me\n" +
+                    "that a team of the jinn listened [to the Qurʾān].’\n" +
+                    "and they said, “Indeed we heard a wounderful qurʾān,1\n" +
+                    "Or ‘recital.’");
+            ayat.add("2\n" +
+                    "يَهدي إِلَى الرُّشدِ فَآمَنّا بِهِ ۖ وَلَن نُشرِكَ بِرَبِّنا أَحَدًا\n" +
+                    "TRANSLITERATION\n" +
+                    "yahdī ʾilā r-rushdi fa-ʾāmannā bihī wa-lan nushrika bi-rabbinā ʾaḥadan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "which guides to rectitude.\n" +
+                    "Hence we have believed in it\n" +
+                    "and we will never ascribe any partner to our Lord.");
+            ayat.add("3\n" +
+                    "وَأَنَّهُ تَعالىٰ جَدُّ رَبِّنا مَا اتَّخَذَ صاحِبَةً وَلا وَلَدًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾannahū taʿālā jaddu rabbinā mā ttakhadha ṣāḥibatan wa-lā waladan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Exalted be the majesty of our Lord,\n" +
+                    "He has taken neither any spouse nor son.");
+            ayat.add("4\n" +
+                    "وَأَنَّهُ كانَ يَقولُ سَفيهُنا عَلَى اللَّهِ شَطَطًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾannahū kāna yaqūlu safīhunā ʿalā llāhi shaṭaṭan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Indeed the foolish ones among us used to utter\n" +
+                    "atrocious lies concerning Allah.");
+            ayat.add("5\n" +
+                    "وَأَنّا ظَنَنّا أَن لَن تَقولَ الإِنسُ وَالجِنُّ عَلَى اللَّهِ كَذِبًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾannā ẓanannā ʾan lan taqūla l-ʾinsu wa-l-jinnu ʿalā llāhi kadhiban\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Indeed we thought\n" +
+                    "that humans and jinn would never utter\n" +
+                    "any falsehood concerning Allah.");
+            ayat.add("6\n" +
+                    "وَأَنَّهُ كانَ رِجالٌ مِنَ الإِنسِ يَعوذونَ بِرِجالٍ مِنَ الجِنِّ فَزادوهُم رَهَقًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾannahū kāna rijālun mina l-ʾinsi yaʿūdhūna bi-rijālin mina l-jinni fa-zādūhum rahaqan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Indeed some persons from the humans\n" +
+                    "would seek the protection of some persons from the jinn,\n" +
+                    "thus only adding to their rebellion.");
+            ayat.add("7\n" +
+                    "وَأَنَّهُم ظَنّوا كَما ظَنَنتُم أَن لَن يَبعَثَ اللَّهُ أَحَدًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾannahum ẓannū ka-mā ẓanantum ʾan lan yabʿatha llāhu ʾaḥadan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "They1 thought, just as you think,\n" +
+                    "that Allah will not raise anyone from the dead.");
+            ayat.add("8\n" +
+                    "وَأَنّا لَمَسنَا السَّماءَ فَوَجَدناها مُلِئَت حَرَسًا شَديدًا وَشُهُبًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾannā lamasnā s-samāʾa fa-wajadnāhā muliʾat ḥarasan shadīdan wa-shuhuban\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Indeed We made for the heaven\n" +
+                    "and found it\n" +
+                    "full of mighty sentries and flames.");
+            ayat.add("9\n" +
+                    "وَأَنّا كُنّا نَقعُدُ مِنها مَقاعِدَ لِلسَّمعِ ۖ فَمَن يَستَمِعِ الآنَ يَجِد لَهُ شِهابًا رَصَدًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾannā kunnā naqʿudu minhā maqāʿida li-s-samʿi fa-man yastamiʿi l-ʾāna yajid lahū shihāban raṣadan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "We used to sit in its positions to eavesdrop,\n" +
+                    "but anyone listening now\n" +
+                    "finds a flame waiting for him.");
+            ayat.add("10\n" +
+                    "وَأَنّا لا نَدري أَشَرٌّ أُريدَ بِمَن فِي الأَرضِ أَم أَرادَ بِهِم رَبُّهُم رَشَدًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾannā lā nadrī ʾa-sharrun ʾurīda bi-man fī l-ʾarḍi ʾam ʾarāda bihim rabbuhum rashadan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "We do not know whether ill is intended\n" +
+                    "for those who are in the earth,\n" +
+                    "or whether their Lord intends good for them.");
+            ayat.add("11\n" +
+                    "وَأَنّا مِنَّا الصّالِحونَ وَمِنّا دونَ ذٰلِكَ ۖ كُنّا طَرائِقَ قِدَدًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾannā minnā ṣ-ṣāliḥūna wa-minnā dūna dhālika kunnā ṭarāʾiqa qidadan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Among us some are righteous\n" +
+                    "and some of us are otherwise:\n" +
+                    "we are multifarious sects.");
+            ayat.add("12\n" +
+                    "وَأَنّا ظَنَنّا أَن لَن نُعجِزَ اللَّهَ فِي الأَرضِ وَلَن نُعجِزَهُ هَرَبًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾannā ẓanannā ʾan lan nuʿjiza llāha fī l-ʾarḍi wa-lan nuʿjizahū haraban\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "We know that we cannot thwart Allah\n" +
+                    "on the earth,\n" +
+                    "nor can we thwart Him by fleeing.");
+            ayat.add("13\n" +
+                    "وَأَنّا لَمّا سَمِعنَا الهُدىٰ آمَنّا بِهِ ۖ فَمَن يُؤمِن بِرَبِّهِ فَلا يَخافُ بَخسًا وَلا رَهَقًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾannā lammā samiʿnā l-hudā ʾāmannā bihī fa-man yuʾmin bi-rabbihī fa-lā yakhāfu bakhsan wa-lā rahaqan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "When we heard the [message of] guidance,\n" +
+                    "we believed in it.\n" +
+                    "Whoever that has faith in his Lord\n" +
+                    "shall neither fear any detraction nor oppression.");
+            ayat.add("14\n" +
+                    "وَأَنّا مِنَّا المُسلِمونَ وَمِنَّا القاسِطونَ ۖ فَمَن أَسلَمَ فَأُولٰئِكَ تَحَرَّوا رَشَدًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾannā minnā l-muslimūna wa-minnā l-qāsiṭūna fa-man ʾaslama fa-ʾulāʾika taḥarraw rashadan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Among us some are muslims\n" +
+                    "and some of us are perverse.1\n" +
+                    "Yet those who submit [to Allah]\n" +
+                    "—it is they who pursue rectitude.");
+            ayat.add("15\n" +
+                    "وَأَمَّا القاسِطونَ فَكانوا لِجَهَنَّمَ حَطَبًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾammā l-qāsiṭūna fa-kānū li-jahannama ḥaṭaban\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "As for the perverse,\n" +
+                    "they will be firewood for hell.” ’");
+            ayat.add("16\n" +
+                    "وَأَن لَوِ استَقاموا عَلَى الطَّريقَةِ لَأَسقَيناهُم ماءً غَدَقًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾallawi staqāmū ʿalā ṭ-ṭarīqati la-ʾasqaynāhum māʾan ghadaqan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "If they are steadfast on the path [of Allah],\n" +
+                    "We shall provide them with abundant water,");
+            ayat.add("17\n" +
+                    "لِنَفتِنَهُم فيهِ ۚ وَمَن يُعرِض عَن ذِكرِ رَبِّهِ يَسلُكهُ عَذابًا صَعَدًا\n" +
+                    "TRANSLITERATION\n" +
+                    "li-naftinahum fīhi wa-man yuʿriḍ ʿan dhikri rabbihī yaslukhu ʿadhāban ṣaʿadan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "so that We may test them therein,\n" +
+                    "and whoever turns away\n" +
+                    "from the remembrance of his Lord,\n" +
+                    "He will let him into an escalating punishment.");
+            ayat.add("18\n" +
+                    "وَأَنَّ المَساجِدَ لِلَّهِ فَلا تَدعوا مَعَ اللَّهِ أَحَدًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾanna l-masājida li-llāhi fa-lā tadʿū maʿa llāhi ʾaḥadan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "The places of worship belong to Allah,\n" +
+                    "so do not invoke anyone along with Allah.");
+            ayat.add("19\n" +
+                    "وَأَنَّهُ لَمّا قامَ عَبدُ اللَّهِ يَدعوهُ كادوا يَكونونَ عَلَيهِ لِبَدًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾannahū lammā qāma ʿabdu llāhi yadʿūhu kādū yakūnūna ʿalayhi libadan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "When the servant of Allah1 rose to pray to Him,\n" +
+                    "they almost crowded around him.");
+            ayat.add("20\n" +
+                    "قُل إِنَّما أَدعو رَبّي وَلا أُشرِكُ بِهِ أَحَدًا\n" +
+                    "TRANSLITERATION\n" +
+                    "qul ʾinnamā ʾadʿū rabbī wa-lā ʾushriku bihī ʾaḥadan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Say, ‘I pray only to my Lord,\n" +
+                    "and I do not ascribe any partner to Him.’");
+            ayat.add("21\n" +
+                    "قُل إِنّي لا أَملِكُ لَكُم ضَرًّا وَلا رَشَدًا\n" +
+                    "TRANSLITERATION\n" +
+                    "qul ʾinnī lā ʾamliku lakum ḍarran wa-lā rashadan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Say, ‘I have no power to bring you any harm\n" +
+                    "or good [of my own accord].’");
+            ayat.add("22\n" +
+                    "قُل إِنّي لَن يُجيرَني مِنَ اللَّهِ أَحَدٌ وَلَن أَجِدَ مِن دونِهِ مُلتَحَدًا\n" +
+                    "TRANSLITERATION\n" +
+                    "qul ʾinnī lan yujīranī mina llāhi ʾaḥadun wa-lan ʾajida min dūnihī multaḥadan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Say, ‘Neither can anyone shelter me from Allah,\n" +
+                    "nor can I find any refuge besides Him.");
+            ayat.add("23\n" +
+                    "إِلّا بَلاغًا مِنَ اللَّهِ وَرِسالاتِهِ ۚ وَمَن يَعصِ اللَّهَ وَرَسولَهُ فَإِنَّ لَهُ نارَ جَهَنَّمَ خالِدينَ فيها أَبَدًا\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾillā balāghan mina llāhi wa-risālātihī wa-man yaʿṣi llāha wa-rasūlahū fa-ʾinna lahū nāra jahannama khālidīna fīhā ʾabadan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "[I have no duty] except to transmit from Allah,\n" +
+                    "and [to communicate] His messages;\n" +
+                    "and whoever disobeys Allah and His apostle,\n" +
+                    "indeed there will be for him the fire of hell,\n" +
+                    "to remain in it forever.’");
+            ayat.add("24\n" +
+                    "حَتّىٰ إِذا رَأَوا ما يوعَدونَ فَسَيَعلَمونَ مَن أَضعَفُ ناصِرًا وَأَقَلُّ عَدَدًا\n" +
+                    "TRANSLITERATION\n" +
+                    "ḥattā ʾidhā raʾaw mā yūʿadūna fa-sa-yaʿlamūna man ʾaḍʿafu nāṣiran wa-ʾaqallu ʿadadan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "When they see what they are promised,\n" +
+                    "they will then know who is weaker in supporters\n" +
+                    "and fewer in numbers.");
+            ayat.add("25\n" +
+                    "قُل إِن أَدري أَقَريبٌ ما توعَدونَ أَم يَجعَلُ لَهُ رَبّي أَمَدًا\n" +
+                    "TRANSLITERATION\n" +
+                    "qul ʾin ʾadrī ʾa-qarībun mā tūʿadūna ʾam yajʿalu lahū rabbī ʾamadan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Say, ‘I do not know if what you are promised is near,\n" +
+                    "or if my Lord has set a term for it.’");
+            ayat.add("26\n" +
+                    "عالِمُ الغَيبِ فَلا يُظهِرُ عَلىٰ غَيبِهِ أَحَدًا\n" +
+                    "TRANSLITERATION\n" +
+                    "ʿālimu l-ghaybi fa-lā yuẓhiru ʿalā ghaybihī ʾaḥadan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Knower of the Unseen,\n" +
+                    "He does not disclose His Unseen to anyone,");
+            ayat.add("27\n" +
+                    "إِلّا مَنِ ارتَضىٰ مِن رَسولٍ فَإِنَّهُ يَسلُكُ مِن بَينِ يَدَيهِ وَمِن خَلفِهِ رَصَدًا\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾillā mani rtaḍā min rasūlin fa-ʾinnahū yasluku min bayni yadayhi wa-min khalfihī raṣadan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "except to an apostle He approves of.\n" +
+                    "Then He dispatches\n" +
+                    "a sentinel before and behind him");
+            ayat.add("28\n" +
+                    "لِيَعلَمَ أَن قَد أَبلَغوا رِسالاتِ رَبِّهِم وَأَحاطَ بِما لَدَيهِم وَأَحصىٰ كُلَّ شَيءٍ عَدَدًا\n" +
+                    "TRANSLITERATION\n" +
+                    "li-yaʿlama ʾan qad ʾablaghū risālāti rabbihim wa-ʾaḥāṭa bi-mā ladayhim wa-ʾaḥṣā kulla shayʾin ʿadadan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "so that He may ascertain\n" +
+                    "that they have communicated\n" +
+                    "the messages of their Lord,\n" +
+                    "and He comprehends all that is with them,\n" +
+                    "and He keeps count of all things.");
         }
         else if (surahName.equals("73. Al-Muzzammil"))
         {
@@ -1184,26 +3817,181 @@ public class Ayat extends AppCompatActivity {
                     "TRANSLATION :\n" +
                     "In the Name of Allah,\n" +
                     "the All-beneficent, the All-merciful.");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
+            ayat.add("1\n" +
+                    "يا أَيُّهَا المُزَّمِّلُ\n" +
+                    "TRANSLITERATION\n" +
+                    "yā-ʾayyuhā l-muzzammilu\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "O you wrapped up in your mantle!");
+            ayat.add("2\n" +
+                    "قُمِ اللَّيلَ إِلّا قَليلًا\n" +
+                    "TRANSLITERATION\n" +
+                    "qumi l-layla ʾillā qalīlan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Stand vigil through the night, except a little,");
+            ayat.add("3\n" +
+                    "نِصفَهُ أَوِ انقُص مِنهُ قَليلًا\n" +
+                    "TRANSLITERATION\n" +
+                    "niṣfahū ʾawi nquṣ minhu qalīlan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "a half, or reduce a little from that");
+            ayat.add("4\n" +
+                    "أَو زِد عَلَيهِ وَرَتِّلِ القُرآنَ تَرتيلًا\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾaw zid ʿalayhi wa-rattili l-qurʾāna tartīlan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "or add to it,\n" +
+                    "and recite the Qurʾān in a measured tone.");
+            ayat.add("5\n" +
+                    "إِنّا سَنُلقي عَلَيكَ قَولًا ثَقيلًا\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinnā sa-nulqī ʿalayka qawlan thaqīlan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Indeed soon We shall cast on you a weighty word.");
+            ayat.add("6\n" +
+                    "إِنَّ ناشِئَةَ اللَّيلِ هِيَ أَشَدُّ وَطئًا وَأَقوَمُ قيلًا\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinna nāshiʾata l-layli hiya ʾashaddu waṭʾan wa-ʾaqwamu qīlan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Indeed the watch of the night is firmer in tread\n" +
+                    "and more upright in respect to speech,");
+            ayat.add("7\n" +
+                    "إِنَّ لَكَ فِي النَّهارِ سَبحًا طَويلًا\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinna laka fī n-nahāri sabḥan ṭawīlan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "for indeed during the day you have\n" +
+                    "drawn-out engagements.");
+            ayat.add("8\n" +
+                    "وَاذكُرِ اسمَ رَبِّكَ وَتَبَتَّل إِلَيهِ تَبتيلًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-dhkuri sma rabbika wa-tabattal ʾilayhi tabtīlan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "So celebrate the Name of your Lord\n" +
+                    "and dedicate yourself to Him with total dedication.");
+            ayat.add("9\n" +
+                    "رَبُّ المَشرِقِ وَالمَغرِبِ لا إِلٰهَ إِلّا هُوَ فَاتَّخِذهُ وَكيلًا\n" +
+                    "TRANSLITERATION\n" +
+                    "rabbu l-mashriqi wa-l-maghribi lā ʾilāha ʾillā huwa fa-ttakhidhhu wakīlan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Lord of the east and the west,\n" +
+                    "there is no god except Him,\n" +
+                    "so take Him for your trustee,");
+            ayat.add("10\n" +
+                    "وَاصبِر عَلىٰ ما يَقولونَ وَاهجُرهُم هَجرًا جَميلًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-sbir ʿalā mā yaqūlūna wa-hjurhum hajran jamīlan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and be patient over what they say,\n" +
+                    "and keep away from them in a graceful manner.");
+            ayat.add("11\n" +
+                    "وَذَرني وَالمُكَذِّبينَ أُولِي النَّعمَةِ وَمَهِّلهُم قَليلًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-dharnī wa-l-mukadhdhibīna ʾulī n-naʿmati wa-mahhilhum qalīlan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Leave Me [to deal] with the deniers, the opulent,\n" +
+                    "and give them a little respite.");
+            ayat.add("12\n" +
+                    "إِنَّ لَدَينا أَنكالًا وَجَحيمًا\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinna ladaynā ʾankālan wa-jaḥīman\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Indeed with Us are heavy fetters and a fierce fire,");
+            ayat.add("13\n" +
+                    "وَطَعامًا ذا غُصَّةٍ وَعَذابًا أَليمًا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ṭaʿāman dhā ghuṣṣatin wa-ʿadhāban ʾalīman\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and a food that chokes [those who gulp it],\n" +
+                    "and a painful punishment [prepared for]");
+            ayat.add("14\n" +
+                    "يَومَ تَرجُفُ الأَرضُ وَالجِبالُ وَكانَتِ الجِبالُ كَثيبًا مَهيلًا\n" +
+                    "TRANSLITERATION\n" +
+                    "yawma tarjufu l-ʾarḍu wa-l-jibālu wa-kānati l-jibālu kathīban mahīlan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "the day when the earth and the mountains will quake,\n" +
+                    "and the mountains will be like dunes of shifting sand.");
+            ayat.add("15\n" +
+                    "إِنّا أَرسَلنا إِلَيكُم رَسولًا شاهِدًا عَلَيكُم كَما أَرسَلنا إِلىٰ فِرعَونَ رَسولًا\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinnā ʾarsalnā ʾilaykum rasūlan shāhidan ʿalaykum ka-mā ʾarsalnā ʾilā firʿawna rasūlan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Indeed We have sent to you an apostle,\n" +
+                    "to be a witness to you,\n" +
+                    "just as We sent an apostle to Pharaoh.");
+            ayat.add("16\n" +
+                    "فَعَصىٰ فِرعَونُ الرَّسولَ فَأَخَذناهُ أَخذًا وَبيلًا\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-ʿaṣā firʿawnu r-rasūla fa-ʾakhadhnāhu ʾakhdhan wabīlan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "But Pharaoh disobeyed the apostle;\n" +
+                    "so We seized him with a terrible seizing.");
+            ayat.add("17\n" +
+                    "فَكَيفَ تَتَّقونَ إِن كَفَرتُم يَومًا يَجعَلُ الوِلدانَ شيبًا\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-kayfa tattaqūna ʾin kafartum yawman yajʿalu l-wildāna shīban-i\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "So, if you disbelieve, how will you avoid the day\n" +
+                    "which will make children white-headed,");
+            ayat.add("18\n" +
+                    "السَّماءُ مُنفَطِرٌ بِهِ ۚ كانَ وَعدُهُ مَفعولًا\n" +
+                    "TRANSLITERATION\n" +
+                    "as-samāʾu munfaṭirun bihī kāna waʿduhū mafʿūlan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and wherein the sky will be rent apart?\n" +
+                    "His promise is bound to be fulfilled.");
+            ayat.add("19\n" +
+                    "إِنَّ هٰذِهِ تَذكِرَةٌ ۖ فَمَن شاءَ اتَّخَذَ إِلىٰ رَبِّهِ سَبيلًا\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinna hādhihī tadhkiratun fa-man shāʾa ttakhadha ʾilā rabbihī sabīlan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "This is indeed a reminder.\n" +
+                    "So let anyone who wishes take the way toward his Lord.");
+            ayat.add("20\n" +
+                    "۞ إِنَّ رَبَّكَ يَعلَمُ أَنَّكَ تَقومُ أَدنىٰ مِن ثُلُثَيِ اللَّيلِ وَنِصفَهُ وَثُلُثَهُ وَطائِفَةٌ مِنَ الَّذينَ مَعَكَ ۚ وَاللَّهُ يُقَدِّرُ اللَّيلَ وَالنَّهارَ ۚ عَلِمَ أَن لَن تُحصوهُ فَتابَ عَلَيكُم ۖ فَاقرَءوا ما تَيَسَّرَ مِنَ القُرآنِ ۚ عَلِمَ أَن سَيَكونُ مِنكُم مَرضىٰ ۙ وَآخَرونَ يَضرِبونَ فِي الأَرضِ يَبتَغونَ مِن فَضلِ اللَّهِ ۙ وَآخَرونَ يُقاتِلونَ في سَبيلِ اللَّهِ ۖ فَاقرَءوا ما تَيَسَّرَ مِنهُ ۚ وَأَقيمُوا الصَّلاةَ وَآتُوا الزَّكاةَ وَأَقرِضُوا اللَّهَ قَرضًا حَسَنًا ۚ وَما تُقَدِّموا لِأَنفُسِكُم مِن خَيرٍ تَجِدوهُ عِندَ اللَّهِ هُوَ خَيرًا وَأَعظَمَ أَجرًا ۚ وَاستَغفِرُوا اللَّهَ ۖ إِنَّ اللَّهَ غَفورٌ رَحيمٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinna rabbaka yaʿlamu ʾannaka taqūmu ʾadnā min thuluthayi l-layli wa-niṣfahū wa-thuluthahū wa-ṭāʾifatun mina lladhīna maʿaka wa-llāhu yuqaddiru l-layla wa-n-nahāra ʿalima ʾan lan tuḥṣūhu fa-tāba ʿalaykum fa-qraʾū mā tayassara mina l-qurʾāni ʿalima ʾan sa-yakūnu minkum marḍā wa-ʾākharūna yaḍribūna fī l-ʾarḍi yabtaghūna min faḍli llāhi wa-ʾākharūna yuqātilūna fī sabīli llāhi fa-qraʾū mā tayassara minhu wa-ʾaqīmū ṣ-ṣalāta wa-ʾātū z-zakāta wa-ʾaqriḍū llāha qarḍan ḥasanan wa-mā tuqaddimū li-ʾanfusikum min khayrin tajidūhu ʿinda llāhi huwa khayran wa-ʾaʿẓama ʾajran wa-staghfirū llāha ʾinna llāha ghafūrun raḥīmun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Indeed your Lord knows\n" +
+                    "that you stand vigil nearly two thirds of the night\n" +
+                    "—or [at times] a half or a third of it—\n" +
+                    "along with a group of those who are with you.\n" +
+                    "Allah measures the night and the day.\n" +
+                    "He knows that you cannot calculate it [exactly],\n" +
+                    "and so He was lenient toward you.\n" +
+                    "So recite as much of the Qurʾān as is feasible.\n" +
+                    "He knows that some of you will be sick,\n" +
+                    "while others will travel in the land\n" +
+                    "seeking Allah’s grace,\n" +
+                    "and yet others will fight in the way of Allah.\n" +
+                    "So recite as much of it as is feasible,\n" +
+                    "and maintain the prayer and pay the zakāt\n" +
+                    "and lend Allah a good loan.\n" +
+                    "Whatever good you send ahead for your souls\n" +
+                    "you will find it with Allah [in a form]\n" +
+                    "that is better and greater with respect to reward.\n" +
+                    "And plead to Allah for forgiveness;\n" +
+                    "indeed Allah is all-forgiving, all-merciful.\n");
         }
         else if (surahName.equals("74. Al-Muddathir"))
         {
