@@ -1356,7 +1356,7 @@ public class Ayat extends AppCompatActivity {
         }
         else if (surahName.equals("56. Al-Waqi`ah"))
         {
-            setTitle("Al-Waqi`ah() : ");
+            setTitle("Al-Waqi`ah(الواقعة) : The Imminent");
             ayat.add("بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيمِ\n\n" +
                     "TRANSLITERATION :\n" +
                     "bi-smillāhir-rahmānir-raheem\n" +
@@ -1364,19 +1364,708 @@ public class Ayat extends AppCompatActivity {
                     "TRANSLATION :\n" +
                     "In the Name of Allah,\n" +
                     "the All-beneficent, the All-merciful.");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
-            ayat.add("");
+            ayat.add("1\n" +
+                    "إِذا وَقَعَتِ الواقِعَةُ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾidhā waqaʿati l-wāqiʿatu\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "When the Imminent1 [Hour] befalls");
+            ayat.add("2\n" +
+                    "لَيسَ لِوَقعَتِها كاذِبَةٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "laysa li-waqʿatihā kādhibatun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "there is no denying that it will befall");
+            ayat.add("3\n" +
+                    "خافِضَةٌ رافِعَةٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "khāfiḍatun rāfiʿatun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "[it will be] lowering, exalting.");
+            ayat.add("4\n" +
+                    "إِذا رُجَّتِ الأَرضُ رَجًّا\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾidhā rujjati l-ʾarḍu rajjan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "When the earth is shaken violently,");
+            ayat.add("5\n" +
+                    "وَبُسَّتِ الجِبالُ بَسًّا\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-bussati l-jibālu bassan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and the mountains are shattered into bits");
+            ayat.add("6\n" +
+                    "فَكانَت هَباءً مُنبَثًّا\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-kānat habāʾan munbathan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and become scattered dust,");
+            ayat.add("7\n" +
+                    "وَكُنتُم أَزواجًا ثَلاثَةً\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-kuntum ʾazwājan thalāthatan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "you will be three groups:");
+            ayat.add("8\n" +
+                    "فَأَصحابُ المَيمَنَةِ ما أَصحابُ المَيمَنَةِ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-ʾaṣḥābu l-maymanati mā ʾaṣḥābu l-maymanati\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "The People of the Right Hand\n" +
+                    "and what are the People of the Right Hand?");
+            ayat.add("9\n" +
+                    "وَأَصحابُ المَشأَمَةِ ما أَصحابُ المَشأَمَةِ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾaṣḥābu l-mashʾamati mā ʾaṣḥābu l-mashʾamati\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "And the People of the Left Hand\n" +
+                    "and what are the People of the Left Hand?");
+            ayat.add("10\n" +
+                    "وَالسّابِقونَ السّابِقونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-s-sābiqūna s-sābiqūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "And the Foremost Ones are the foremost ones:");
+            ayat.add("11\n" +
+                    "أُولٰئِكَ المُقَرَّبونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾulāʾika l-muqarrabūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "they are the ones brought near [to Allah],");
+            ayat.add("12\n" +
+                    "في جَنّاتِ النَّعيمِ\n" +
+                    "TRANSLITERATION\n" +
+                    "fī jannāti n-naʿīmi\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "[who will reside] in the gardens of bliss.");
+            ayat.add("13\n" +
+                    "ثُلَّةٌ مِنَ الأَوَّلينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "thullatun mina l-ʾawwalīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "A multitude from the former [generations]");
+            ayat.add("14\n" +
+                    "وَقَليلٌ مِنَ الآخِرينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-qalīlun mina l-ʾākhirīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and a few from the latter ones.");
+            ayat.add("15\n" +
+                    "عَلىٰ سُرُرٍ مَوضونَةٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʿalā sururin mawḍūnatin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "On brocaded couches");
+            ayat.add("16\n" +
+                    "مُتَّكِئينَ عَلَيها مُتَقابِلينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "muttakiʾīna ʿalayhā mutaqābilīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "reclining on them, face to face.");
+            ayat.add("17\n" +
+                    "يَطوفُ عَلَيهِم وِلدانٌ مُخَلَّدونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "yaṭūfu ʿalayhim wildānun mukhalladūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "They will be waited upon by immortal youths,");
+            ayat.add("18\n" +
+                    "بِأَكوابٍ وَأَباريقَ وَكَأسٍ مِن مَعينٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "bi-ʾakwābin wa-ʾabārīqa wa-kaʾsin min maʿīnin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "with goblets and ewers\n" +
+                    "and a cup of a clear wine,");
+            ayat.add("19\n" +
+                    "لا يُصَدَّعونَ عَنها وَلا يُنزِفونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "lā yuṣaddaʿūna ʿanhā wa-lā yunzifūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "which neither causes them headache\n" +
+                    "nor stupefaction,");
+            ayat.add("20\n" +
+                    "وَفاكِهَةٍ مِمّا يَتَخَيَّرونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-fākihatin mimmā yatakhayyarūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and such fruits as they prefer");
+            ayat.add("21\n" +
+                    "وَلَحمِ طَيرٍ مِمّا يَشتَهونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-laḥmi ṭayrin mimmā yashtahūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and such flesh of fowls as they desire,");
+            ayat.add("22\n" +
+                    "وَحورٌ عينٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ḥūrun ʿīnun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and big-eyed houris");
+            ayat.add("23\n" +
+                    "كَأَمثالِ اللُّؤلُؤِ المَكنونِ\n" +
+                    "TRANSLITERATION\n" +
+                    "ka-ʾamthāli l-luʾluʾi l-maknūni\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "like guarded pearls,");
+            ayat.add("24\n" +
+                    "جَزاءً بِما كانوا يَعمَلونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "jazāʾan bi-mā kānū yaʿmalūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "a reward for what they used to do.");
+            ayat.add("25\n" +
+                    "لا يَسمَعونَ فيها لَغوًا وَلا تَأثيمًا\n" +
+                    "TRANSLITERATION\n" +
+                    "lā yasmaʿūna fīhā laghwan wa-lā taʾthīman\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "They will not hear therein\n" +
+                    "any vain talk or sinful speech,");
+            ayat.add("26\n" +
+                    "إِلّا قيلًا سَلامًا سَلامًا\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾillā qīlan salāman salāman\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "but only the watchword, ‘Peace!’ ‘Peace!’");
+            ayat.add("27\n" +
+                    "وَأَصحابُ اليَمينِ ما أَصحابُ اليَمينِ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾaṣhābu l-yamīni mā ʾaṣhābu l-yamīni\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "And the People of the Right Hand\n" +
+                    "what are the People of the Right Hand?");
+            ayat.add("28\n" +
+                    "في سِدرٍ مَخضودٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "fī sidrin makhḍūdin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Amid thornless lote trees");
+            ayat.add("29\n" +
+                    "وَطَلحٍ مَنضودٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ṭalḥin manḍūdin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and clustered spathes");
+            ayat.add("30\n" +
+                    "وَظِلٍّ مَمدودٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ẓillin mamdūdin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and extended shade,");
+            ayat.add("31\n" +
+                    "وَماءٍ مَسكوبٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-māʾin maskūbin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and ever-flowing water");
+            ayat.add("32\n" +
+                    "وَفاكِهَةٍ كَثيرَةٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-fākihatin kathīratin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and abundant fruits,");
+            ayat.add("33\n" +
+                    "لا مَقطوعَةٍ وَلا مَمنوعَةٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "lā maqṭūʿatin wa-lā mamnūʿatin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "neither inaccessible, nor forbidden,");
+            ayat.add("34\n" +
+                    "وَفُرُشٍ مَرفوعَةٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-furushin marfūʿatin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and noble spouses.");
+            ayat.add("35\n" +
+                    "إِنّا أَنشَأناهُنَّ إِنشاءً\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinnā ʾanshaʾnāhunna ʾinshāʾan\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "We have created them with a special creation,");
+            ayat.add("36\n" +
+                    "فَجَعَلناهُنَّ أَبكارًا\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-jaʿalnāhunna ʾabkāran\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and made them virgins,");
+            ayat.add("37\n" +
+                    "عُرُبًا أَترابًا\n" +
+                    "TRANSLITERATION\n" +
+                    "ʿuruban ʾatrāban\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "loving, of a like age,");
+            ayat.add("38\n" +
+                    "لِأَصحابِ اليَمينِ\n" +
+                    "TRANSLITERATION\n" +
+                    "li-ʾaṣḥābi l-yamīni\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "for the People of the Right Hand.");
+            ayat.add("39\n" +
+                    "ثُلَّةٌ مِنَ الأَوَّلينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "thullatun mina l-ʾawwalīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "A multitude from the former [generations]");
+            ayat.add("40\n" +
+                    "وَثُلَّةٌ مِنَ الآخِرينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-thullatun mina l-ʾākhirīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and a multitude from the latter [ones].");
+            ayat.add("41\n" +
+                    "وَأَصحابُ الشِّمالِ ما أَصحابُ الشِّمالِ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾaṣḥābu sh-shimāli mā ʾaṣḥābu sh-shimāli\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "And the People of the Left Hand\n" +
+                    "what are the People of the Left Hand?");
+            ayat.add("42\n" +
+                    "في سَمومٍ وَحَميمٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "fī samūmin wa-ḥamīmin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Amid infernal miasma and boiling water");
+            ayat.add("43\n" +
+                    "وَظِلٍّ مِن يَحمومٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ẓillin min yaḥmūmin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and the shadow of a dense black smoke,");
+            ayat.add("44\n" +
+                    "لا بارِدٍ وَلا كَريمٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "lā bāridin wa-lā karīmin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "neither cool nor beneficial.");
+            ayat.add("45\n" +
+                    "إِنَّهُم كانوا قَبلَ ذٰلِكَ مُترَفينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinnahum kānū qabla dhālika mutrafīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Indeed they had been affluent before this,");
+            ayat.add("46\n" +
+                    "وَكانوا يُصِرّونَ عَلَى الحِنثِ العَظيمِ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-kānū yuṣirrūna ʿalā l-ḥinthi l-ʿaẓīmi\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and they used to persist in the great sin.");
+            ayat.add("47\n" +
+                    "وَكانوا يَقولونَ أَئِذا مِتنا وَكُنّا تُرابًا وَعِظامًا أَإِنّا لَمَبعوثونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-kānū yaqūlūna ʾa-ʾidhā mitnā wa-kunnā turāban wa-ʿiẓāman ʾa-ʾinnā la-mabʿūthūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "And they used to say,\n" +
+                    "‘What! When we are dead and become dust\n" +
+                    "and bones,\n" +
+                    "shall we be resurrected?");
+            ayat.add("48\n" +
+                    "أَوَآباؤُنَا الأَوَّلونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾa-wa-ʾābāʾunā l-ʾawwalūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "And our forefathers too?'");
+            ayat.add("49\n" +
+                    "قُل إِنَّ الأَوَّلينَ وَالآخِرينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "qul ʾinna l-ʾawwalīna wa-l-ʾākhirīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Say, ‘Indeed the former and latter generations");
+            ayat.add("50\n" +
+                    "لَمَجموعونَ إِلىٰ ميقاتِ يَومٍ مَعلومٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "la-majmūʿūna ʾilā mīqāti yawmin maʿlūmin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "will all be gathered\n" +
+                    "for the tryst of a known day.");
+            ayat.add("51\n" +
+                    "ثُمَّ إِنَّكُم أَيُّهَا الضّالّونَ المُكَذِّبونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "thumma ʾinnakum ʾayyuhā ḍ-ḍāllūna l-mukadhdhibūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Then indeed,\n" +
+                    "you, astray deniers,");
+            ayat.add("52\n" +
+                    "لَآكِلونَ مِن شَجَرٍ مِن زَقّومٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "la-ʾākilūna min shajarin min zaqqūmin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "will surely eat from the Zaqqūm tree");
+            ayat.add("53\n" +
+                    "فَمالِئونَ مِنهَا البُطونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-māliʾūna minhā l-buṭūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and stuff your bellies with it,");
+            ayat.add("54\n" +
+                    "فَشارِبونَ عَلَيهِ مِنَ الحَميمِ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-shāribūna ʿalayhi mina l-ḥamīmi\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and drink boiling water on top of it,");
+            ayat.add("55\n" +
+                    "فَشارِبونَ شُربَ الهيمِ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-shāribūna shurba l-hīmi\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "drinking like thirsty camels.’");
+            ayat.add("56\n" +
+                    "هٰذا نُزُلُهُم يَومَ الدّينِ\n" +
+                    "TRANSLITERATION\n" +
+                    "hādhā nuzuluhum yawma d-dīni\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Such will be the hospitality they receive\n" +
+                    "on the Day of Retribution.");
+            ayat.add("57\n" +
+                    "نَحنُ خَلَقناكُم فَلَولا تُصَدِّقونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "naḥnu khalaqnākum fa-law-lā tuṣaddiqūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "We created you.\n" +
+                    "Then why do you not acknowledge it?");
+            ayat.add("58\n" +
+                    "أَفَرَأَيتُم ما تُمنونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾa-fa-raʾaytum mā tumnūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Have you considered the sperm that you emit?");
+            ayat.add("59\n" +
+                    "أَأَنتُم تَخلُقونَهُ أَم نَحنُ الخالِقونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾa-ʾantum takhluqūnahū ʾam naḥnu l-khāliqūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Is it you who create it,\n" +
+                    "or are We the creator?");
+            ayat.add("60\n" +
+                    "نَحنُ قَدَّرنا بَينَكُمُ المَوتَ وَما نَحنُ بِمَسبوقينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "naḥnu qaddarnā baynakumu l-mawta wa-mā naḥnu bi-masbūqīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "We have ordained death among you,\n" +
+                    "and We are not to be outmaneuvered");
+            ayat.add("61\n" +
+                    "عَلىٰ أَن نُبَدِّلَ أَمثالَكُم وَنُنشِئَكُم في ما لا تَعلَمونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʿalā ʾan nubaddila ʾamthālakum wa-nunshiʾakum fī mā lā taʿlamūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "from replacing you with your likes\n" +
+                    "and recreating you\n" +
+                    "in [a realm] you do not know.");
+            ayat.add("62\n" +
+                    "وَلَقَد عَلِمتُمُ النَّشأَةَ الأولىٰ فَلَولا تَذَكَّرونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-la-qad ʿalimtumu n-nashʾata l-ʾūlā fa-law-lā tadhakkarūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Certainly you have known the first genesis,\n" +
+                    "then why do you not take admonition?");
+            ayat.add("63\n" +
+                    "أَفَرَأَيتُم ما تَحرُثونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾa-fa-raʾaytum mā taḥruthūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Have you considered what you sow?");
+            ayat.add("64\n" +
+                    "أَأَنتُم تَزرَعونَهُ أَم نَحنُ الزّارِعونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾa-ʾantum tazraʿūnahū ʾam naḥnu z-zāriʿūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Is it you who make it grow,\n" +
+                    "or are We the grower?");
+            ayat.add("65\n" +
+                    "لَو نَشاءُ لَجَعَلناهُ حُطامًا فَظَلتُم تَفَكَّهونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "law nashāʾu la-jaʿalnāhu ḥuṭāman fa-ẓaltum tafakkahūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "If We wish, We surely turn it into chaff,\n" +
+                    "whereat you are left stunned1 [saying to yourselves,]");
+            ayat.add("66\n" +
+                    "إِنّا لَمُغرَمونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinnā la-mughramūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "‘Indeed we have suffered loss!");
+            ayat.add("67\n" +
+                    "بَل نَحنُ مَحرومونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "bal naḥnu maḥrūmūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Rather we are deprived!’");
+            ayat.add("68\n" +
+                    "أَفَرَأَيتُمُ الماءَ الَّذي تَشرَبونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾa-fa-raʾaytumu l-māʾa lladhī tashrabūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Have you considered the water that you drink?");
+            ayat.add("69\n" +
+                    "أَأَنتُم أَنزَلتُموهُ مِنَ المُزنِ أَم نَحنُ المُنزِلونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾa-ʾantum ʾanzaltumūhu mina l-muzni ʾam naḥnu l-munzilūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Is it you who bring it down from the rain cloud,\n" +
+                    "or is it We who bring [it] down?");
+            ayat.add("70\n" +
+                    "لَو نَشاءُ جَعَلناهُ أُجاجًا فَلَولا تَشكُرونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "law nashāʾu jaʿalnāhu ʾujājan fa-law-lā tashkurūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "If We wish We can make it bitter.\n" +
+                    "Then why do you not give thanks?");
+            ayat.add("71\n" +
+                    "أَفَرَأَيتُمُ النّارَ الَّتي تورونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾa-fa-raʾaytumu n-nāra llatī tūrūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Have you considered the fire that you kindle?");
+            ayat.add("72\n" +
+                    "أَأَنتُم أَنشَأتُم شَجَرَتَها أَم نَحنُ المُنشِئونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾa-ʾantum ʾanshaʾtum shajaratahā ʾam naḥnu l-munshiʾūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Was it you who caused its tree to grow,\n" +
+                    "or were We the grower?");
+            ayat.add("73\n" +
+                    "نَحنُ جَعَلناها تَذكِرَةً وَمَتاعًا لِلمُقوينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "naḥnu jaʿalnāhā tadhkiratan wa-matāʿan li-l-muqwīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "It was We who made it a reminder\n" +
+                    "and a boon for the desert-dwellers.");
+            ayat.add("74\n" +
+                    "فَسَبِّح بِاسمِ رَبِّكَ العَظيمِ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-sabbiḥ bi-smi rabbika l-ʿaẓīmi\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "So celebrate the Name of your Lord, the All-supreme.");
+            ayat.add("75\n" +
+                    "۞ فَلا أُقسِمُ بِمَواقِعِ النُّجومِ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-lā ʾuqsimu bi-mawāqiʿi n-nujūmi\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "So I swear\n" +
+                    "by the places where the stars set!");
+            ayat.add("76\n" +
+                    "وَإِنَّهُ لَقَسَمٌ لَو تَعلَمونَ عَظيمٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾinnahū la-qasamun law taʿlamūna ʿaẓīmun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "And indeed it is a great oath, should you know.");
+            ayat.add("77\n" +
+                    "إِنَّهُ لَقُرآنٌ كَريمٌ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinnahū la-qurʾānun karīmun\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "This is indeed a noble Qurʾān,");
+            ayat.add("78\n" +
+                    "في كِتابٍ مَكنونٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "fī kitābin maknūnin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "in a guarded Book,");
+            ayat.add("79\n" +
+                    "لا يَمَسُّهُ إِلَّا المُطَهَّرونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "lā yamassuhū ʾillā l-muṭahharūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "no one touches it except the pure ones");
+            ayat.add("80\n" +
+                    "تَنزيلٌ مِن رَبِّ العالَمينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "tanzīlun min rabbi l-ʿālamīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "gradually sent down from the Lord of all the worlds.");
+            ayat.add("81\n" +
+                    "أَفَبِهٰذَا الحَديثِ أَنتُم مُدهِنونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾa-fa-bi-hādhā l-ḥadīthi ʾantum mudhinūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "What! Do you take lightly this discourse?");
+            ayat.add("82\n" +
+                    "وَتَجعَلونَ رِزقَكُم أَنَّكُم تُكَذِّبونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-tajʿalūna rizqakum ʾannakum tukadhdhibūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "And make your denial of it your vocation?");
+            ayat.add("83\n" +
+                    "فَلَولا إِذا بَلَغَتِ الحُلقومَ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-law-lā ʾidhā balaghati l-ḥulqūma\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "So when it1 reaches the throat [of the dying person]");
+            ayat.add("84\n" +
+                    "وَأَنتُم حينَئِذٍ تَنظُرونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾantum ḥīnaʾidhin tanẓurūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and at that moment you are looking on");
+            ayat.add("85\n" +
+                    "وَنَحنُ أَقرَبُ إِلَيهِ مِنكُم وَلٰكِن لا تُبصِرونَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-naḥnu ʾaqrabu ʾilayhi minkum wa-lākin lā tubṣirūna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and We are nearer to him1 than you are,\n" +
+                    "though you do not perceive");
+            ayat.add("86\n" +
+                    "فَلَولا إِن كُنتُم غَيرَ مَدينينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-law-lā ʾin kuntum ghayra madīnīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "then why do you not, if you are not subject");
+            ayat.add("87\n" +
+                    "تَرجِعونَها إِن كُنتُم صادِقينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "tarjiʿūnahā ʾin kuntum ṣādiqīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "[to the Divine dispensation], restore it,\n" +
+                    "should you be truthful?");
+            ayat.add("88\n" +
+                    "فَأَمّا إِن كانَ مِنَ المُقَرَّبينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-ʾammā ʾin kāna mina l-muqarrabīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Then, if he be of those brought near,");
+            ayat.add("89\n" +
+                    "فَرَوحٌ وَرَيحانٌ وَجَنَّتُ نَعيمٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-rawḥun wa-rayḥānun wa-jannatu naʿīmin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "then ease, abundance, and a garden of bliss.");
+            ayat.add("90\n" +
+                    "وَأَمّا إِن كانَ مِن أَصحابِ اليَمينِ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾammā ʾin kāna min ʾaṣḥābi l-yamīni\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "And if he be of the People of the Right Hand,");
+            ayat.add("91\n" +
+                    "فَسَلامٌ لَكَ مِن أَصحابِ اليَمينِ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-salāmun laka min ʾaṣḥābi l-yamīni\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "then ‘Peace be on you,’\n" +
+                    "[a greeting] from the People of the Right Hand!");
+            ayat.add("92\n" +
+                    "وَأَمّا إِن كانَ مِنَ المُكَذِّبينَ الضّالّينَ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-ʾammā ʾin kāna mina l-mukadhdhibīna ḍ-ḍāllīna\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "But if he be of the impugners,\n" +
+                    "the astray ones,");
+            ayat.add("93\n" +
+                    "فَنُزُلٌ مِن حَميمٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-nuzulun min ḥamīmin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "then a treat of boiling water");
+            ayat.add("94\n" +
+                    "وَتَصلِيَةُ جَحيمٍ\n" +
+                    "TRANSLITERATION\n" +
+                    "wa-taṣliyatu jaḥīmin\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "and entry into hell.");
+            ayat.add("95\n" +
+                    "إِنَّ هٰذا لَهُوَ حَقُّ اليَقينِ\n" +
+                    "TRANSLITERATION\n" +
+                    "ʾinna hādhā la-huwa ḥaqqu l-yaqīni\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "Indeed this is certain truth.");
+            ayat.add("96\n" +
+                    "فَسَبِّح بِاسمِ رَبِّكَ العَظيمِ\n" +
+                    "TRANSLITERATION\n" +
+                    "fa-sabbiḥ bi-smi rabbika l-ʿaẓīmi\n" +
+                    "\n" +
+                    "TRANSLATION\n" +
+                    "So celebrate the Name of your Lord, the All-supreme!");
         }
         else if (surahName.equals("57. Al-Hadeed"))
         {
