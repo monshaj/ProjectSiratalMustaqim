@@ -15957,6 +15957,7 @@ public class Ayat extends AppCompatActivity implements View.OnClickListener {
         }
         else if (surahName.equals("102. At-Takathur"))
         {
+            mediaPlayer = MediaPlayer.create(this, R.raw.a );
             setTitle("At-Takathur(التكاثر) : Rivalry");
             ayat.add("بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيمِ\n\n" +
                     "TRANSLITERATION :\n" +
@@ -16063,6 +16064,7 @@ public class Ayat extends AppCompatActivity implements View.OnClickListener {
         }
         else if (surahName.equals("104. Al-Humazah"))
         {
+            mediaPlayer = MediaPlayer.create(this, R.raw.a );
             setTitle("Al-Humazah(الهمزة) : The Scandal-Monger");
             ayat.add("بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيمِ\n\n" +
                     "TRANSLITERATION :\n" +
@@ -16137,6 +16139,7 @@ public class Ayat extends AppCompatActivity implements View.OnClickListener {
         }
         else if (surahName.equals("105. Al-Feel"))
         {
+            mediaPlayer = MediaPlayer.create(this, R.raw.a );
             setTitle("Al-Feel(الفيل) : The Elephant");
             ayat.add("بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيمِ\n\n" +
                     "TRANSLITERATION :\n" +
@@ -16184,6 +16187,7 @@ public class Ayat extends AppCompatActivity implements View.OnClickListener {
         }
         else if (surahName.equals("106. Al-Quraish"))
         {
+            mediaPlayer = MediaPlayer.create(this, R.raw.a );
             setTitle("Al-Quraish(قريش) : Quraish");
             ayat.add("بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيمِ\n\n" +
                     "TRANSLITERATION :\n" +
@@ -16224,6 +16228,7 @@ public class Ayat extends AppCompatActivity implements View.OnClickListener {
         }
         else if (surahName.equals("107. Al-Maa`oun"))
         {
+            mediaPlayer = MediaPlayer.create(this, R.raw.a );
             setTitle("Al-Maa`oun(الماعون) : Aid");
             ayat.add("بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيمِ\n\n" +
                     "TRANSLITERATION :\n" +
@@ -16284,6 +16289,7 @@ public class Ayat extends AppCompatActivity implements View.OnClickListener {
         }
         else if (surahName.equals("108. Al-Kawthar"))
         {
+            mediaPlayer = MediaPlayer.create(this, R.raw.a );
             setTitle("Al-Kawthar(الكوثر) : Abundance");
             ayat.add("بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيمِ\n\n" +
                     "TRANSLITERATION :\n" +
@@ -16317,6 +16323,7 @@ public class Ayat extends AppCompatActivity implements View.OnClickListener {
         }
         else if (surahName.equals("109. Al-Kafiroon"))
         {
+            mediaPlayer = MediaPlayer.create(this, R.raw.a );
             setTitle("Al-Kafiroon(الكافرون) : The Faithless");
             ayat.add("بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيمِ\n\n" +
                     "TRANSLITERATION :\n" +
@@ -16370,6 +16377,7 @@ public class Ayat extends AppCompatActivity implements View.OnClickListener {
         }
         else if (surahName.equals("110. An-Nasr"))
         {
+            mediaPlayer = MediaPlayer.create(this, R.raw.a );
             setTitle("An-Nasr(النصر) : The Help");
             ayat.add("بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيمِ\n\n" +
                     "TRANSLITERATION :\n" +
@@ -16405,6 +16413,7 @@ public class Ayat extends AppCompatActivity implements View.OnClickListener {
         }
         else if (surahName.equals("111. Al-Masad"))
         {
+            mediaPlayer = MediaPlayer.create(this, R.raw.a );
             setTitle("Al-Masad(المسد) : Palm Fibre\n");
             ayat.add("بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيمِ\n\n" +
                     "TRANSLITERATION :\n" +
@@ -16452,6 +16461,7 @@ public class Ayat extends AppCompatActivity implements View.OnClickListener {
         }
         else if (surahName.equals("112. Al-Ikhlas"))
         {
+            mediaPlayer = MediaPlayer.create(this, R.raw.a );
             setTitle("Al-Ikhlas(الإخلاص) : Monotheism");
             ayat.add("بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيمِ\n\n" +
                     "TRANSLITERATION :\n" +
@@ -16491,6 +16501,7 @@ public class Ayat extends AppCompatActivity implements View.OnClickListener {
         }
         else if(surahName.equals("113. Al-Falaq"))
         {
+            mediaPlayer = MediaPlayer.create(this, R.raw.a );
             setTitle("Al-Falaq(الفلق) : The Daybreak");
             ayat.add("بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيمِ\n\n" +
                     "TRANSLITERATION :\n" +
@@ -16537,6 +16548,7 @@ public class Ayat extends AppCompatActivity implements View.OnClickListener {
         }
         else if(surahName.equals("114. An-Nas"))
         {
+            mediaPlayer = MediaPlayer.create(this, R.raw.a );
             setTitle("An-Nas(الناس) : Humans");
             ayat.add("بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيمِ\n\n" +
                     "TRANSLITERATION :\n" +

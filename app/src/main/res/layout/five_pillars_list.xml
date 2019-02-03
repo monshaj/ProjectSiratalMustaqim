@@ -9,14 +9,14 @@
         android:layout_height="wrap_content">
 
         <TextView
-            android:id="@+id/allahsNamesListId"
+            android:id="@+id/fivePillarsListId"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="#ffffff"
             android:textStyle="bold"
             android:padding="7dp"
             android:textSize="20dp"
-            android:text="Names"
+            android:text="Five Pillars of Islam"
             android:textIsSelectable="true"
             android:gravity="center"/>
 

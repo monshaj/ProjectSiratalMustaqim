@@ -39,7 +39,7 @@
         <item>33. Al-Ahzab</item>
         <item>34. Saba</item>
         <item>35. Fatir</item>
-        <item>36. Ya seen</item>
+        <item>36. Ya-seen</item>
         <item>37. As-Saffat</item>
         <item>38. Saad</item>
         <item>39. Az-Zumar</item>
@@ -521,5 +521,39 @@
         </item>
 
 
+    </string-array>
+
+    <string-array name="five_Pillars_of_Islam">
+        <item>1. Kalimah
+            <sub>\n\nThe term kalimah means a declaration of one’s faith; a testament to your belief that there is no God but Allah SWT and Prophet Muhammad (PBUH) is His Messenger - an intentional declaration that you are a Muslim and a true follower of Islam. This is the most important pillar as it is your initial submission to Islam. The kalimah is also the first act of submission carried out by reverts to Islam as a commitment and declaration of their faith. The declaration should be recited sincerely three times with full and pure intention.</sub>
+        </item>
+
+        <item>2. Salah
+            <sub>\n\nSalah means daily prayer, a Muslim’s day consists of five obligatory prayers per day. The five set prayers are Fajr, Dhuhr, Asr, Maghrib and Isha. The times for each prayer vary according to the lunar calendar as they range from sunrise to midnight.
+Prior to the act of salah, Muslims must perform wudhu (ablution) which is a washing ritual to ensure purity prior to standing before the Lord.
+\n\nThe adhaan (call to prayer) announces the set time for the prayers and is usually recited at Mosques, but can also be recited at home at the exact time prior to performing the daily prayer.
+\n\nThe adhaan is also recited to introduce Islam to newborn babies in their right ear at the time of birth (usually by the child’s father or grandfather). In the same manner, it is also recited at the time of death before commencing Salaatul Mayyit (Death Prayer) at the funeral of the deceased.
+\n\nWhilst salah is an act of worship to Allah SWT, it is not, in any way, shape or form, for anyone’s benefit other than oneself - salah is an important reminder, that there is no one greater than Allah SWT. During salah, the mind should be free from any other worldly thoughts.
+Many Muslims prefer to pray in congregation at their local Mosque which is a great way of demonstrating humanity and equality in Islam – in other words, we were all created by Allah SWT and we shall all return to Allah SWT</sub>
+        </item>
+        <item>3. Sawm
+	        <sub>\n\nThe term sawm means to fast, which is where the month of Ramadan comes in. Fasting during Ramadan entails discipline and abstaining from many things, such as food, drink (including water), medication, any acts of evil, any sexual activity, backbiting, harming oneself or others, smoking, intoxication, impure thoughts and so forth. The key objective of a fast is to instil purity of the mind, body and soul.
+\nThe fast begins just before sunrise and ends at sunset, so the length of the fast depends on which season it falls in. The morning meal, which is to be consumed before sunrise, is called suhoor and the evening meal, which is to be consumed at sunset, is called iftar. The fast is traditionally opened and closed with dates, which carry numerous health benefits.
+\n\nAs the Islamic Year is based on the lunar calendar, it rotates by around 11 days each year; the month of Ramadan is the ninth month of the Islamic calendar. It is an incredibly auspicious month in which the initial verses of the Holy Qur’an were bestowed upon Prophet Muhammad (PBUH) as a guidance for all mankind. This happened during the final ten nights of this month, which is one of the many reasons why Laylat-ul-Qadr (the Night of Power) holds so much significance.
+\nOne of the key principles of this month is to attain taqwa (closeness to Allah SWT) and to instil fear of Allah SWT. The month itself holds countless rewards for those who seek repentance, practice and give to charity.
+\nCertain individuals may be excused from fasting subject to their circumstances - such as those who are ill, expecting a child, are underage, and so on. There are also certain exclusions for those who are travelling during the fasting day, too. Some of these exclusions entail a forfeit by way of donation if the individual cannot make up the fast later. This is commonly known as fidya.
+\n\nRamadan is then concluded with the festival of Eid-ul-Fitr, which is a day many Muslims choose to spend with family and loved ones. The day begins with congregational prayers at the Mosque, prior to which, Zakat-ul-Fitr (fitrana) is offered to those in need. Following this, Muslims celebrate and rejoice with close ones, praying, eating and sharing gifts.</sub>
+        </item>
+        <item>4. Hajj
+	        <sub>\n\nThe pilgrimage of Hajj occurs annually and is a time where Muslims around the world circle the Holy Ka’aba in Mecca in congregation to worship Allah SWT. The pilgrimage is carried out in plain white, identical clothing, also known as the ihram. One significance of the ihram is to promote unity in Islam and remind us that no matter what ethnicity, age, status or race, we are all equal in the eyes of Allah SWT.
+\nHajj takes place during the twelfth month of the Islamic calendar, in Dhul-Hijjah, and is a journey that every able Muslim should aim to take at least once in their lifetime.
+\n\nHajj is followed by the festival of Eid-ul-Adha, which is where the time of Qurbani (festival of sacrifice) comes in. The pilgrimage of Hajj has no direct link with Qurbani as the time of Qurbani relates back to the sacrifice that Prophet Ibrahim was prepared to make in devotion to Allah SWT.</sub>
+        </item>
+        <item>5. Zakat
+	        <sub>\n\nThe term zakat means charity. In Islam, it is believed that Allah SWT has intentionally created different levels of wealth for each individual to test humanity and generosity amongst believers. A Muslim must share his or her wealth to those less fortunate by contributing 2.5% of their profitable wealth (gold, silver and cash) to charity each and every year.
+\nIt is important to acknowledge that nothing we acquire in this world is truly ours as nothing that we have will be buried with us, nor will it be used in our Hereafter. Therefore, it is our good deeds and those who we helped with our world-given wealth that will help us in seeking Jannah (Heaven) in our Hereafter.
+\n\nWhat we have in this world is just material objects – possessions which we can use to help others in order to enhance our journey to Heaven instead of holding on with greed – a worldly test.
+\n\nIn addition to zakat, it is also good to give to those in need whenever we can. Whether it is to help those overcoming worldly conflicts and emergencies or those suffering from poverty and hunger, each and every act of giving is greatly rewarded in Islam – be it in our today or in our Hereafter.</sub>
+        </item>
     </string-array>
 </resources>

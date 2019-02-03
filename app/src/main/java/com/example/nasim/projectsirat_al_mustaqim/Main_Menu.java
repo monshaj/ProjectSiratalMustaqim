@@ -14,7 +14,7 @@ import android.widget.Button;
 import java.util.Calendar;
 
 public class Main_Menu extends AppCompatActivity {
-    Button btnnames, btnmosques, btnzakat, btntasbih, btnadhan, btnsurah;
+    Button btnnames, btnmosques, btnzakat, btntasbih, btnislam, btnsurah;
     int count = 0;
 
 
@@ -27,7 +27,7 @@ public class Main_Menu extends AppCompatActivity {
         btnmosques = findViewById(R.id.btnmosques);
         btnzakat = findViewById(R.id.btnzakat);
         btntasbih = findViewById(R.id.btntasbih);
-        btnadhan = findViewById(R.id.btnadhan);
+        btnislam = findViewById(R.id.btnislam);
         btnsurah = findViewById(R.id.btnsurah);
 
 
@@ -60,6 +60,12 @@ public class Main_Menu extends AppCompatActivity {
                 startActivity(new Intent(Main_Menu.this,tasbih.class));
             }
         });
+        btnislam.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(Main_Menu.this,Five_Pillars_of_Islam.class));
+            }
+        });
 
 
 
@@ -88,11 +94,11 @@ public class Main_Menu extends AppCompatActivity {
         c5.set(c5.get(Calendar.YEAR), c5.get(Calendar.MONTH), c5.get(Calendar.DAY_OF_MONTH), 17, 30, 0);
         c6.set(c6.get(Calendar.YEAR), c6.get(Calendar.MONTH), c6.get(Calendar.DAY_OF_MONTH), 19, 10, 0);
         setAlarm(c1.getTimeInMillis(), "Tahajjud");
-        setAlarm(c2.getTimeInMillis(), "Fojor");
-        setAlarm(c3.getTimeInMillis(), "Juhur");
-        setAlarm(c4.getTimeInMillis(), "Asor");
-        setAlarm(c5.getTimeInMillis(), "Magrib");
-        setAlarm(c6.getTimeInMillis(), "Esha");
+        setAlarm(c2.getTimeInMillis(), "Fajr");
+        setAlarm(c3.getTimeInMillis(), "Dhuhr");
+        setAlarm(c4.getTimeInMillis(), "Asr");
+        setAlarm(c5.getTimeInMillis(), "Maghrib");
+        setAlarm(c6.getTimeInMillis(), "Isha");
     }
 
     private void setAlarm(long timeInMillis, String namaj) {

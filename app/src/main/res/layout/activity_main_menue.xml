@@ -187,9 +187,8 @@
                 <Button
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:id="@+id/btnadhan"
-                    android:background="@drawable/adhan"
-                    />
+                    android:id="@+id/btnislam"
+                    android:background="@drawable/adhan"/>
             </android.support.v7.widget.CardView>
             <TextView
                 android:layout_width="match_parent"
