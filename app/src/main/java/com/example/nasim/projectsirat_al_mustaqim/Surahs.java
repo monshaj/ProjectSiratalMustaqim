@@ -14,7 +14,7 @@ import android.widget.SearchView;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Surahs extends AppCompatActivity {
+public class    Surahs extends AppCompatActivity {
     ListView surahListView;
     ArrayList<String> surahs;
     SearchView searchView;
@@ -173,7 +173,8 @@ public class Surahs extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                 String surahName = "";
-
+                String retrieveSurah = surahs.get(i).toString();
+//
 //                if(i == 0)
 //                {
 //                    surahName = "1. Al_Fatihah";
@@ -408,233 +409,242 @@ public class Surahs extends AppCompatActivity {
 //
 //                else if(i == 113) { surahName = "114. An_Nas "; }
 
-                if(i == 0) { surahName = "1. Al-Fatihah"; }
+                if(retrieveSurah.equals("1. Al-Fatihah"))
+                {
+                    surahName = "1. Al-Fatihah";
+                }
+                else if(retrieveSurah.equals("2. Al-Baqarah"))
+                {
+                    surahName = "2. Al_Baqarah";
+                }
 
-                else if(i == 1) { surahName = "2. Al-Baqarah"; }
 
-                else if(i == 2) { surahName = "3. Al-Imran"; }
+                else if(retrieveSurah.equals("3. Al-Imran")) { surahName = "3. Al_Imran"; }
 
-                else if(i == 3) { surahName = "4. An-Nisa"; }
+                else if(retrieveSurah.equals("4. An-Nisa")) { surahName = "4. An_Nisa"; }
 
-                else if(i == 4) { surahName = "5. Al-Ma`idah"; }
+                else if(retrieveSurah.equals("5. Al-Ma`idah")) { surahName = "5. Al_Ma`idah"; }
 
-                else if(i == 5) { surahName = "6. Al-An`am"; }
+                else if(retrieveSurah.equals("6. Al-An`am")) { surahName = "6. Al_An`am"; }
 
-                else if(i == 6) { surahName = "7. Al-A`raf"; }
+                else if(retrieveSurah.equals("7. Al-A`raf")) { surahName = "7. Al_A`raf"; }
 
-                else if(i == 7) { surahName = "8. Al-Anfal"; }
+                else if(retrieveSurah.equals("8. Al-Anfal")) { surahName = "8. Al_Anfal"; }
 
-                else if(i == 8) { surahName = "9. At-Tawbah"; }
+                else if(retrieveSurah.equals("9. At-Tawbah")) { surahName = "9. At_Tawbah"; }
 
-                else if(i == 9) { surahName = "10. Yunus"; }
+                else if(retrieveSurah.equals("10. Yunus")) { surahName = "10. Yunus"; }
 
-                else if(i == 10) { surahName = "11. Hud"; }
+                else if(retrieveSurah.equals("11. Hud")) { surahName = "11. Hud"; }
 
-                else if(i == 11) { surahName = "12. Yusuf"; }
+                else if(retrieveSurah.equals("12. Yusuf")) { surahName = "12. Yusuf"; }
 
-                else if(i == 12) { surahName = "13. Ar-Ra`d"; }
+                else if(retrieveSurah.equals("13. Ar-Ra`d")) { surahName = "13. Ar_Ra`d"; }
 
-                else if(i == 13) { surahName = "14. Ibraheem"; }
+                else if(retrieveSurah.equals("14. Ibraheem")) { surahName = "14. Ibraheem"; }
 
-                else if(i == 14) { surahName = "15. Al-Hijr"; }
+                else if(retrieveSurah.equals("15. Al-Hijr")) { surahName = "15. Al_Hijr"; }
 
-                else if(i == 15) { surahName = "16. An-Nahl"; }
+                else if(retrieveSurah.equals("16. An-Nahl")) { surahName = "16. An_Nahl"; }
 
-                else if(i == 16) { surahName = "17. Al-Isra"; }
+                else if(retrieveSurah.equals("17. Al-Isra")) { surahName = "17. Al_Isra"; }
 
-                else if(i == 17) { surahName = "18. Al-Kahf"; }
+                else if(retrieveSurah.equals("18. Al-Kahf")) { surahName = "18. Al_Kahf"; }
 
-                else if(i == 18) { surahName = "19. Maryam"; }
+                else if(retrieveSurah.equals("19. Maryam")) { surahName = "19. Maryam"; }
 
-                else if(i == 19) { surahName = "20. Ta-Ha"; }
+                else if(retrieveSurah.equals("20. Ta-Ha")) { surahName = "20. Ta_Ha"; }
 
-                else if(i == 20) { surahName = "21. Al-Anbiya"; }
+                else if(retrieveSurah.equals("21. Al-Anbiya")) { surahName = "21. Al_Anbiya"; }
 
-                else if(i == 21) { surahName = "22. Al-Hajj"; }
+                else if(retrieveSurah.equals("22. Al-Hajj")) { surahName = "22. Al_Hajj"; }
 
-                else if(i == 22) { surahName = "23. Al-Mu`minoon"; }
+                else if(retrieveSurah.equals("23. Al-Mu`minoon")) { surahName = "23. Al_Mu`minoon"; }
 
-                else if(i == 23) { surahName = "24. An-Noor"; }
+                else if(retrieveSurah.equals("24. An-Noor")) { surahName = "24. An_Noor"; }
 
-                else if(i == 24) { surahName = "25. Al-Furqan"; }
+                else if(retrieveSurah.equals("25. Al-Furqan")) { surahName = "25. Al_Furqan"; }
 
-                else if(i == 25) { surahName = "26. Ash-Shu`ara"; }
+                else if(retrieveSurah.equals("26. Ash-Shu`ara")) { surahName = "26. Ash_Shu`ara"; }
 
-                else if(i == 26) { surahName = "27. An-Naml"; }
+                else if(retrieveSurah.equals("27. An-Naml")) { surahName = "27. An_Naml"; }
 
-                else if(i == 27) { surahName = "28. Al-Qasas"; }
+                else if(retrieveSurah.equals("28. Al-Qasas")) { surahName = "28. Al_Qasas"; }
 
-                else if(i == 28) { surahName = "29. Al-`Ankabut"; }
+                else if(retrieveSurah.equals("29. Al-`Ankabut")) { surahName = "29. Al_`Ankabut"; }
 
-                else if(i == 29) { surahName = "30. Ar-Rum"; }
+                else if(retrieveSurah.equals("30. Ar-Rum")) { surahName = "30. Ar_Rum"; }
 
-                else if(i == 30) { surahName = "31. Luqman"; }
+                else if(retrieveSurah.equals("31. Luqman")) { surahName = "31. Luqman"; }
 
-                else if(i == 31) { surahName = "32. As-Sajdah"; }
+                else if(retrieveSurah.equals("32. As-Sajdah")) { surahName = "32. As_Sajdah"; }
 
-                else if(i == 32) { surahName = "33. Al-Ahzab"; }
+                else if(retrieveSurah.equals("33. Al-Ahzab")) { surahName = "33. Al_Ahzab"; }
 
-                else if(i == 33) { surahName = "34. Saba"; }
+                else if(retrieveSurah.equals("34. Saba")) { surahName = "34. Saba"; }
 
-                else if(i == 34) { surahName = "35. Fatir"; }
+                else if(retrieveSurah.equals("35. Fatir")) { surahName = "35. Fatir"; }
 
-                else if(i == 35) { surahName = "36. Ya-seen"; }
+                else if(retrieveSurah.equals("36. Ya seen")) { surahName = "36. Ya seen"; }
 
-                else if(i == 36) { surahName = "37. As-Saffat"; }
+                else if(retrieveSurah.equals("37. As-Saffat")) { surahName = "37. As_Saffat"; }
 
-                else if(i == 37) { surahName = "38. Saad"; }
+                else if(retrieveSurah.equals("38. Saad")) { surahName = "38. Saad"; }
 
-                else if(i == 38) { surahName = "39. Az-Zumar"; }
+                else if(retrieveSurah.equals("39. Az-Zumar")) { surahName = "39. Az_Zumar"; }
 
-                else if(i == 39) { surahName = "40. Ghafir"; }
+                else if(retrieveSurah.equals("40. Ghafir")) { surahName = "40. Ghafir"; }
 
-                else if(i == 40) { surahName = "41. Fussilat"; }
+                else if(retrieveSurah.equals("41. Fussilat")) { surahName = "41. Fussilat"; }
 
-                else if(i == 41) { surahName = "42. Ash-Shura"; }
+                else if(retrieveSurah.equals("42. Ash-Shura")) { surahName = "42. Ash_Shura"; }
 
-                else if(i == 42) { surahName = "43. Az-Zukhruf"; }
+                else if(retrieveSurah.equals("43. Az-Zukhruf")) { surahName = "43. Az_Zukhruf"; }
 
-                else if(i == 43) { surahName = "44. Ad-Dukhan"; }
+                else if(retrieveSurah.equals("44. Ad-Dukhan")) { surahName = "44. Ad_Dukhan"; }
 
-                else if(i == 44) { surahName = "45. Al-Jathiyah"; }
+                else if(retrieveSurah.equals("45. Al-Jathiyah")) { surahName = "45. Al_Jathiyah"; }
 
-                else if(i == 45) { surahName = "46. Al-Ahqaf"; }
+                else if(retrieveSurah.equals("46. Al-Ahqaf")) { surahName = "46. Al_Ahqaf"; }
 
-                else if(i == 46) { surahName = "47. Muhammad"; }
+                else if(retrieveSurah.equals("47. Muhammad")) { surahName = "47. Muhammad"; }
 
-                else if(i == 47) { surahName = "48. Al-Fath"; }
+                else if(retrieveSurah.equals("48. Al-Fath")) { surahName = "48. Al_Fath"; }
 
-                else if(i == 48) { surahName = "49. Al-Hujurat"; }
+                else if(retrieveSurah.equals("49. Al-Hujurat")) { surahName = "49. Al_Hujurat"; }
 
-                else if(i == 49) { surahName = "50. Qaf"; }
+                else if(retrieveSurah.equals("50. Qaf")) { surahName = "50. Qaf"; }
 
-                else if(i == 50) { surahName = "51. Ad-Dhariyat"; }
+                else if(retrieveSurah.equals("51. Ad-Dhariyat")) { surahName = "51. Ad_Dhariyat"; }
 
-                else if(i == 51) { surahName = "52. At-Tur"; }
+                else if(retrieveSurah.equals("52. At-Tur")) { surahName = "52. At_Tur"; }
 
-                else if(i == 52) { surahName = "53. An-Najm"; }
+                else if(retrieveSurah.equals("53. An-Najm")) { surahName = "53. An_Najm"; }
 
-                else if(i == 53) { surahName = "54. Al-Qamar"; }
+                else if(retrieveSurah.equals("54. Al-Qamar")) { surahName = "54. Al_Qamar"; }
 
-                else if(i == 54) { surahName = "55. Ar-Rahman"; }
+                else if(retrieveSurah.equals("55. Ar-Rahman")) { surahName = "55. Ar_Rahman"; }
 
-                else if(i == 55) { surahName = "56. Al-Waqi`ah"; }
+                else if(retrieveSurah.equals("56. Al-Waqi`ah")) { surahName = "56. Al_Waqi`ah"; }
 
-                else if(i == 56) { surahName = "57. Al-Hadeed"; }
+                else if(retrieveSurah.equals("57. Al-Hadeed")) { surahName = "57. Al_Hadeed"; }
 
-                else if(i == 57) { surahName = "58. Al-Mujadilah"; }
+                else if(retrieveSurah.equals("58. Al-Mujadilah")) { surahName = "58. Al_Mujadilah"; }
 
-                else if(i == 58) { surahName = "59. Al-Hashr"; }
+                else if(retrieveSurah.equals("59. Al-Hashr")) { surahName = "59. Al_Hashr"; }
 
-                else if(i == 59) { surahName = "60. Al-Mumtahina"; }
+                else if(retrieveSurah.equals("60. Al-Mumtahina")) { surahName = "60. Al_Mumtahina"; }
 
-                else if(i == 60) { surahName = "61. As-Saff"; }
+                else if(retrieveSurah.equals("61. As-Saff")) { surahName = "61. As_Saff"; }
 
-                else if(i == 61) { surahName = "62. Al-Jumu`ah"; }
+                else if(retrieveSurah.equals("62. Al-Jumu`ah")) { surahName = "62. Al_Jumu`ah"; }
 
-                else if(i == 62) { surahName = "63. Al-Munafiqun"; }
+                else if(retrieveSurah.equals("63. Al-Munafiqun")) { surahName = "63. Al_Munafiqun"; }
 
-                else if(i == 63) { surahName = "64. At-Taghabun"; }
+                else if(retrieveSurah.equals("64. At-Taghabun")) { surahName = "64. At_Taghabun"; }
 
-                else if(i == 64) { surahName = "65. At-Talaq"; }
+                else if(retrieveSurah.equals("65. At-Talaq")) { surahName = "65. At_Talaq"; }
 
-                else if(i == 65) { surahName = "66. At-Tahreem"; }
+                else if(retrieveSurah.equals("66. At-Tahreem")) { surahName = "66. At_Tahreem"; }
 
-                else if(i == 66) { surahName = "67. Al-Mulk"; }
+                else if(retrieveSurah.equals("67. Al-Mulk")) { surahName = "67. Al_Mulk"; }
 
-                else if(i == 67) { surahName = "68. Al-Qalam"; }
+                else if(retrieveSurah.equals("68. Al-Qalam")) { surahName = "68. Al_Qalam"; }
 
-                else if(i == 68) { surahName = "69. Al-Haqqah"; }
+                else if(retrieveSurah.equals("69. Al-Haqqah")) { surahName = "69. Al_Haqqah"; }
 
-                else if(i == 69) { surahName = "70. Al-Ma`aarij"; }
+                else if(retrieveSurah.equals("70. Al-Ma`aarij")) { surahName = "70. Al_Ma`aarij"; }
 
-                else if(i == 70) { surahName = "71. Nuh"; }
+                //complete rest of them
+                else if(retrieveSurah.equals("71. Nuh")) { surahName = "71. Nuh"; }
 
-                else if(i == 71) { surahName = "72. Al-Jinn"; }
+                else if(i == 71) { surahName = "72. Al_Jinn"; }
 
-                else if(i == 72) { surahName = "73. Al-Muzzammil"; }
+                else if(i == 72) { surahName = "73. Al_Muzzammil"; }
 
-                else if(i == 73) { surahName = "74. Al-Muddathir"; }
+                else if(i == 73) { surahName = "74. Al_Muddathir"; }
 
-                else if(i == 74) { surahName = "75. Al-Qiyamah"; }
+                else if(i == 74) { surahName = "75. Al_Qiyamah"; }
 
-                else if(i == 75) { surahName = "76. Al-Insan"; }
+                else if(i == 75) { surahName = "76. Al_Insan"; }
 
-                else if(i == 76) { surahName = "77. Al-Mursalat"; }
+                else if(i == 76) { surahName = "77. Al_Mursalat"; }
 
-                else if(i == 77) { surahName = "78. An-Naba"; }
+                else if(i == 77) { surahName = "78. An_Naba"; }
 
-                else if(i == 78) { surahName = "79. An-Nazi`at"; }
+                else if(i == 78) { surahName = "79. An_Nazi`at"; }
 
                 else if(i == 79) { surahName = "80. `Abasa"; }
 
-                else if(i == 80) { surahName = "81. At-Takweer"; }
+                else if(i == 80) { surahName = "81. At_Takweer"; }
 
-                else if(i == 81) { surahName = "82. Al-Infitar"; }
+                else if(i == 81) { surahName = "82. Al_Infitar"; }
 
-                else if(i == 82) { surahName = "83. Al-Mutaffifeen"; }
+                else if(i == 82) { surahName = "83. Al_Mutaffifeen"; }
 
-                else if(i == 83) { surahName = "84. Al-Inshiqaq"; }
+                else if(i == 83) { surahName = "84. Al_Inshiqaq"; }
 
-                else if(i == 84) { surahName = "85. Al-Burooj"; }
+                else if(i == 84) { surahName = "85. Al_Burooj"; }
 
-                else if(i == 85) { surahName = "86. At-Tariq"; }
+                else if(i == 85) { surahName = "86. At_Tariq"; }
 
-                else if(i == 86) { surahName = "87. Al-A`la"; }
+                else if(i == 86) { surahName = "87. Al_A`la"; }
 
-                else if(i == 87) { surahName = "88. Al-Ghashiyah"; }
+                else if(i == 87) { surahName = "88. Al_Ghashiyah"; }
 
-                else if(i == 88) { surahName = "89. Al-Fajr"; }
+                else if(i == 88) { surahName = "89. Al_Fajr"; }
 
-                else if(i == 89) { surahName = "90. Al-Balad"; }
+                else if(i == 89) { surahName = "90. Al_Balad"; }
 
-                else if(i == 90) { surahName = "91. Ash-Shams"; }
+                else if(i == 90) { surahName = "91. Ash_Shams"; }
 
-                else if(i == 91) { surahName = "92. Al-Lail"; }
+                else if(i == 91) { surahName = "92. Al_Lail"; }
 
-                else if(i == 92) { surahName = "93. Ad-Dhuha"; }
+                else if(i == 92) { surahName = "93. Ad_Dhuha"; }
 
-                else if(i == 93) { surahName = "94. Al-Inshirah"; }
+                else if(i == 93) { surahName = "94. Al_Inshirah"; }
 
-                else if(i == 94) { surahName = "95. At-Teen"; }
+                else if(i == 94) { surahName = "95. At_Teen"; }
 
-                else if(i == 95) { surahName = "96. Al-`Alaq"; }
+                else if(i == 95) { surahName = "96. al_`Alaq"; }
 
-                else if(i == 96) { surahName = "97. Al-Qadr"; }
+                else if(i == 96) { surahName = "97. Al_Qadr"; }
 
-                else if(i == 97) { surahName = "98. Al-Bayyinah"; }
+                else if(i == 97) { surahName = "98. Al_Bayyinah"; }
 
-                else if(i == 98) { surahName = "99. Az-Zalzala"; }
+                else if(i == 98) { surahName = "99. Az_Zalzala"; }
 
-                else if(i == 99) { surahName = "100. Al-Adiyat"; }
+                else if(i == 99) { surahName = "100. Al_Adiyat"; }
 
-                else if(i == 100) { surahName = "101. Al-Qari`ah"; }
+                else if(i == 100) { surahName = "101. al_Qari`ah"; }
 
-                else if(i == 101) { surahName = "102. At-Takathur"; }
+                else if(i == 101) { surahName = "102. At_Takathur"; }
 
-                else if(i == 102) { surahName = "103. Al-Asr"; }
+                else if(i == 102) { surahName = "103. Al_Asr"; }
 
-                else if(i == 103) { surahName = "104. Al-Humazah"; }
+                else if(i == 103) { surahName = "104. Al_Humazah"; }
 
-                else if(i == 104) { surahName = "105. Al-Feel"; }
+                else if(i == 104) { surahName = "105. Al_Feel"; }
 
-                else if(i == 105) { surahName = "106. Al-Quraish"; }
+                else if(i == 105) { surahName = "106. Al_Quraish"; }
 
-                else if(i == 106) { surahName = "107. Al-Maa`oun"; }
+                else if(i == 106) { surahName = "107. Al_Maa`oun"; }
 
-                else if(i == 107) { surahName = "108. Al-Kawthar"; }
+                else if(i == 107) { surahName = "108. Al_Kawthar"; }
 
-                else if(i == 108) { surahName = "109. Al-Kafiroon"; }
+                else if(i == 108) { surahName = "109. Al_Kafiroun"; }
 
-                else if(i == 109) { surahName = "110. An-Nasr"; }
+                else if(i == 109) { surahName = "110. An_Nasr"; }
 
-                else if(i == 110) { surahName = "111. Al-Masad"; }
+                else if(i == 110) { surahName = "111. Al_Masad"; }
 
-                else if(i == 111) { surahName = "112. Al-Ikhlas"; }
+                else if(i == 111) { surahName = "112. Al_Ikhlas"; }
 
-                else if(i == 112) { surahName = "113. Al-Falaq"; }
+                else if(i == 112) { surahName = "113. Al_Falaq"; }
 
-                else if(i == 113) { surahName = "114. An-Nas"; }
+                else if(i == 113) { surahName = "114. An_Nas "; }
+
+
 
 
 

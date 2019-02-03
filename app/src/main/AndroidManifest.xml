@@ -11,6 +11,10 @@
         android:roundIcon="@drawable/siratallllt"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <receiver
+            android:name=".BroadcastClass"
+            android:enabled="true"
+            android:exported="true" />
         <activity android:name=".Home_Page">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

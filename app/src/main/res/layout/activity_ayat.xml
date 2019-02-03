@@ -1,22 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout
+<LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Ayat"
-    android:background="@drawable/ayat">
+    android:background="@drawable/ayat"
+    android:weightSum="10"
+    android:orientation="vertical">
 
 
     <ListView
         android:layout_below="@+id/text"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8.5"
         android:id="@+id/listview2"
         android:divider="@null">
 
     </ListView>
 
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.5">
+        <SeekBar
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:id="@+id/seekMusic"
+            android:progressDrawable="@drawable/progress"
+            android:thumb="@drawable/thumb"/>
 
-</RelativeLayout>
+        <Button
+            android:id="@+id/play"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/play" />
+
+    </RelativeLayout>
+
+
+</LinearLayout>

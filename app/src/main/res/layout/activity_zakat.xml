@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Zakat"
-    android:layout_margin="65dp"
+    android:layout_margin="35dp"
    >
 
 
@@ -27,12 +27,20 @@
         android:hint="Amount in Bori"
         android:layout_below="@id/gold"
         android:inputType="number"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/goldBoriPriceInput"
+        android:hint="Bori price"
+        android:layout_below="@id/goldInput"
+        android:inputType="number"/>
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Money"
         android:id="@+id/tk"
-        android:layout_below="@id/goldInput"
+        android:layout_below="@id/goldBoriPriceInput"
         android:textSize="25dp"
         android:textColor="#0b8f2c"
         android:textStyle="bold"
@@ -63,11 +71,23 @@
         android:hint="Amount in Bori"
         android:layout_below="@id/silver"
         android:inputType="number"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/silverBoriPriceInput"
+        android:hint="Bori price"
+        android:layout_below="@id/silverInput"
+        android:inputType="number"/>
+
+
+
+
+
 
     <com.spark.submitbutton.SubmitButton
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_below="@+id/silverInput"
+        android:layout_below="@+id/silverBoriPriceInput"
         android:layout_centerHorizontal="true"
         android:text="Submit"
         android:textColor="@color/gray"
@@ -79,14 +99,6 @@
         android:id="@+id/submit"
         android:textAllCaps="true"/>
 
-    <!--<Button-->
-        <!--android:id="@+id/submit"-->
-        <!--android:layout_width="wrap_content"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:layout_alignParentBottom="true"-->
-        <!--android:layout_centerHorizontal="true"-->
-        <!--android:layout_marginBottom="112dp"-->
-        <!--android:gravity="center"-->
-        <!--android:text="Submit" />-->
+
 
 </RelativeLayout>

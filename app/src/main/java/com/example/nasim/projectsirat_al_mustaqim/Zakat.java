@@ -2,6 +2,7 @@ package com.example.nasim.projectsirat_al_mustaqim;
 
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.os.Handler;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
@@ -10,11 +11,12 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.Toast;
 
 import com.spark.submitbutton.SubmitButton;
 
 public class Zakat extends AppCompatActivity {
-    EditText gold, money, silver;
+    EditText gold, money, silver, goldBori, silverBori;
     SubmitButton submit;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -25,6 +27,8 @@ public class Zakat extends AppCompatActivity {
         money = findViewById(R.id.tkInput);
         silver = findViewById(R.id.silverInput);
         submit = findViewById(R.id.submit);
+        goldBori = findViewById(R.id.goldBoriPriceInput);
+        silverBori = findViewById(R.id.silverBoriPriceInput);
 
         setTitle("Zakat");
 
@@ -34,61 +38,98 @@ public class Zakat extends AppCompatActivity {
             actionBar.setHomeButtonEnabled(true);
             actionBar.setDisplayHomeAsUpEnabled(true);
         }
+        final Handler handler = new Handler();
+
         submit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                String goldText = "0";
-                String moneyText = "0";
-                String silverText = "0";
-                if(!(gold.getText().toString().isEmpty()))
-                {
-                    goldText = gold.getText().toString();
-                }
-                if(!(money.getText().toString().isEmpty()))
-                {
-                    moneyText = money.getText().toString();
-                }
-                if(!(silver.getText().toString().isEmpty()))
-                {
-                    silverText = silver.getText().toString();
-                }
+                handler.postDelayed(new Runnable() {
+                    @Override
+                    public void run()
+                    {
+                        String goldText = "0";
+                        String moneyText = "0";
+                        String silverText = "0";
+                        String goldBoriText = "0";
+                        String silverBoriText = "0";
+                        if(!(gold.getText().toString().isEmpty()))
+                        {
+                            goldText = gold.getText().toString();
+                        }
+                        if(!(money.getText().toString().isEmpty()))
+                        {
+                            moneyText = money.getText().toString();
+                        }
+                        if(!(silver.getText().toString().isEmpty()))
+                        {
+                            silverText = silver.getText().toString();
+                        }
+                        if(!(goldBori.getText().toString().isEmpty()))
+                        {
+                            goldBoriText = goldBori.getText().toString();
+                        }
+                        if(!(silverBori.getText().toString().isEmpty()))
+                        {
+                            silverBoriText = silverBori.getText().toString();
+                        }
 
 
 
-                int total = 0;
-                int goldTK = 0;
-                int moneyTK = 0;
-                int silverTK = 0;
-                double finalAmount = 0.0;
+                        double total = 0.0;
+                        double goldTK = 0.0;
+                        double moneyTK = 0.0;
+                        double silverTK = 0.0;
+                        double finalAmount = 0.0;
 
-                //convert gold
-                if(!(goldText.equals(null)))
-                goldTK = Integer.parseInt(goldText)*37000;
+                        //convert gold
+                        if(!(goldText.equals(null)))
+                        {
+                            double moneyGold = Double.valueOf(goldBoriText);
+                            goldTK = Double.valueOf(goldText)*moneyGold;
+                        }
 
-                //convert money
-                if(!(moneyText.equals(null)))
-                moneyTK = Integer.parseInt(moneyText);
-                //convert silver
-                if(!(silverText.equals(null)))
-                silverTK = Integer.parseInt(silverText)*500;
 
-                total = goldTK+moneyTK+silverTK;
-                finalAmount = (total*2.5)/100;
+                        //convert money
+                        if(!(moneyText.equals(null)))
+                        {
+                            moneyTK = Double.valueOf(moneyText);
+                        }
 
-                AlertDialog.Builder builder1 = new AlertDialog.Builder(Zakat.this, R.style.AlertDialogStyle);
-                builder1.setMessage("Total Zakat "+finalAmount+" Tk");
-                builder1.setCancelable(true);
+                        //convert silver
+                        if(!(silverText.equals(null)))
+                        {
+                            double silverMoney = Double.valueOf(silverBoriText);
+                            silverTK = Double.valueOf(silverText)*silverMoney;
+                        }
 
-                builder1.setPositiveButton(
-                        "Okay",
-                        new DialogInterface.OnClickListener() {
-                            public void onClick(DialogInterface dialog, int id) {
-                                dialog.cancel();
-                            }
-                        });
+                        if((silverBori.getText().toString().isEmpty()) || (goldBori.getText().toString().isEmpty()))
+                        {
+                            Toast.makeText(Zakat.this, "Please insert the amount of bori", Toast.LENGTH_SHORT).show();
+                        }
+                        else
+                        {
+                            total = goldTK+moneyTK+silverTK;
+                            finalAmount = (total*2.5)/100;
 
-                AlertDialog alert11 = builder1.create();
-                alert11.show();
+                            AlertDialog.Builder builder1 = new AlertDialog.Builder(Zakat.this, R.style.AlertDialogStyle);
+                            builder1.setMessage("Total Zakat "+finalAmount+" Tk");
+                            builder1.setCancelable(true);
+
+                            builder1.setPositiveButton(
+                                    "Okay",
+                                    new DialogInterface.OnClickListener() {
+                                        public void onClick(DialogInterface dialog, int id) {
+                                            dialog.cancel();
+                                        }
+                                    });
+
+                            AlertDialog alert11 = builder1.create();
+                            alert11.show();
+                        }
+
+                    }
+                }, 2800);
+
             }
         });
     }
