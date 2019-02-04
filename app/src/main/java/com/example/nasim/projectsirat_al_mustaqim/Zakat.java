@@ -128,7 +128,7 @@ public class Zakat extends AppCompatActivity {
                         }
 
                     }
-                }, 2800);
+                }, 3000);
 
             }
         });

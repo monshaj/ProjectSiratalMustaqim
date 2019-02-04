@@ -66,12 +66,17 @@ public class Main_Menu extends AppCompatActivity {
                 startActivity(new Intent(Main_Menu.this,Five_Pillars_of_Islam.class));
             }
         });
+        btnmosques.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(Main_Menu.this,Nearby_Mosque.class));
+            }
+        });
 
 
 
     }
 
-    //For coming back to Home
     @Override
     public void onBackPressed() {
         Intent intent = new Intent(Intent.ACTION_MAIN);

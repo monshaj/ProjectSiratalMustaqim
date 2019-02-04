@@ -24,12 +24,17 @@
             </intent-filter>
         </activity>
         <activity android:name=".Main_Menu" />
-        <activity android:name=".Surahs" />
+        <activity android:name=".Surahs"
+            android:label="Surahs">
+        </activity>
         <activity android:name=".Names_of_Allah" />
         <activity android:name=".Ayat" />
         <activity android:name=".Zakat" />
         <activity android:name=".tasbih" />
-        <activity android:name=".Five_Pillars_of_Islam"></activity>
+        <activity
+            android:name=".Five_Pillars_of_Islam"
+            />
+        <activity android:name=".Nearby_Mosque"></activity>
     </application>
 
 </manifest>

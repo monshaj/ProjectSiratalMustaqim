@@ -524,8 +524,10 @@
     </string-array>
 
     <string-array name="five_Pillars_of_Islam">
-        <item>1. Kalimah
-            <sub>\n\nThe term kalimah means a declaration of one’s faith; a testament to your belief that there is no God but Allah SWT and Prophet Muhammad (PBUH) is His Messenger - an intentional declaration that you are a Muslim and a true follower of Islam. This is the most important pillar as it is your initial submission to Islam. The kalimah is also the first act of submission carried out by reverts to Islam as a commitment and declaration of their faith. The declaration should be recited sincerely three times with full and pure intention.</sub>
+        <item>1. Shahada
+            <sub>\n\nلا إله إلا الله محمد رسول الله \nLa ilaha illallah Muhammadur Rasulullah \nThere is no god but Allah, and Muhammad is the messenger of Allah.
+\n\nThe term shahada means a declaration of one’s faith; a testament to your belief that there is no God but Allah SWT and Prophet Muhammad (PBUH) is His Messenger - an intentional declaration that you are a Muslim and a true follower of Islam. This is the most important pillar as it is your initial submission to Islam. The shahada is also the first act of submission carried out by reverts to Islam as a commitment and declaration of their faith. The declaration should be recited sincerely three times with full and pure intention.</sub>
+
         </item>
 
         <item>2. Salah
@@ -556,4 +558,6 @@ Many Muslims prefer to pray in congregation at their local Mosque which is a gre
 \n\nIn addition to zakat, it is also good to give to those in need whenever we can. Whether it is to help those overcoming worldly conflicts and emergencies or those suffering from poverty and hunger, each and every act of giving is greatly rewarded in Islam – be it in our today or in our Hereafter.</sub>
         </item>
     </string-array>
+
+    <string name="about_link"><a href='https://www.google.com/maps/dir//shahjalal+dargah+google+map/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x37505528cd70ca2f:0x9eb2841db52a65c0?ved=2ahUKEwjQ1Pq8zaLgAhVWXSsKHaa8DEIQ9RcwD3oECAUQDQ'></a></string>
 </resources>
